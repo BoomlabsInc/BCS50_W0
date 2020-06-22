@@ -1,0 +1,21 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "pws:marker",
+			"min_engine_version": "1.8.0",
+			"materials": {
+				"default": "entity"
+			},
+			"textures": {
+				"default": "textures/entity/marker"
+			},
+			"geometry": {
+				"default": "geometry.marker"
+			},
+			"render_controllers": [
+				"controller.render.marker"
+			]
+		}
+	}
+}

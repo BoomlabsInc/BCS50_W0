@@ -1,0 +1,189 @@
+﻿pack.name=Tài nguyên Giờ Lập trình	#
+pack.description=Tài nguyên cần có cho Giờ Lập trình	#
+
+item.spawn_egg.entity.pws:npc_2.name=Sản sinh NPC 2	#
+entity.pws:npc_2.name=NPC 2	#
+
+item.spawn_egg.entity.pws:npc_2_firefighter.name=Sản sinh NPC 2 Lính Cứu hỏa	#
+entity.pws:npc_2_firefighter.name=NPC 2 Lính Cứu hỏa	#
+
+objective=§l§6- Nhiệm vụ Hiện tại -§r	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+try.again.title=§6Hãy thử lại§r	#
+try.again.subtitle=Hãy thử lại nhiệm vụ của bạn một lần nữa.	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+quest.end.title=§6Nhiệm vụ Hoàn thành!§r	#
+npc.skip.name=§6Robot Trợ giúp§r	#
+
+no_button.title=§r	#
+no_button.subtitle=Please try the quest first.	#
+
+take.picture=Take a picture	#
+
+press_c=§eNhấn "C" để lập trình.§r	#
+
+quest.1.end.subtitle=Chúc mừng! Bạn đã làm được rồi!	###subtitles appear on the screen as a success message after the quest has been completed
+quest.2.end.subtitle=Chúc mừng! Bạn đã làm được rồi!	#
+quest.3.end.subtitle=Chúc mừng! Bạn đã làm được rồi!	#
+quest.4.end.subtitle=Chúc mừng! Bạn đã làm được rồi!	#
+quest.5.end.subtitle=Chúc mừng! Bạn đã làm được rồi!	#
+quest.6.end.subtitle=Chúc mừng! Bạn đã làm được rồi!	#
+quest.7.end.subtitle=Chúc mừng! Bạn đã làm được rồi!	#
+quest.8.0.end.subtitle=Chúc mừng! Bạn đã làm được rồi!	#
+quest.8.end.subtitle=Chúc mừng! Bạn đã làm được rồi!	#
+quest.9.end.subtitle=Chúc mừng! Bạn đã làm được rồi!	#
+quest.10.end.subtitle=Chúc mừng! Bạn đã làm được rồi!	#
+quest.11.end.subtitle=Chúc mừng! Bạn đã làm được rồi!	#
+quest.12.end.subtitle=Chúc mừng! Bạn đã làm được rồi!	#
+
+
+900020=§fNói chuyện với Nhà nghiên cứu.	###This section includes the titles of quests, which will remain onscreen until the player completes the quest. 
+900030=§fNói chuyện với Kỹ sư.	#
+900040=§fNói chuyện với Nhà nghiên cứu.	#
+900050=§fTìm và nói chuyện với Kỹ thuật viên trên đỉnh tháp.	#
+900060=§fTìm và nói chuyện với vị Trưởng phòng Nghiên cứu.	#
+900070=§fNói chuyện với Chuyên gia AI. §c0§f/§e4	#
+900071=§fNói chuyện với Nhà khoa học. §c1§f/§e4	#
+900072=§fNói chuyện với Nhà phân tích. §c2§f/§e4	#
+900073=§Tìm máy bay trực thăng và nói chuyện với Cơ trưởng lửa.§c3§f/§e4	#
+900080=§fNói chuyện với Cơ trưởng Hỏa hoạn.	#
+900090=§fDự đoán một nguy cơ hỏa hoạn tiềm ẩn.	#
+900100=§fLên máy bay trực thăng.	#
+900110=§fNói chuyện với Lính cứu hỏa.	#
+900120=§fDọn dẹp số bàn chải khô còn lại.	#
+900130=§fGiúp khôi phục ngôi làng.	#
+
+welcome.board.title.1=FIRE	#
+welcome.board.title.2=RESEARCH	#
+welcome.board.title.3=CENTER	#
+
+quest.5.easy= Lộ trình Ngắn	### button name, student selects either the short or long version of a maze path to solve
+quest.5.hard= Lộ trình Dài	#
+
+quest.7.yes=Có	#
+quest.7.no=Không	#
+quest.7.hazard=Nguy cơ hỏa hoạn	#
+
+quest.10.yes=Đi nào!	#
+
+quest.13.done=Tôi xong rồi!	#
+
+ladder.up.1=§r	#
+ladder.up.2=Press "w" to	#
+ladder.up.3=climb a ladder.	#
+ladder.up.4=§r	#
+edge.1=Walk up to	#
+edge.2=the ledge.	#
+edge.3=Don't worry,	#
+edge.4=you won't fall!	#
+ladder.down.1=Fire Research	#
+ladder.down.2=Center	#
+ladder.down.3=|	#
+ladder.down.4=V	#
+to.center.1=Fire Research	#
+to.center.2=Center	#
+to.center.3=This way	#
+to.center.4=----->	#
+center.1=§r	#
+center.2=Fire Research	#
+center.3=Center	#
+center.4=§r	#
+to.helipad.1=Helipad	#
+to.helipad.2=This way	#
+to.helipad.3=<-----	#
+to.helipad.4=§r	#
+
+bot.button.skip=Bỏ qua Nhiệm vụ	#
+bot.button.reset=Khởi tạo lại Nhiệm vụ	#
+
+skip.title=§9Đã Bỏ qua Nhiệm vụ	#
+skip.subtitle=Bạn đã yêu cầu sự trợ giúp Bỏ qua nhiệm vụ!	#
+
+complete.lesson.title=§9Hành trình Hoàn thành!	#
+
+bot.name=Rô-bốt Trợ giúp	### This is the name of an NPC robot that provides the player with help in completing coding quests. "Bot" refers to the shortened form of "Robot".
+bot.1.text.1=Tôi là Rô-bốt Trợ giúp! Nếu khi nào bạn mắc kẹt trong chuyến hành trình của mình, tôi sẽ rất vui lòng trợ giúp! Tôi có thể khởi tạo lại nhiệm vụ cho bạn hoặc bỏ qua nhiệm vụ đó.	#
+bot.1.text.2=Tôi chỉ có thể giúp đỡ sau khi bạn đã thử thực hiện nhiệm vụ của mình, vậy hãy đảm bảo rằng trước tiên bạn đã thử thực hiện nhiệm vụ!	#
+
+bot.2.text.1=Xin chào một lần nữa! Tôi có thể giúp gì được cho bạn? Tôi có thể khởi tạo lại một nhiệm vụ hoặc bỏ qua nó hoàn toàn.	#
+bot.2.text.2=Hãy nhớ rằng, tôi chỉ có thể giúp đỡ sau khi bạn đã thử thực hiện nhiệm vụ của mình, vậy hãy đảm bảo rằng trước tiên bạn đã thử thực hiện nhiệm vụ!	#
+
+researcher.1.name=Nhấn chuột phải vào đây!	### NPC name, referring to their title
+researcher.1.text.1=Chào mừng đến với Trung tâm Nghiên cứu! Tại đây bạn sẽ học được cách chúng tôi sử dụng AI và kỹ thuật lập trình để phòng tránh hỏa hoạn.	#
+researcher.1.text.2=Your first task is to use coding to open this gate.	#
+researcher.1.text.3=Thoát khỏi cửa sổ trò chuyện này. Nhấn [C] trên bàn phím của bạn hoặc chạm vào biểu tượng Agent ở trên cùng màn hình để bắt đầu lập trình.	#
+
+engineer.1.name=Kỹ sư	### NPC name, referring to their title
+engineer.1.text.1=Đây là Agent. Bạn có thể lập trình Agent theo cách bạn đã làm với cổng.	#
+engineer.1.text.2=Code the Agent to move 3 steps forward to stop on the marker.	#
+engineer.1.text.3=Nhấn [C] trên bàn phím để bắt đầu lập trình.	#
+
+researcher.2.name=Nhà nghiên cứu	### NPC name, referring to their title
+researcher.2.text.1=Lập trình Agent di chuyển 4 khoảng trắng về phía trước và sau đó phân tích bàn chải khô ở phía trước.	#
+researcher.2.text.2=§r	#
+
+technician.1.name=Kỹ thuật viên	### NPC name, referring to their title
+technician.1.text.1=Từ trên này, chúng ta có thể dùng mã lập trình để di chuyển Agent qua mê cung bên dưới. Đừng lo ngại, bạn không thể lọt ra khỏi rìa đâu!	#
+technician.1.text.2=Hãy chọn một lộ trình dưới đây và cố gắng định hướng cho Agent đi qua mê cung, sau đó phân tích mẫu khi kết thúc.	#
+
+head.of.research.1.name=Trưởng nhóm Nghiên cứu	#
+head.of.research.1.text.1=Teaching the Agent to predict fire hazards is our best tool for prevention.	#
+head.of.research.1.text.2=Hãy bước vào trong, kỹ thuật viên sẽ hỗ trợ bạn trong việc đào tạo Agent.	#
+
+technician.2.name=Chuyên gia AI	### NPC name, referring to their title
+technician.2.text.1=Máy tính này sẽ giúp dạy cho Agent về các loại cây cối có nguy cơ gây hỏa hoạn.	#
+technician.2.text.2=Hãy nhìn các hình ảnh trên màn hình.	#
+technician.2.text.3=§r	#
+
+
+scientist.1.name=Nhà khoa học	### NPC name, referring to their title
+scientist.1.text.1=Để ngăn ngừa hỏa hoạn thành công, Agent sẽ cần loại bỏ những loài cây nguy hiểm ra khỏi khu vực.	#
+scientist.1.text.2=Bây giờ hãy thử nghiệm quá trình huấn luyện của chúng ta! Lập trình Agent để phá hủy tất cả những loài cây có thể gây ra nguy cơ hỏa hoạn. Nhấn [C] trên bàn phím để bắt đầu lập trình.	#
+
+scientist.2.name=Nhà phân tích	### NPC name, referring to their title
+scientist.2.text.1=Bằng cách sử dụng hình ảnh, Agent giờ có thể phát hiện được những nơi có khả năng xảy ra hỏa hoạn.	#
+scientist.2.text.2=Lập trình Agent để thông báo cho đội nhóm khi vị trí nguy cơ hỏa hoạn tiềm ẩn xuất hiện trên màn hình máy tính.	#
+scientist.2.text.3=Nhấn [C] trên bàn phím để bắt đầu lập trình.	#
+
+pilot.1.name=Cơ trưởng hỏa hoạn	### NPC name, referring to their title
+pilot.1.text.1=Tôi không thể tin được Agent đã học cách dự đoán hỏa hoạn nhanh đến thế!	#
+pilot.1.text.2=Chúng ta cần khẩn trương đến vị trí có nguy cơ hỏa hoạn này!	#
+pilot.1.text.3=Hãy cho tôi biết khi nào bạn sẵn sàng lên đường, hỏa hoạn có thể xảy ra bất kỳ lúc nào!	#
+
+pilot.2.name=Cơ trưởng hỏa hoạn	### NPC name, referring to their title
+pilot.2.text.1=Tôi vừa nhận được một tin nhắn đến từ Trung tâm Chỉ huy. Đang có một cơn bão tiến tới với khả năng gây sấm sét cao! Chúng ta sẽ cần phải bắt đầu dọn dẹp bàn chải khô khỏi khu vực này trước khi cơn bão tới.	#
+pilot.2.text.2=Hãy để Agent dọn dẹp bàn chải khô để loại bỏ một nguy cơ hỏa hoạn.	#
+
+firefighter.1.name=Lính cứu hỏa 		### NPC name, referring to their title
+firefighter.1.text.1=Tuyệt! Bạn và Agent của bạn đã có thể loại bỏ các nguy cơ hỏa hoạn trước khi cơn bão đến và cứu được ngôi làng!	#
+firefighter.1.text.2=Trong khi bạn đang ở đây, tại sao bạn không giúp khôi phục lại khu vực này bằng cách trồng hoa và sản sinh động vật?	#
+
+resourcePack.education_demo_world_resources.name=M:EE Demo World Resources	#
+resourcePack.education_demo_world_resources.description=M:EE Client resources for the M:EE demo world.	#
+
+edu_demo.tip.1=Rainforests are home to more than half our planet's terrestrial animal species.	#
+edu_demo.tip.2=More than 25% of the world's population depend on forests for their livelihoods.	#
+edu_demo.tip.3=Three things are needed to keep a fire going: fuel, oxygen, and a heat source.	#
+edu_demo.tip.4=Fires, especially in peatlands and dense forests, release massive carbon emissions.	#
+edu_demo.tip.5=Computers have to be taught to learn - sort of like students!	#
+edu_demo.tip.6=AI is used to collect and analyze forest data, which is faster than counting trees by hand!	#
+
+menu.quit.edu=EXIT LESSON	#
+menu.quit.edu.title=Exit Demo Lesson	#
+
+start_screen.start_demo=Start Lesson	#
+
+lesson.finished=I'M FINISHED	### please try to keep this as close to the colloquial form of "I am Finished" as possible. 
+
+lesson.end.dialog.title=Lesson Complete!	#
+lesson.end.dialog.body.title=CONGRATULATIONS	#
+lesson.end.dialog.body.wimages=You earned a certificate of completion. Check out the photos from this lesson and save a copy.	#
+lesson.end.dialog.body.checkport=Check out the photos from this lesson and save a copy.	#
+lesson.end.dialog.body.noimages=You earned a certificate of completion.	#
+lesson.end.dialog.button.morecoding=More Coding	#
+lesson.end.dialog.button.getcert=Get Certificate	#
+lesson.end.dialog.button.exit=Exit Lesson	#
+lesson.end.dialog.button.export=Save	#
+
+lesson.end.access.imagespreview=Lesson photo %1 of %2	#
+lesson.end.access.export=Export lesson photos	#

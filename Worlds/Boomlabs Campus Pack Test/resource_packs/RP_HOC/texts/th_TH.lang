@@ -1,0 +1,141 @@
+﻿pack.name=ชั่วโมงแห่งการสร้างโค้ด	#
+pack.description=ทรัพยากรที่จำเป็นสำหรับ ชั่วโมงแห่งโค้ด	#
+
+item.spawn_egg.entity.pws:npc_2.name=จุดเกิด NPC 2	#
+entity.pws:npc_2.name=NPC 2	#
+
+item.spawn_egg.entity.pws:npc_2_firefighter.name=จุดเกิด NPC 2 นักดับไฟ	#
+entity.pws:npc_2_firefighter.name=NPC 2 นักดับไฟ	#
+
+objective=§l§6- เควสต์ปัจจุบัน - §r	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+try.again.title=§6ลองอีกครั้ง§r	#
+try.again.subtitle=ลองพยายามกับเควสต์ของคุณอีกครั้ง	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+quest.end.title=§6เควสต์เสร็จสิ้นแล้ว!§r	#
+npc.skip.name=§6บอทผู้ช่วย§r	#
+
+no_button.title=§r
+no_button.subtitle=Please try the quest first.
+
+press_c=§eกด "C" เพื่อใส่โค้ด§r	#
+press_c_or_touch=§eกดปุ่ม "C" เพื่อป้อนโค้ดหรือแตะที่ไอคอน Agent§r	#
+
+quest.1.end.subtitle=ยินดีด้วย! คุณทำได้!	###subtitles appear on the screen as a success message after the quest has been completed
+quest.2.end.subtitle=ยินดีด้วย! คุณทำได้!	#
+quest.3.end.subtitle=ยินดีด้วย! คุณทำได้!	#
+quest.4.end.subtitle=ยินดีด้วย! คุณทำได้!	#
+quest.5.end.subtitle=ยินดีด้วย! คุณทำได้!	#
+quest.6.end.subtitle=ยินดีด้วย! คุณทำได้!	#
+quest.7.end.subtitle=ยินดีด้วย! คุณทำได้!	#
+quest.8.0.end.subtitle=ยินดีด้วย! คุณทำได้!	#
+quest.8.end.subtitle=ยินดีด้วย! คุณทำได้!	#
+quest.9.end.subtitle=ยินดีด้วย! คุณทำได้!	#
+quest.10.end.subtitle=ยินดีด้วย! คุณทำได้!	#
+quest.11.end.subtitle=ยินดีด้วย! คุณทำได้!	#
+quest.12.end.subtitle=ยินดีด้วย! คุณทำได้!	#
+
+
+
+900011=§fค้นหาตำแหน่งศูนย์วิจัย	###This section includes the titles of quests, which will remain onscreen until the player completes the quest. 
+900090=§fคาดเดาโอกาสที่จะเกิดอันตรายจากไฟ	#
+900100=§fไปยังเฮลิคอปเตอร์	#
+900120=§fเก็บกวาดพุ่มไม้แห้งที่เหลือ	#
+
+
+
+	
+900020=§fพูดคุยกับนักวิจัย	#    ###This section includes the titles of quests, which will remain onscreen until the player completes the quest. 
+900030=§fพูดคุยกับวิศวกร	#
+900040=§fพูดคุยกับนักวิจัย	#
+900050=§fค้นหาและพูดคุยกับช่างเทคนิคที่ชั้นบนสุดของหอคอย	#
+900060=§fค้นหาและพูดคุยกับหัวหน้าฝ่ายวิจัย	#
+900070=§fพูดคุยกับผู้เชี่ยวชาญ AI §c0§f/§e4	#
+900071=§fพูดคุยกับนักวิทยาศาสตร์ §c1§f/§e4	#
+900072=§fพูดคุยกับนักวิเคราะห์ §c2§f/§e4	#
+900073=§fค้นหาเฮลิคอปเตอร์และพูดคุยกับหัวหน้าทีมดับเพลิง §c3§f/§e4	#
+900080=§fพูดคุยกับหัวหน้าทีมดับเพลิง	#
+900110=§fพูดคุยกับเจ้าหน้าที่ดับเพลิง	#
+900130=§fช่วยฟื้นฟูหมู่บ้าน	#
+
+welcome.board.title=ยินดีต้อนรับสู่ศูนย์วิจัยป้องกันไฟไหม้	#
+
+quest.5.easy=เส้นทางแบบสั้น	### button name, student selects either the short or long version of a maze path to solve
+quest.5.hard=เส้นทางแบบยาว	#
+
+quest.7.yes=ใช่	#
+quest.7.no=ไม่	#
+quest.7.hazard=อันตรายจากไฟ	#
+
+quest.10.yes=ไปกันเลย!	#
+
+quest.13.done=เสร็จแล้ว!	#
+
+bot.button.skip=ข้ามเควสต์	#
+bot.button.reset=รีเซ็ตเควสต์	#
+
+skip.title=§9ข้ามเควสต์แล้ว	#
+skip.subtitle=คุณขอตัวช่วยการข้าม!	#
+
+complete.lesson.title=§9การเดินทางเสร็จสิ้น!	#
+
+bot.name=บอทผู้ช่วย	### This is the name of an NPC robot that provides the player with help in completing coding quests. "Bot" refers to the shortened form of "Robot".
+bot.1.text.1=ฉันคือบอทผู้ช่วย! ฉันยินดีช่วยเต็มที่หากว่าคุณติดขัดปัญหาอะไรในระหว่างการเดินทาง! ฉันสามารถรีเซ็ตเควสต์ให้คุณได้ หรือจะข้ามไปเลยก็ทำได้เช่นกัน	#
+bot.1.text.2=ฉันสามารถช่วยได้หลังจากที่คุณลองทำเควสต์ด้วยตัวเองไปแล้ว เพราะฉะนั้นคุณควรลองพยายามเองดูก่อน!	#
+
+bot.2.text.1=สวัสดีอีกครั้ง! มีอะไรให้ฉันช่วยบ้าง ฉันสามารถรีเซ็ตเควสต์ให้ หรือจะข้ามไปทั้งหมดก็ได้เช่นกัน	#
+bot.2.text.2=จำไว้ว่า ฉันสามารถช่วยได้หลังจากที่คุณลองทำเควสต์ด้วยตัวเองไปแล้ว เพราะฉะนั้นคุณควรลองพยายามเองดูก่อน!	#
+
+researcher.1.name=คลิกขวาฉันสิ!	### NPC name, referring to their title
+researcher.1.text.1=ยินดีต้อนรับสู่ศูนย์วิจัย! ที่นี่คุณจะได้เรียนรู้วิธีการใช้ AI และการเขียนโค้ดเพื่อป้องกันไฟไหม้	#
+researcher.1.text.2=Your first task is to use coding to open this gate. #
+researcher.1.text.3=ออกจากหน้าต่างแชทนี้และกดปุ่ม [C] บนแป้นพิมพ์หรือแตะที่ไอคอน Agent ตรงด้านบนสุดของหน้าจอเพื่อเริ่มการเขียนโค้ด	#
+
+engineer.1.name=วิศวกร	### NPC name, referring to their title
+engineer.1.text.1=นี่คือ Agent คุณสามารถป้อนโปรแกรมให้ Agent ได้แบบเดียวกับที่คุณทำตรงประตู	#
+engineer.1.text.2=Code the Agent to move 3 steps forward to stop on marker.       #
+engineer.1.text.3=กดปุ่ม [C] บนแป้นพิมพ์เพื่อเริ่มการเขียนโค้ด	#
+
+researcher.2.name=นักวิจัย	### NPC name, referring to their title
+researcher.2.text.1=เขียนโค้ดเพื่อให้ Agent เคลื่อนไปข้างหน้า 4 ช่องแล้ววิเคราะห์พุ่มไม้แห้งด้านหน้า	#
+researcher.2.text.2=§r	#
+
+technician.1.name=ช่างเทคนิค	### NPC name, referring to their title
+technician.1.text.1=จากตรงนี้ คุณสามารถใช้โค้ดเพื่อขยับ Agent ผ่านเขาวงกตที่ด้านล่าง ไม่ต้องห่วง เพราะคุณไม่ตกออกไปแน่นอน!	#
+technician.1.text.2=เลือกเส้นทางด้านล่างและลองนำทาง Agent ผ่านไปให้ได้ จากนั้นจึงวิเคราะห์ตัวอย่างที่ปลายทาง	#
+
+head.of.research.1.name=หัวหน้านักวิจัย	#
+head.of.research.1.text.1=Teaching the Agent to predict fire hazards is our best tool for prevention.    #
+head.of.research.1.text.2=เข้ามาข้างใน แล้วจะมีช่างเทคนิคจะช่วยคุณฝึกสอน Agent ให้	#
+
+technician.2.name=ผู้เชี่ยวชาญ AI	### NPC name, referring to their title
+technician.2.text.1=คอมพิวเตอร์เครื่องนี้จะช่วยสอน Agent เกี่ยวกับพืชที่อันตรายต่อการเกิดไฟไหม้	#
+technician.2.text.2=ดูภาพบนหน้าจอ	#
+technician.2.text.3=If a plant looks yellow and dry, it is a fire hazard, so press the YES button. If a plant looks green and healthy, it is NOT a fire hazard, so press the NO button.  #
+
+
+scientist.1.name=นักวิทยาศาสตร์	### NPC name, referring to their title
+scientist.1.text.1=ในการระวังป้องกันไฟไหม้ให้สำเร็จนั้น Agent จำเป็นต้องนำพืชอันตรายออกจากพื้นที่	#
+scientist.1.text.2=ตอนนี้ลองเอาที่เราฝึกซ้อมมาใช้จริงได้แล้ว! เขียนโค้ดให้ Agent ทำลายพืชทั้งหมดที่อาจเป็นอันตรายต่อการเกิดไฟไหม้ กดปุ่ม [C] บนแป้นพิมพ์เพื่อเริ่มการเขียนโค้ด	#
+
+scientist.2.name=นักวิเคราะห์	### NPC name, referring to their title
+scientist.2.text.1=ขณะนี้ Agent สามารถตรวจจับได้ว่าน่าจะเกิดไฟไหม้ขึ้นที่ใดโดยใช้ภาพเหล่านี้	#
+scientist.2.text.2=เขียนโค้ดให้ Agent แจ้งกับทีมให้รับทราบหากสังเกตเห็นตำแหน่งที่อาจเกิดไฟไหม้บนหน้าจอคอมพิวเตอร์	#
+scientist.2.text.3=กดปุ่ม [C] บนแป้นพิมพ์เพื่อเริ่มการเขียนโค้ด	#
+
+pilot.1.name=หัวหน้าทีมดับเพลิง	### NPC name, referring to their title
+pilot.1.text.1=ฉันไม่อยากเชื่อเลยว่า Agent จะเรียนรู้วิธีคาดเดาการเกิดไฟไหม้ได้รวดเร็วเช่นนี้!	#
+pilot.1.text.2=เราต้องรีบไปยังตำแหน่งนี้ที่มีความเสี่ยงจะเกิดไฟไหม้!	#
+pilot.1.text.3=ถ้าคุณพร้อมจะไปแล้วบอกฉันได้เลย ไฟไหม้เกิดขึ้นได้ทุกเมื่อ!	#
+
+pilot.2.name=หัวหน้าทีมดับเพลิง	### NPC name, referring to their title
+pilot.2.text.1=ฉันเพิ่งได้รับข้อความจากศูนย์บัญชาการว่ามีพายุกำลังเข้ามาใกล้พร้อมกับมีโอกาสเกิดฟ้าผ่าได้สูง! เราจำเป็นต้องเก็บกวาดพุ่มไม้แห้งในพื้นที่นี้ก่อนที่พายุจะมาถึง	#
+pilot.2.text.2=ให้ Agent เก็บกวาดแนวพุ่มไม้แห้งเพื่อกำจัดความเสี่ยงต่อการเกิดไฟไหม้	#
+
+firefighter.1.name=เจ้าหน้าที่ดับเพลิง 		### NPC name, referring to their title
+firefighter.1.text.1=ยอดเยี่ยม! คุณและ Agent ของคุณสามารถเก็บกวาดอันตรายที่อาจก่อให้เกิดไฟไหม้ได้ก่อนที่พายุจะมาถึง และช่วยหมู่บ้านไว้ได้สำเร็จ!	#
+firefighter.1.text.2=ระหว่างที่คุณอยู่ที่นี่ ลองไปช่วยฟื้นฟูพื้นที่โดยการปลูกพืชและฟักบรรดาสัตว์กันดูไหม	#
+
+researcher.3.name=นักวิจัย	### NPC name, referring to their title
+researcher.3.text.1=ขอขอบคุณความช่วยเหลือทั้งหมดจากคุณ! เมื่อคุณช่วยฟื้นฟูและทำความสะอาดหมู่บ้านจากไฟไหม้เรียบร้อยแล้วก็บอกฉันได้เลย เราจะได้กลับไปยังศูนย์วิจัยด้วยกัน	#
+researcher.3.text.2=คุณเป็นฮีโร่ตัวจริง! ชาวบ้านจะซาบซึ้งในวีรกรรมของคุณไปตลอดกาล!	#

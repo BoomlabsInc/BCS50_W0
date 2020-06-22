@@ -1,0 +1,189 @@
+﻿pack.name=Recursos de la Hora del Código	#
+pack.description=Recursos requeridos para la Hora del Código	#
+
+item.spawn_egg.entity.pws:npc_2.name=Huevo de NPC 2	#
+entity.pws:npc_2.name=NPC 2	#
+
+item.spawn_egg.entity.pws:npc_2_firefighter.name=Huevo de NPC 2 bombero	#
+entity.pws:npc_2_firefighter.name=NPC 2 bombero	#
+
+objective=§l§6- Misión actual -§r	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+try.again.title=§6Vuelve a intentarlo§r	#
+try.again.subtitle=Vuelve a intentar la misión.	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+quest.end.title=§6¡Misión completa!§r	#
+npc.skip.name=§6Robot Ayudante§r	#
+
+no_button.title=§r	#
+no_button.subtitle=Intenta hacer la misión primero.	#
+
+take.picture=Toma una foto	#
+
+press_c=§ePresiona "C" para programar o toca el icono de Agent.§r	#
+
+quest.1.end.subtitle=¡Enhorabuena! ¡Lo conseguiste!	###subtitles appear on the screen as a success message after the quest has been completed
+quest.2.end.subtitle=¡Enhorabuena! ¡Lo conseguiste!	#
+quest.3.end.subtitle=¡Enhorabuena! ¡Lo conseguiste!	#
+quest.4.end.subtitle=¡Enhorabuena! ¡Lo conseguiste!	#
+quest.5.end.subtitle=¡Enhorabuena! ¡Lo conseguiste!	#
+quest.6.end.subtitle=¡Enhorabuena! ¡Lo conseguiste!	#
+quest.7.end.subtitle=¡Enhorabuena! ¡Lo conseguiste!	#
+quest.8.0.end.subtitle=¡Enhorabuena! ¡Lo conseguiste!	#
+quest.8.end.subtitle=¡Enhorabuena! ¡Lo conseguiste!	#
+quest.9.end.subtitle=¡Enhorabuena! ¡Lo conseguiste!	#
+quest.10.end.subtitle=¡Enhorabuena! ¡Lo conseguiste!	#
+quest.11.end.subtitle=¡Enhorabuena! ¡Lo conseguiste!	#
+quest.12.end.subtitle=¡Enhorabuena! ¡Lo conseguiste!	#
+
+
+900020=§fHabla con el Ingeniero.	###This section includes the titles of quests, which will remain onscreen until the player completes the quest. 
+900030=§fHabla con el Ingeniero.	#
+900040=§fHabla con el Ingeniero.	#
+900050=§fBusca y habla con el Técnico en lo alto de la torre.	#
+900060=§fBaja la escalera y busca al Director de Investigación.	#
+900070=§fHabla con el Especialista en IA.	#
+900071=§fHabla con el Especialista en IA.	#
+900072=§fHabla con el Especialista en IA.	#
+900073=§fHabla con el Especialista en IA.	#
+900080=§fHabla con el Científico.	#
+900090=§fHabla con el Analista.	#
+900100=§fBusca el helicóptero y habla con el Jefe de Bomberos.	#
+900110=§fHabla con el Jefe de Bomberos.	#
+900120=§f¡Fuego! ¡Ten cuidado!	#
+900130=§fHabla con el Bombero.	#
+
+welcome.board.title.1=CENTRO	#
+welcome.board.title.2=DE INVESTIGACIÓN	#
+welcome.board.title.3=DE INCENDIOS	#
+
+quest.5.easy=Ruta corta	### button name, student selects either the short or long version of a maze path to solve
+quest.5.hard=Ruta larga	#
+
+quest.7.yes=Sí	#
+quest.7.no=No	#
+quest.7.hazard=Riesgo de incendio	#
+
+quest.10.yes=¡Vamos!	#
+
+quest.13.done=¡Terminé!	#
+
+ladder.up.1=§r	#
+ladder.up.2=Presiona "w" para	#
+ladder.up.3=subir una escalera.	#
+ladder.up.4=§r	#
+edge.1=Camina hasta	#
+edge.2=la orilla.	#
+edge.3=No te preocupes,	#
+edge.4=¡no te vas a caer!	#
+ladder.down.1=Centro de Investigación	#
+ladder.down.2=de Incendios	#
+ladder.down.3=|	#
+ladder.down.4=V	#
+to.center.1=Centro de Investigación	#
+to.center.2=de Incendios	#
+to.center.3=Por aquí	#
+to.center.4=----->	#
+center.1=§r	#
+center.2=Centro de Investigación	#
+center.3=de Incendios	#
+center.4=§r	#
+to.helipad.1=Helipuerto	#
+to.helipad.2=Por aquí	#
+to.helipad.3=<-----	#
+to.helipad.4=§r	#
+
+bot.button.skip=Omitir misión	#
+bot.button.reset=Restablecer misión	#
+
+skip.title=§9Misión omitida	#
+skip.subtitle=¡El Robot Ayudante omitió la misión!	#
+
+complete.lesson.title=§9¡Aventura completa!	#
+
+bot.name=Robot Ayudante	### This is the name of an NPC robot that provides the player with help in completing coding quests. "Bot" refers to the shortened form of "Robot".
+bot.1.text.1=¡Soy el Robot Ayudante! Te ayudaré con gusto si tienes problemas durante tu aventura. Puedo ayudarte restableciendo la misión u omitiéndola.	#
+bot.1.text.2=Solo puedo ayudarte hasta después de que hayas intentado terminar la misión por tu cuenta. ¡Haz un esfuerzo primero!	#
+
+bot.2.text.1=¡Hola otra vez! ¿En qué te puedo ayudar? Puedo restablecer la misión u omitirla por completo.	#
+bot.2.text.2=Recuerda que solo puedo ayudarte hasta después de que hayas intentado terminar la misión por tu cuenta. ¡Haz un esfuerzo primero!	#
+
+researcher.1.name=¡Hazme clic derecho!	### NPC name, referring to their title
+researcher.1.text.1=¡Bienvenido al Centro de Investigación! Aquí aprenderás a usar la IA y a programar para prevenir incendios.	#
+researcher.1.text.2=Tu primera tarea es escribir código para abrir esta puerta.	#
+researcher.1.text.3=Cierra esta ventana de chat para comenzar a escribir código.	#
+
+engineer.1.name=Ingeniero	### NPC name, referring to their title
+engineer.1.text.1=Este es el Agent. Puedes programar al Agent como hiciste con el portón.	#
+engineer.1.text.2=Programa al Agent para que avance 3 pasos y se detenga en el marcador.	#
+engineer.1.text.3=Cierra esta ventana de chat para comenzar a escribir código.	#
+
+researcher.2.name=Investigador	### NPC name, referring to their title
+researcher.2.text.1=Programa al Agent para moverse 4 espacios hacia delante y luego analiza la maleza seca de delante.	#
+researcher.2.text.2=§r	#
+
+technician.1.name=Técnico	### NPC name, referring to their title
+technician.1.text.1=Mira más allá de la orilla hacia tu izquierda y verás el Laberinto de Entrenamiento del Agent. Mira sobre la orilla... ¡no te preocupes, no te puedes caer!	#
+technician.1.text.2=Elige el botón de una ruta a continuación. Escribe código para mover al Agent por el laberinto y asegúrate de que llegue hasta la maleza seca y la analice.	#
+
+head.of.research.1.name=Director de Investigación	#
+head.of.research.1.text.1=Enseñar al Agent a predecir los riesgos de incendio es nuestra mejor herramienta de prevención.	#
+head.of.research.1.text.2=Dirígete al interior y el Especialista en IA te ayudará a entrenar al Agent.	#
+
+technician.2.name=Especialista en IA	### NPC name, referring to their title
+technician.2.text.1=Esta computadora te ayudará a enseñar al Agent cuáles son las plantas que representan un riesgo de incendio.	#
+technician.2.text.2=Mira las imágenes en el monitor. Si una planta se ve amarilla y seca, es un riesgo de incendio, por lo que deberás presionar el botón SÍ. Si una planta se ve verde y saludable, NO es un riesgo de incendio, por lo que deberás presionar el botón NO.	#
+technician.2.text.3=§r	#
+
+
+scientist.1.name=Científico	### NPC name, referring to their title
+scientist.1.text.1=Para prevenir incendios correctamente, el Agent deberá quitar las plantas peligrosas de la zona.	#
+scientist.1.text.2=¡Vamos a poner a prueba nuestro entrenamiento! Programa al Agent para destruir todas las plantas que representan un riesgo de incendio. Cierra la ventana de chat para empezar a escribir código.	#
+
+scientist.2.name=Analista	### NPC name, referring to their title
+scientist.2.text.1=Usando las imágenes, el Agent ya puede detectar dónde es probable que se produzcan los incendios.	#
+scientist.2.text.2=Programa al Agent para alertar al equipo en caso de hallar la ubicación de un potencial peligro de incendio en el monitor de la computadora.	#
+scientist.2.text.3=Cierra esta ventana de chat para comenzar a escribir código.	#
+
+pilot.1.name=Jefe de Bomberos	### NPC name, referring to their title
+pilot.1.text.1=¡No puedo creer la velocidad con la que el Agent aprendió a predecir incendios!	#
+pilot.1.text.2=¡Debemos apurarnos hasta la ubicación con riesgo de incendio!	#
+pilot.1.text.3=Avísame cuando tengas todo listo para irnos, ¡el fuego puede llegar en cualquier momento!	#
+
+pilot.2.name=Jefe de Bomberos	### NPC name, referring to their title
+pilot.2.text.1=Acabo de recibir un mensaje del Centro de Control. ¡Se aproxima una tormenta con altas probabilidades de rayos! Tenemos que empezar a limpiar la maleza de esta zona antes de que llegue la tormenta.	#
+pilot.2.text.2=Haz que el Agent se deshaga de esa línea de arbustos secos para acabar con el riesgo de incendio.	#
+
+firefighter.1.name=Bombero 		### NPC name, referring to their title
+firefighter.1.text.1=¡Buen trabajo! Tu Agent y tú pudisteis despejar los peligros de incendio antes de que llegara la tormenta, ¡salvasteis la aldea!	#
+firefighter.1.text.2=Ya que estás en ello, ¿y si ayudas a restaurar la zona plantando flores y creando animales?	#
+
+resourcePack.education_demo_world_resources.name=Recursos del mundo de demostración de M:EE	#
+resourcePack.education_demo_world_resources.description=Recursos del cliente de M:EE para el mundo de demostración de M:EE.	#
+
+edu_demo.tip.1=Más de la mitad de las especies de animales terrestres de nuestro planeta viven en las selvas tropicales.	#
+edu_demo.tip.2=Más del 25% de la población del mundo depende de los bosques para sobrevivir.	#
+edu_demo.tip.3=Se necesitan tres cosas para mantener activo un incendio: combustible, oxígeno y una fuente de calor.	#
+edu_demo.tip.4=Los incendios, especialmente los que se presentan en las turbas y los bosques densos, generan enormes cantidades de emisiones de carbono.	#
+edu_demo.tip.5=Debemos enseñarles a las computadoras a aprender. ¡Se parecen a los estudiantes!	#
+edu_demo.tip.6=La inteligencia artificial se utiliza para recopilar y analizar los datos del bosque.¡Esto es mucho más rápido que si una persona contara los árboles!	#
+
+menu.quit.edu=SALIR DE LA CLASE	#
+menu.quit.edu.title=Salir de la clase de prueba	#
+
+start_screen.start_demo=Comenzar clase	#
+
+lesson.finished=YA TERMINÉ	### please try to keep this as close to the colloquial form of "I am Finished" as possible. 
+
+lesson.end.dialog.title=¡Clase completa!	#
+lesson.end.dialog.body.title=FELICIDADES	#
+lesson.end.dialog.body.wimages=Obtuviste un certificado por completar la clase. Ahora puedes ver las fotos de esta clase y guardar una copia.	#
+lesson.end.dialog.body.checkport=Mira las fotos de esta clase y guarda una copia.	#
+lesson.end.dialog.body.noimages=Obtuviste un certificado por completar la clase.	#
+lesson.end.dialog.button.morecoding=Más programación	#
+lesson.end.dialog.button.getcert=Obtener certificado	#
+lesson.end.dialog.button.exit=Salir de la clase	#
+lesson.end.dialog.button.export=Guardar	#
+
+lesson.end.access.imagespreview=Foto de la clase %1 de %2	#
+lesson.end.access.export=Exportar fotos de la clase	#

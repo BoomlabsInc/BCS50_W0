@@ -1,0 +1,189 @@
+﻿pack.name=Πόροι για την Ώρα του Κώδικα	#
+pack.description=Απαιτούμενοι πόροι για την Ώρα του Κώδικα	#
+
+item.spawn_egg.entity.pws:npc_2.name=Γένεση NPC 2	#
+entity.pws:npc_2.name=NPC 2	#
+
+item.spawn_egg.entity.pws:npc_2_firefighter.name=Γένεση NPC 2-Πυροσβέστη	#
+entity.pws:npc_2_firefighter.name=NPC 2-Πυροσβέστης	#
+
+objective=§l§6- Τρέχουσα αποστολή -§r	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+try.again.title=§6Δοκίμασε ξανά§r	#
+try.again.subtitle=Κάνε άλλη μια προσπάθεια για την αποστολή σου.	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+quest.end.title=§6Η αποστολή ολοκληρώθηκε!§r	#
+npc.skip.name=§6Ρομποβοηθός§r	#
+
+no_button.title=§r	#
+no_button.subtitle=Δοκίμασε πρώτα την αποστολή.	#
+
+take.picture=Βγάλε μια φωτογραφία	#
+
+press_c=§eΠάτησε το πλήκτρο "C" για να γράψεις κώδικα ή άγγιξε το εικονίδιο του Agent.§r	#
+
+quest.1.end.subtitle=Συγχαρητήρια! Τα κατάφερες!	###subtitles appear on the screen as a success message after the quest has been completed
+quest.2.end.subtitle=Συγχαρητήρια! Τα κατάφερες!	#
+quest.3.end.subtitle=Συγχαρητήρια! Τα κατάφερες!	#
+quest.4.end.subtitle=Συγχαρητήρια! Τα κατάφερες!	#
+quest.5.end.subtitle=Συγχαρητήρια! Τα κατάφερες!	#
+quest.6.end.subtitle=Συγχαρητήρια! Τα κατάφερες!	#
+quest.7.end.subtitle=Συγχαρητήρια! Τα κατάφερες!	#
+quest.8.0.end.subtitle=Συγχαρητήρια! Τα κατάφερες!	#
+quest.8.end.subtitle=Συγχαρητήρια! Τα κατάφερες!	#
+quest.9.end.subtitle=Συγχαρητήρια! Τα κατάφερες!	#
+quest.10.end.subtitle=Συγχαρητήρια! Τα κατάφερες!	#
+quest.11.end.subtitle=Συγχαρητήρια! Τα κατάφερες!	#
+quest.12.end.subtitle=Συγχαρητήρια! Τα κατάφερες!	#
+
+
+900020=§fΜίλησε στον Ερευνητή.	###This section includes the titles of quests, which will remain onscreen until the player completes the quest. 
+900030=§fΜίλησε στον Μηχανικό.	#
+900040=§fΜίλησε στον Ερευνητή.	#
+900050=§fΒρες και μίλησε στον Τεχνικό στην κορυφή του πύργου.	#
+900060=§fΚατέβα τη σκάλα και βρες τον Επικεφαλής ερευνών.	#
+900070=§fΜίλησε στον Ειδικό AI.	#
+900071=§fΜίλησε στον Ειδικό AI.	#
+900072=§fΜίλησε στον Ειδικό AI.	#
+900073=§fΜίλησε στον Ειδικό AI.	#
+900080=§fΜίλησε στον Επιστήμονα.	#
+900090=§fΜίλησε στον Αναλυτή.	#
+900100=§fΒρες το ελικόπτερο και μίλησε στον Πυραγό.	#
+900110=§fΜίλησε στον Πυραγό.	#
+900120=§fΦωτιά! Πρόσεχε!	#
+900130=§fΜίλησε στον Πυροσβέστη.	#
+
+welcome.board.title.1=ΚΕΝΤΡΟ ΕΡΕΥΝΩΝ	#
+welcome.board.title.2=ΓΙΑ ΤΗΝ ΑΝΤΙΜΕΤΩΠΙΣΗ	#
+welcome.board.title.3=ΤΩΝ ΠΥΡΚΑΓΙΩΝ	#
+
+quest.5.easy=Σύντομο μονοπάτι	### button name, student selects either the short or long version of a maze path to solve
+quest.5.hard=Μακρύ μονοπάτι	#
+
+quest.7.yes=Ναι	#
+quest.7.no=Όχι	#
+quest.7.hazard=Κίνδυνος πυρκαγιάς	#
+
+quest.10.yes=Πάμε!	#
+
+quest.13.done=Τελείωσα!	#
+
+ladder.up.1=§r	#
+ladder.up.2=Πάτησε "w"	#
+ladder.up.3=για να ανέβεις σε μια σκάλα.	#
+ladder.up.4=§r	#
+edge.1=Περπάτησε μέχρι	#
+edge.2=την προεξοχή.	#
+edge.3=Μην ανησυχείς,	#
+edge.4=δεν θα πέσεις!	#
+ladder.down.1=Κέντρο ερευνών για την	#
+ladder.down.2=αντιμετώπιση των πυρκαγιών	#
+ladder.down.3=|	#
+ladder.down.4=V	#
+to.center.1=Κέντρο ερευνών για την	#
+to.center.2=αντιμετώπιση των πυρκαγιών	#
+to.center.3=Από εδώ	#
+to.center.4=----->	#
+center.1=§r	#
+center.2=Κέντρο ερευνών για την	#
+center.3=αντιμετώπιση των πυρκαγιών	#
+center.4=§r	#
+to.helipad.1=Ελικοδρόμιο	#
+to.helipad.2=Από εδώ	#
+to.helipad.3=<-----	#
+to.helipad.4=§r	#
+
+bot.button.skip=Παράλειψη αποστολής	#
+bot.button.reset=Επαναφορά αποστολής	#
+
+skip.title=§9Έγινε παράλειψη της αποστολής	#
+skip.subtitle=Ο Ρομποβοηθός παρέλειψε την αποστολή!	#
+
+complete.lesson.title=§9Το ταξίδι ολοκληρώθηκε!	#
+
+bot.name=Ρομποβοηθός	### This is the name of an NPC robot that provides the player with help in completing coding quests. "Bot" refers to the shortened form of "Robot".
+bot.1.text.1=Είμαι ο Ρομποβοηθός! Αν ποτέ τα βρεις σκούρα στο ταξίδι σου, θα χαρώ να βοηθήσω! Μπορώ είτε να κάνω επαναφορά της αποστολής σου είτε να την παραλείψω.	#
+bot.1.text.2=Μπορώ να βοηθήσω μόνο αφού δοκιμάσεις να ολοκληρώσεις την αποστολή. Επομένως, κάνε πρώτα μια προσπάθεια!	#
+
+bot.2.text.1=Γεια σου και πάλι! Πώς μπορώ να σε βοηθήσω; Μπορώ είτε να κάνω επαναφορά της αποστολής σου είτε να την παραλείψω τελείως.	#
+bot.2.text.2=Μην ξεχνάς, μπορώ να βοηθήσω μόνο αφού δοκιμάσεις να ολοκληρώσεις την αποστολή. Επομένως, κάνε πρώτα μια προσπάθεια!	#
+
+researcher.1.name=Δεξιό κλικ πάνω μου!	### NPC name, referring to their title
+researcher.1.text.1=Καλώς όρισες στο Κέντρο ερευνών! Εδώ θα μάθεις πώς χρησιμοποιούμε την τεχνητή νοημοσύνη και τον προγραμματισμό για την πρόληψη πυρκαγιών.	#
+researcher.1.text.2=Η πρώτη σου αποστολή είναι να χρησιμοποιήσεις κώδικα για να ανοίξεις αυτή την πύλη.	#
+researcher.1.text.3=Κλείσε αυτό το παράθυρο συνομιλίας για να ξεκινήσεις να γράφεις κώδικα.	#
+
+engineer.1.name=Μηχανικός	### NPC name, referring to their title
+engineer.1.text.1=Αυτός είναι ο Agent. Μπορείς να προγραμματίσεις τον Agent όπως έκανες με την πύλη.	#
+engineer.1.text.2=Προγραμμάτισε τον Agent να μετακινηθεί 3 βήματα μπροστά για να σταματήσει στον δείκτη.	#
+engineer.1.text.3=Κλείσε αυτό το παράθυρο συνομιλίας για να ξεκινήσεις να γράφεις κώδικα.	#
+
+researcher.2.name=Ερευνητής	### NPC name, referring to their title
+researcher.2.text.1=Προγραμμάτισε τον Agent να μετακινηθεί 4 θέσεις μπροστά και, στη συνέχεια, να αναλύσει τα ξερόχορτα.	#
+researcher.2.text.2=§r	#
+
+technician.1.name=Τεχνικός	### NPC name, referring to their title
+technician.1.text.1=Κοίταξε από την προεξοχή στα αριστερά σου και θα δεις τον λαβύρινθο εκπαίδευσης του Agent. Ρίξε μια ματιά από την άκρη... μην ανησυχείς, δεν θα πέσεις!	#
+technician.1.text.2=Διάλεξε ένα κουμπί μονοπατιού παρακάτω. Χρησιμοποίησε κώδικα για να μετακινήσεις τον Agent στον λαβύρινθο ώστε να φτάσει στα ξερόχορτα και να τα αναλύσει.	#
+
+head.of.research.1.name=Επικεφαλής ερευνών	#
+head.of.research.1.text.1=Το καλύτερο εργαλείο πρόληψης που διαθέτουμε είναι η εκπαίδευση του Agent στην πρόβλεψη των κινδύνων πυρκαγιάς.	#
+head.of.research.1.text.2=Έλα μέσα και ο ειδικός AI θα σε βοηθήσει με την εκπαίδευση του Agent.	#
+
+technician.2.name=Ειδικός AI	### NPC name, referring to their title
+technician.2.text.1=Αυτός ο υπολογιστής θα σε βοηθήσει να μάθεις στον Agent για τα φυτά που ενέχουν κίνδυνο πυρκαγιάς.	#
+technician.2.text.2=Παρακολούθησε τις εικόνες στην οθόνη. Αν ένα φυτό φαίνεται κίτρινο και ξερό, τότε αποτελεί κίνδυνο πυρκαγιάς. Επομένως, πάτησε το κουμπί "ΝΑΙ". Αν ένα φυτό φαίνεται πράσινο και υγιές, τότε ΔΕΝ αποτελεί κίνδυνο πυρκαγιάς. Επομένως, πάτησε το κουμπί "ΟΧΙ".	#
+technician.2.text.3=§r	#
+
+
+scientist.1.name=Επιστήμονας	### NPC name, referring to their title
+scientist.1.text.1=Για επιτυχημένη πρόληψη πυρκαγιών, ο Agent θα χρειαστεί να απομακρύνει επικίνδυνα φυτά από την περιοχή.	#
+scientist.1.text.2=Έφτασε η στιγμή να δοκιμάσουμε την εκπαίδευσή μας στην πράξη! Προγραμμάτισε τον Agent να καταστρέψει όλα τα φυτά που ενέχουν κίνδυνο πυρκαγιάς. Κλείσε το παράθυρο συνομιλίας για να ξεκινήσεις να γράφεις κώδικα.	#
+
+scientist.2.name=Αναλυτής	### NPC name, referring to their title
+scientist.2.text.1=Χρησιμοποιώντας εικόνες, ο Agent μπορεί πλέον να ανιχνεύει τα σημεία όπου είναι πιθανό να ξεσπάσει πυρκαγιά.	#
+scientist.2.text.2=Προγραμμάτισε τον Agent να ειδοποιήσει την ομάδα, αν βρεθεί η τοποθεσία του πιθανού κινδύνου πυρκαγιάς στην οθόνη του υπολογιστή.	#
+scientist.2.text.3=Κλείσε αυτό το παράθυρο συνομιλίας για να ξεκινήσεις να γράφεις κώδικα.	#
+
+pilot.1.name=Πυραγός	### NPC name, referring to their title
+pilot.1.text.1=Δεν μπορώ να πιστέψω πόσο γρήγορα έμαθε ο Agent να προβλέπει πυρκαγιές!	#
+pilot.1.text.2=Πρέπει να πάμε γρήγορα σε αυτή την τοποθεσία που κινδυνεύει από πυρκαγιά!	#
+pilot.1.text.3=Πες μου όταν θα είσαι έτοιμος να φύγεις, μπορεί να ξεσπάσει πυρκαγιά ανά πάσα στιγμή!	#
+
+pilot.2.name=Πυραγός	### NPC name, referring to their title
+pilot.2.text.1=Μόλις έλαβα ένα μήνυμα από το Κέντρο διοίκησης. Έρχεται καταιγίδα με υψηλή πιθανότητα κεραυνών! Πρέπει να απομακρύνουμε τα ξερόχορτα από αυτή την περιοχή πριν φτάσει εδώ.	#
+pilot.2.text.2=Βάλε τον Agent να καθαρίσει αυτή τη γραμμή από ξερόχορτα για να αφαιρέσει έναν κίνδυνο πυρκαγιάς.	#
+
+firefighter.1.name=Πυροσβέστης 		### NPC name, referring to their title
+firefighter.1.text.1=Σπουδαία δουλειά! Εσύ και ο Agent καταφέρατε να απομακρύνετε τους κινδύνους πυρκαγιάς πριν το ξέσπασμα της καταιγίδας και να σώσετε το χωριό!	#
+firefighter.1.text.2=Όσο είσαι εδώ, γιατί δεν βοηθάς στην αποκατάσταση της περιοχής φυτεύοντας λουλούδια και δημιουργώντας ζώα;	#
+
+resourcePack.education_demo_world_resources.name=M:EE - Πόροι δοκιμαστικού κόσμου	#
+resourcePack.education_demo_world_resources.description=M:EE - Πόροι προγράμματος-πελάτη για τον δοκιμαστικό κόσμο του M:EE.	#
+
+edu_demo.tip.1=Τα τροπικά δάση είναι η πατρίδα περισσοτέρων από τα μισά χερσαίων ζωικών ειδών του πλανήτη μας.	#
+edu_demo.tip.2=Πάνω από το 25% του παγκόσμιου πληθυσμού εξαρτάται από τα δάση για να βγάζει τα προς το ζην.	#
+edu_demo.tip.3=Χρειάζονται τρία πράγματα για να μη σβήσει μια φωτιά: καύσιμο, οξυγόνο και μια πηγή θερμότητας.	#
+edu_demo.tip.4=Οι πυρκαγιές ειδικά σε έλη και πυκνά δάση απελευθερώνουν τεράστιες εκπομπές άνθρακα.	#
+edu_demo.tip.5=Και οι υπολογιστές πρέπει να διδαχθούν πώς να μαθαίνουν, όπως και οι μαθητές!	#
+edu_demo.tip.6=Η τεχνητή νοημοσύνη χρησιμοποιείται για τη συλλογή και την ανάλυση των δεδομένων των δασών, που είναι πιο γρήγορο από το να μετράει κανείς δέντρα με το μάτι!	#
+
+menu.quit.edu=ΚΛΕΙΣΙΜΟ ΜΑΘΗΜΑΤΟΣ	#
+menu.quit.edu.title=Κλείσιμο του demo μαθήματος	#
+
+start_screen.start_demo=Έναρξη μαθήματος	#
+
+lesson.finished=ΤΕΛΟΣ	### please try to keep this as close to the colloquial form of "I am Finished" as possible. 
+
+lesson.end.dialog.title=Το μάθημα ολοκληρώθηκε!	#
+lesson.end.dialog.body.title=ΣΥΓΧΑΡΗΤΗΡΙΑ	#
+lesson.end.dialog.body.wimages=Κέρδισες ένα πιστοποιητικό ολοκλήρωσης. Ρίξε μια ματιά στις φωτογραφίες αυτού του μαθήματος και αποθήκευσε ένα αντίγραφο.	#
+lesson.end.dialog.body.checkport=Ρίξε μια ματιά στις φωτογραφίες αυτού του μαθήματος και αποθήκευσε ένα αντίγραφο.	#
+lesson.end.dialog.body.noimages=Κέρδισες ένα πιστοποιητικό ολοκλήρωσης.	#
+lesson.end.dialog.button.morecoding=Περισσότερη κωδικοποίηση	#
+lesson.end.dialog.button.getcert=Λήψη πιστοποιητικού	#
+lesson.end.dialog.button.exit=Κλείσιμο μαθήματος	#
+lesson.end.dialog.button.export=Αποθήκευση	#
+
+lesson.end.access.imagespreview=Φωτογραφία μαθήματος %1 από %2	#
+lesson.end.access.export=Εξαγωγή φωτογραφιών μαθήματος	#

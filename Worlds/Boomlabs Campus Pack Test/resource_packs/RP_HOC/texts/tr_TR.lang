@@ -1,0 +1,189 @@
+﻿pack.name=Kod Saati Kaynakları	#
+pack.description=Kod Saati için gerekli kaynaklar	#
+
+item.spawn_egg.entity.pws:npc_2.name=Oluştur: ODK 2	#
+entity.pws:npc_2.name=ODK 2	#
+
+item.spawn_egg.entity.pws:npc_2_firefighter.name=Oluştur: ODK 2 İtfaiyeci	#
+entity.pws:npc_2_firefighter.name=ODK 2 İtfaiyeci	#
+
+objective=§l§6- Geçerli Görev -§r	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+try.again.title=§6Yeniden dene§r	#
+try.again.subtitle=Görevini yeniden dene.	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+quest.end.title=§6Görev Tamamlandı!§r	#
+npc.skip.name=§6Yardımcı Robot§r	#
+
+no_button.title=§r	#
+no_button.subtitle=Lütfen önce görevi dene.	#
+
+take.picture=Resim çek	#
+
+press_c=§eKodlamak için "C" tuşuna bas veya Agent simgesine dokun.§r	#
+
+quest.1.end.subtitle=Tebrikler! Başardın!	###subtitles appear on the screen as a success message after the quest has been completed
+quest.2.end.subtitle=Tebrikler! Başardın!	#
+quest.3.end.subtitle=Tebrikler! Başardın!	#
+quest.4.end.subtitle=Tebrikler! Başardın!	#
+quest.5.end.subtitle=Tebrikler! Başardın!	#
+quest.6.end.subtitle=Tebrikler! Başardın!	#
+quest.7.end.subtitle=Tebrikler! Başardın!	#
+quest.8.0.end.subtitle=Tebrikler! Başardın!	#
+quest.8.end.subtitle=Tebrikler! Başardın!	#
+quest.9.end.subtitle=Tebrikler! Başardın!	#
+quest.10.end.subtitle=Tebrikler! Başardın!	#
+quest.11.end.subtitle=Tebrikler! Başardın!	#
+quest.12.end.subtitle=Tebrikler! Başardın!	#
+
+
+900020=§fAraştırmacı ile konuş.	###This section includes the titles of quests, which will remain onscreen until the player completes the quest. 
+900030=§fMühendis ile konuş.	#
+900040=§fAraştırmacı ile konuş.	#
+900050=§fKulenin tepesinde Teknisyeni bul ve konuş.	#
+900060=§fBasamaktan in ve Araştırma Müdürünü bul.	#
+900070=§fYapay Zeka Uzmanı ile konuş.	#
+900071=§fYapay Zeka Uzmanı ile konuş.	#
+900072=§fYapay Zeka Uzmanı ile konuş.	#
+900073=§fYapay Zeka Uzmanı ile konuş.	#
+900080=§fBilim İnsanı ile konuş.	#
+900090=§fAnalist ile konuş.	#
+900100=§fHelikopteri bul ve İtfaiye Şefi ile konuş.	#
+900110=§fİtfaiye Şefi ile konuş.	#
+900120=§fYangın! Dikkat et!	#
+900130=§fİtfaiyeci ile konuş.	#
+
+welcome.board.title.1=YANGIN	#
+welcome.board.title.2=ARAŞTIRMA	#
+welcome.board.title.3=MERKEZİ	#
+
+quest.5.easy=Kısa Yol	### button name, student selects either the short or long version of a maze path to solve
+quest.5.hard=Uzun Yol	#
+
+quest.7.yes=Evet	#
+quest.7.no=Hayır	#
+quest.7.hazard=Yangın Tehlikesi	#
+
+quest.10.yes=Gidelim!	#
+
+quest.13.done=Bitirdim!	#
+
+ladder.up.1=§r	#
+ladder.up.2="w" tuşuna basarak	#
+ladder.up.3=basamağa tırman.	#
+ladder.up.4=§r	#
+edge.1=Kenara kadar	#
+edge.2=yürü.	#
+edge.3=Endişelenme,	#
+edge.4=düşmezsin!	#
+ladder.down.1=Yangın Araştırma	#
+ladder.down.2=Merkezi	#
+ladder.down.3=|	#
+ladder.down.4=V	#
+to.center.1=Yangın Araştırma	#
+to.center.2=Merkezi	#
+to.center.3=Bu taraftan	#
+to.center.4=----->	#
+center.1=§r	#
+center.2=Yangın Araştırma	#
+center.3=Merkezi	#
+center.4=§r	#
+to.helipad.1=Helikopter Platformu	#
+to.helipad.2=Bu taraftan	#
+to.helipad.3=<-----	#
+to.helipad.4=§r	#
+
+bot.button.skip=Görevi Atla	#
+bot.button.reset=Görevi Sıfırla	#
+
+skip.title=§9Görev Atlandı	#
+skip.subtitle=Yardımcı Robot görevi atladı!	#
+
+complete.lesson.title=§9Yolculuk Tamamlandı!	#
+
+bot.name=Yardımcı Robot	### This is the name of an NPC robot that provides the player with help in completing coding quests. "Bot" refers to the shortened form of "Robot".
+bot.1.text.1=Ben Yardımcı Robot! Yolculuğunda takılıp kalırsan memnuniyetle yardımcı olacağım! Görevi senin için sıfırlayabilir veya atlayabilirim.	#
+bot.1.text.2=Ancak sen görevi kendi başına denedikten sonra yardımcı olabilirim, bu yüzden önce denediğinden emin ol!	#
+
+bot.2.text.1=Tekrar merhaba! Nasıl yardımcı olabilirim? Görevi sıfırlayabilirim ya da tamamen atlayabilirim.	#
+bot.2.text.2=Unutma, ancak sen görevi kendi başına denedikten sonra yardımcı olabilirim, bu yüzden önce denediğinden emin ol!	#
+
+researcher.1.name=Bana sağ tıkla!	### NPC name, referring to their title
+researcher.1.text.1=Araştırma Merkezi'ne hoş geldin! Burada, yangınları önlemek için yapay zekayı ve kodlamayı nasıl kullandığımızı öğreneceksin.	#
+researcher.1.text.2=İlk görevin kodlama kullanarak bu kapıyı açmak.	#
+researcher.1.text.3=Kodlamaya başlamak için bu sohbet penceresinden çık.	#
+
+engineer.1.name=Mühendis	### NPC name, referring to their title
+engineer.1.text.1=Bu, Agent. Agent'ı kapıyla yaptığın gibi programlayabilirsin.	#
+engineer.1.text.2=Agent'ı 3 adım ilerleyip işaretin üzerinde duracak şekilde kodla.	#
+engineer.1.text.3=Kodlamaya başlamak için bu sohbet penceresinden çık.	#
+
+researcher.2.name=Araştırmacı	### NPC name, referring to their title
+researcher.2.text.1=Agent'ı 4 boşluk ileri gidip önündeki kuru çalıyı analiz edecek şekilde kodla.	#
+researcher.2.text.2=§r	#
+
+technician.1.name=Teknisyen	### NPC name, referring to their title
+technician.1.text.1=Solundaki kenardan aşağıya bakarsan Agent Eğitim Labirenti'ni göreceksin. Kenardan bir bak... endişelenme, düşemezsin!	#
+technician.1.text.2=Aşağıdan bir yol düğmesi seç. Kod kullanarak Agent'ı labirentte hareket ettir ve kuru çalıya ulaşarak analiz etmesini sağla.	#
+
+head.of.research.1.name=Araştırma Sorumlusu	#
+head.of.research.1.text.1=En iyi yangın önleme aracımız, Agent'a yangın tehlikelerini tahmin etme becerisini öğretmektir.	#
+head.of.research.1.text.2=İçeri gel; Agent'ı eğitmen için yapay zeka uzmanı sana yardımcı olacak.	#
+
+technician.2.name=Yapay Zeka Uzmanı	### NPC name, referring to their title
+technician.2.text.1=Bu bilgisayar, yangın tehlikesi oluşturan bitkileri Agent'a öğretecek.	#
+technician.2.text.2=Monitördeki görüntüleri izle. Bir bitki sarı ve kuru görünüyorsa yangın tehlikesidir, bu yüzden EVET düğmesine basın. Bitki yeşil ve sağlıklı görünüyorsa yangın tehlikesi DEĞİLDİR, bu yüzden HAYIR düğmesine bas.	#
+technician.2.text.3=§r	#
+
+
+scientist.1.name=Bilim İnsanı	### NPC name, referring to their title
+scientist.1.text.1=Yangınları başarılı bir şekilde önlemek için Agent'ın arazideki tehlikeli bitkileri temizlemesi gerekiyor.	#
+scientist.1.text.2=Şimdi eğitimimizi test edelim! Agent'ı yangın tehlikesi oluşturan tüm bitkileri yok edecek şekilde kodla. Kodlamaya başlamak için sohbet penceresinden çık.	#
+
+scientist.2.name=Analist	### NPC name, referring to their title
+scientist.2.text.1=Agent artık resimleri kullanarak yangının nerede çıkabileceğini saptayabilir.	#
+scientist.2.text.2=Bilgisayar monitöründe potansiyel bir yangın tehlikesi konumu bulunursa takımı uyarması için Agent'ı kodla.	#
+scientist.2.text.3=Kodlamaya başlamak için bu sohbet penceresinden çık.	#
+
+pilot.1.name=İtfaiye Şefi	### NPC name, referring to their title
+pilot.1.text.1=Agent'ın yangınları tahmin etmeyi bu kadar hızlı öğrendiğine inanamıyorum!	#
+pilot.1.text.2=Yangın riski altındaki bu konuma acilen gitmemiz gerekiyor!	#
+pilot.1.text.3=Gitmeye hazır olduğunda söyle, her an yangın çıkabilir!	#
+
+pilot.2.name=İtfaiye Şefi	### NPC name, referring to their title
+pilot.2.text.1=Komut Merkezi'nden bir mesaj aldım. Yıldırım olasılığı yüksek bir fırtına yaklaşıyor! Fırtına buraya ulaşmadan bu araziyi kuru çalılardan temizlemeye başlamamız gerekiyor.	#
+pilot.2.text.2=Yangın riskini ortadan kaldırmak için Agent'a o kuru çalı sırasını temizlet.	#
+
+firefighter.1.name=İtfaiyeci 		### NPC name, referring to their title
+firefighter.1.text.1=Aferin! Agent ile birlikte fırtına gelmeden yangın tehlikelerini temizleyip köyü kurtardın!	#
+firefighter.1.text.2=Hazır buradayken, çiçekler ekip hayvanlar oluşturarak bölgeyi eski haline getirmeye yardım etmek istemez misin?	#
+
+resourcePack.education_demo_world_resources.name=M:EE Demo Dünya Kaynakları	#
+resourcePack.education_demo_world_resources.description=M:EE demo dünyası için M:EE İstemci kaynakları.	#
+
+edu_demo.tip.1=Yağmur ormanları, gezegenimizin yeryüzündeki hayvan türlerinin yarısından fazlasına ev sahipliği yapar.	#
+edu_demo.tip.2=Ormanlar, dünya nüfusunun %25'inden fazlasının geçim kaynağıdır.	#
+edu_demo.tip.3=Bir yangının çıkması için üç şey gerekir: yakıt, oksijen ve bir ısı kaynağı.	#
+edu_demo.tip.4=Özellikle turbalık alanlarda ve gür ormanlarda çıkan yangınlar, çok büyük miktarda karbon emisyonu yayarlar.	#
+edu_demo.tip.5=Bilgisayarlara öğrenmeyi öğretebilirsiniz - öğrenciler gibi!	#
+edu_demo.tip.6=Orman verilerini toplayıp analiz etmek için yapay zeka kullanılır. Ağaçları elle saymaktan daha hızlı bir yöntemdir!	#
+
+menu.quit.edu=DERSTEN ÇIK	#
+menu.quit.edu.title=Demo Dersten Çık	#
+
+start_screen.start_demo=Dersi Başlat	#
+
+lesson.finished=BİTTİ	### please try to keep this as close to the colloquial form of "I am Finished" as possible. 
+
+lesson.end.dialog.title=Ders Tamamlandı!	#
+lesson.end.dialog.body.title=TEBRİKLER	#
+lesson.end.dialog.body.wimages=Bir tamamlama sertifikası kazandınız. Bu dersin fotoğraflarına göz atın ve bir kopyasını kaydedin.	#
+lesson.end.dialog.body.checkport=Bu dersin fotoğraflarına göz atın ve bir kopyasını kaydedin.	#
+lesson.end.dialog.body.noimages=Bir tamamlama sertifikası kazandınız.	#
+lesson.end.dialog.button.morecoding=Daha Fazla Kodlama	#
+lesson.end.dialog.button.getcert=Sertifika Al	#
+lesson.end.dialog.button.exit=Dersten Çık	#
+lesson.end.dialog.button.export=Kaydet	#
+
+lesson.end.access.imagespreview=%1/%2 ders fotoğrafı	#
+lesson.end.access.export=Ders fotoğraflarını dışarı aktar	#

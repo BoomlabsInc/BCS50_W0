@@ -1,0 +1,189 @@
+pack.name=Hour of Code Resources	#
+pack.description=Resources needed for Hour of Code	#
+
+item.spawn_egg.entity.pws:npc_2.name=Spawn NPC 2	#
+entity.pws:npc_2.name=NPC 2	#
+
+item.spawn_egg.entity.pws:npc_2_firefighter.name=Spawn NPC 2 Fire Fighter	#
+entity.pws:npc_2_firefighter.name=NPC 2 Fire Fighter	#
+
+objective=§l§6- Current Quest -§r	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+try.again.title=§6Try again§r	#
+try.again.subtitle=Give your quest another try.	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+quest.end.title=§6Quest Complete!§r	#
+npc.skip.name=§6Helper Bot§r	#
+
+no_button.title=§r	#
+no_button.subtitle=Please try the quest first.	#
+
+take.picture=Take a picture	#
+
+press_c=§ePress "C" to code or touch the Agent icon.§r	#
+
+quest.1.end.subtitle=Congratulations! You did it!	###subtitles appear on the screen as a success message after the quest has been completed
+quest.2.end.subtitle=Congratulations! You did it!	#
+quest.3.end.subtitle=Congratulations! You did it!	#
+quest.4.end.subtitle=Congratulations! You did it!	#
+quest.5.end.subtitle=Congratulations! You did it!	#
+quest.6.end.subtitle=Congratulations! You did it!	#
+quest.7.end.subtitle=Congratulations! You did it!	#
+quest.8.0.end.subtitle=Congratulations! You did it!	#
+quest.8.end.subtitle=Congratulations! You did it!	#
+quest.9.end.subtitle=Congratulations! You did it!	#
+quest.10.end.subtitle=Congratulations! You did it!	#
+quest.11.end.subtitle=Congratulations! You did it!	#
+quest.12.end.subtitle=Congratulations! You did it!	#
+
+
+900020=§fTalk to the Researcher.	###This section includes the titles of quests, which will remain onscreen until the player completes the quest. 
+900030=§fTalk to the Engineer.	#
+900040=§fTalk to the Researcher.	#
+900050=§fFind and talk to the Technician on top of the tower.	#
+900060=§fGo down the ladder and find the Head of Research.	#
+900070=§fTalk to the AI Specialist.	#
+900071=§fTalk to the AI Specialist.	#
+900072=§fTalk to the AI Specialist.	#
+900073=§fTalk to the AI Specialist.	#
+900080=§fTalk to the Scientist.	#
+900090=§fTalk to the Analyst.	#
+900100=§fFind the helicopter and talk to the Fire Captain.	#
+900110=§fTalk to the Fire Captain.	#
+900120=§fFire! Watch out!	#
+900130=§fTalk to the Firefighter.	#
+
+welcome.board.title.1=FIRE	#
+welcome.board.title.2=RESEARCH	#
+welcome.board.title.3=CENTER	#
+
+quest.5.easy=Short Path	### button name, student selects either the short or long version of a maze path to solve
+quest.5.hard=Long Path	#
+
+quest.7.yes=Yes	#
+quest.7.no=No	#
+quest.7.hazard=Fire Hazard	#
+
+quest.10.yes=Let's go!	#
+
+quest.13.done=I'm done!	#
+
+ladder.up.1=§r	#
+ladder.up.2=Press "w" to	#
+ladder.up.3=climb a ladder.	#
+ladder.up.4=§r	#
+edge.1=Walk up to	#
+edge.2=the ledge.	#
+edge.3=Don't worry,	#
+edge.4=you won't fall!	#
+ladder.down.1=Fire Research	#
+ladder.down.2=Center	#
+ladder.down.3=|	#
+ladder.down.4=V	#
+to.center.1=Fire Research	#
+to.center.2=Center	#
+to.center.3=This way	#
+to.center.4=----->	#
+center.1=§r	#
+center.2=Fire Research	#
+center.3=Center	#
+center.4=§r	#
+to.helipad.1=Helipad	#
+to.helipad.2=This way	#
+to.helipad.3=<-----	#
+to.helipad.4=§r	#
+
+bot.button.skip=Skip Quest	#
+bot.button.reset=Reset Quest	#
+
+skip.title=§9Quest Skipped	#
+skip.subtitle=Helper Bot skipped the quest!	#
+
+complete.lesson.title=§9Journey Complete!	#
+
+bot.name=Helper Bot	### This is the name of an NPC robot that provides the player with help in completing coding quests. "Bot" refers to the shortened form of "Robot".
+bot.1.text.1=I'm Helper Bot! If you ever get stuck along your journey, I'll be happy to help! I can either reset the quest for you or skip it.	#
+bot.1.text.2=I can only help after you've tried the quest yourself, so be sure to give it a try first!	#
+
+bot.2.text.1=Hello, again! How can I help you? I can either reset the quest or skip it entirely.	#
+bot.2.text.2=Remember, I can only help after you've tried the quest yourself, so be sure to give it a try first!	#
+
+researcher.1.name=Right-Click me!	### NPC name, referring to their title
+researcher.1.text.1=Welcome to the Research Center! Here you will learn how we use AI and coding to prevent fires.	#
+researcher.1.text.2=Your first task is to use coding to open this gate.	#
+researcher.1.text.3=Exit this chat window to start coding.	#
+
+engineer.1.name=Engineer	### NPC name, referring to their title
+engineer.1.text.1=This is the Agent. You can program the Agent like you did with the gate.	#
+engineer.1.text.2=Code the Agent to move 3 steps forward to stop on the marker.	#
+engineer.1.text.3=Exit this chat window to start coding.	#
+
+researcher.2.name=Researcher	### NPC name, referring to their title
+researcher.2.text.1=The Agent needs to collect data about flammable materials that could pose a fire hazard.	#
+researcher.2.text.2=Code the Agent to move 4 spaces forward toward the dry brush and then analyze forward to collect the data.	#
+
+technician.1.name=Technician	### NPC name, referring to their title
+technician.1.text.1=Look off the ledge on your left and you'll see the Agent Training Maze. Take a look over the edge... don't worry, you can't fall off!	#
+technician.1.text.2=Choose a path button below. Use code to move the Agent through the maze to reach the dry brush and analyze it.	#
+
+head.of.research.1.name=Head of Research	#
+head.of.research.1.text.1=Teaching the Agent to predict fire hazards is our best tool for prevention.	#
+head.of.research.1.text.2=Come inside and the AI specialist will assist you in training the Agent.	#
+
+technician.2.name=AI Specialist	### NPC name, referring to their title
+technician.2.text.1=This computer will help teach the Agent about plants that are fire hazards.	#
+technician.2.text.2=Watch the images on the monitor. If a plant looks yellow and dry, it is a fire hazard, so press the YES button. If a plant looks green and healthy, it is NOT a fire hazard, so press the NO button.	#
+technician.2.text.3=§r	#
+
+
+scientist.1.name=Scientist	### NPC name, referring to their title
+scientist.1.text.1=To successfully prevent fires, the Agent will need to remove dangerous plants from the area.	#
+scientist.1.text.2=Now let's put our training to the test! Code the Agent to destroy all the plants that pose a fire hazard. Exit the chat window to start coding.	#
+
+scientist.2.name=Analyst	### NPC name, referring to their title
+scientist.2.text.1=Using images, the Agent can now detect where fires are likely to start.	#
+scientist.2.text.2=Code the Agent to alert the team if a potential fire hazard location is found on the computer monitor.	#
+scientist.2.text.3=Exit this chat window to start coding.	#
+
+pilot.1.name=Fire Captain	### NPC name, referring to their title
+pilot.1.text.1=I can't believe how quickly the Agent learned to predict fires!	#
+pilot.1.text.2=We need to hurry to this location at risk of fire!	#
+pilot.1.text.3=Let me know when you're ready to go, fire can strike at any moment!	#
+
+pilot.2.name=Fire Captain	### NPC name, referring to their title
+pilot.2.text.1=I just got a message from the Command Center. There's a storm rolling in with a high chance of lightning! We'll need to start clearing this area of dry brush before it gets here.	#
+pilot.2.text.2=Have the Agent clear that line of dry brush to remove a fire risk.	#
+
+firefighter.1.name=Firefighter 		### NPC name, referring to their title
+firefighter.1.text.1=Great job! You and your Agent were able to clear the fire hazards before the storm came in and save the village!	#
+firefighter.1.text.2=While you are here, why don't you help restore the area by planting flowers and spawning animals?	#
+
+resourcePack.education_demo_world_resources.name=M:EE Demo World Resources	#
+resourcePack.education_demo_world_resources.description=M:EE Client resources for the M:EE demo world.	#
+
+edu_demo.tip.1=Rainforests are home to more than half our planet's terrestrial animal species.	#
+edu_demo.tip.2=More than 25% of the world's population depend on forests for their livelihoods.	#
+edu_demo.tip.3=Three things are needed to keep a fire going: fuel, oxygen, and a heat source.	#
+edu_demo.tip.4=Fires, especially in peatlands and dense forests, release massive carbon emissions.	#
+edu_demo.tip.5=Computers have to be taught to learn - sort of like students!	#
+edu_demo.tip.6=AI is used to collect and analyze forest data, which is faster than counting trees by hand!	#
+
+menu.quit.edu=EXIT LESSON	#
+menu.quit.edu.title=Exit Demo Lesson	#
+
+start_screen.start_demo=Start Lesson	#
+
+lesson.finished=I'M FINISHED	### please try to keep this as close to the colloquial form of "I am Finished" as possible.
+
+lesson.end.dialog.title=Lesson Complete!	#
+lesson.end.dialog.body.title=CONGRATULATIONS	#
+lesson.end.dialog.body.wimages=You earned a certificate of completion. Check out the photos from this lesson and save a copy.	#
+lesson.end.dialog.body.checkport=Check out the photos from this lesson and save a copy.	#
+lesson.end.dialog.body.noimages=You earned a certificate of completion.	#
+lesson.end.dialog.button.morecoding=More Coding	#
+lesson.end.dialog.button.getcert=Get Certificate	#
+lesson.end.dialog.button.exit=Exit Lesson	#
+lesson.end.dialog.button.export=Save	#
+
+lesson.end.access.imagespreview=Lesson photo %1 of %2	#
+lesson.end.access.export=Export lesson photos	#

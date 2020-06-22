@@ -1,0 +1,189 @@
+﻿pack.name=Resources Een Uur Code	#
+pack.description=Benodigde resources voor Een Uur Code	#
+
+item.spawn_egg.entity.pws:npc_2.name=Spawn NPC 2	#
+entity.pws:npc_2.name=NPC 2	#
+
+item.spawn_egg.entity.pws:npc_2_firefighter.name=Spawn NPC 2 Brandweerman	#
+entity.pws:npc_2_firefighter.name=NPC 2 Brandweerman	#
+
+objective=§l§6- Huidige quest -§r	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+try.again.title=§6Opnieuw proberen§r	#
+try.again.subtitle=Probeer de quest opnieuw.	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+quest.end.title=§6Quest voltooid!§r	#
+npc.skip.name=§6Hulprobot§r	#
+
+no_button.title=§r	#
+no_button.subtitle=Probeer eerst de quest zelf te voltooien.	#
+
+take.picture=Maak een foto	#
+
+press_c=§eDruk op 'C' om te programmeren of tik op het Agent-pictogram.§r	#
+
+quest.1.end.subtitle=Gefeliciteerd! Het is je gelukt!	###subtitles appear on the screen as a success message after the quest has been completed
+quest.2.end.subtitle=Gefeliciteerd! Het is je gelukt!	#
+quest.3.end.subtitle=Gefeliciteerd! Het is je gelukt!	#
+quest.4.end.subtitle=Gefeliciteerd! Het is je gelukt!	#
+quest.5.end.subtitle=Gefeliciteerd! Het is je gelukt!	#
+quest.6.end.subtitle=Gefeliciteerd! Het is je gelukt!	#
+quest.7.end.subtitle=Gefeliciteerd! Het is je gelukt!	#
+quest.8.0.end.subtitle=Gefeliciteerd! Het is je gelukt!	#
+quest.8.end.subtitle=Gefeliciteerd! Het is je gelukt!	#
+quest.9.end.subtitle=Gefeliciteerd! Het is je gelukt!	#
+quest.10.end.subtitle=Gefeliciteerd! Het is je gelukt!	#
+quest.11.end.subtitle=Gefeliciteerd! Het is je gelukt!	#
+quest.12.end.subtitle=Gefeliciteerd! Het is je gelukt!	#
+
+
+900020=§fPraat met de onderzoeker.	###This section includes the titles of quests, which will remain onscreen until the player completes the quest. 
+900030=§fPraat met de ingenieur.	#
+900040=§fPraat met de onderzoeker.	#
+900050=§fZoek en praat met de technicus bovenaan de toren.	#
+900060=§fKlim met de ladder omlaag en vind de hoofdonderzoeker.	#
+900070=§fPraat met de AI-specialist.	#
+900071=§fPraat met de AI-specialist.	#
+900072=§fPraat met de AI-specialist.	#
+900073=§fPraat met de AI-specialist.	#
+900080=§fPraat met de wetenschapper.	#
+900090=§fPraat met de analist.	#
+900100=§fZoek de helikopter en praat met de brandweercommandant.	#
+900110=§fPraat met de brandweercommandant.	#
+900120=§fBrand! Pas op!	#
+900130=§fPraat met de brandweerman.	#
+
+welcome.board.title.1=BRAND	#
+welcome.board.title.2=ONDERZOEKS	#
+welcome.board.title.3=CENTRUM	#
+
+quest.5.easy=Korte weg	### button name, student selects either the short or long version of a maze path to solve
+quest.5.hard=Lange weg	#
+
+quest.7.yes=Ja	#
+quest.7.no=Nee	#
+quest.7.hazard=Brandgevaar	#
+
+quest.10.yes=Laten we beginnen!	#
+
+quest.13.done=Klaar!	#
+
+ladder.up.1=§r	#
+ladder.up.2=Druk op 'W' om	#
+ladder.up.3=een ladder op te klimmen.	#
+ladder.up.4=§r	#
+edge.1=Loop naar	#
+edge.2=de rand.	#
+edge.3=Geen zorgen,	#
+edge.4=je valt er niet vanaf!	#
+ladder.down.1=Brandonderzoeks-	#
+ladder.down.2=centrum	#
+ladder.down.3=|	#
+ladder.down.4=V	#
+to.center.1=Brandonderzoeks-	#
+to.center.2=centrum	#
+to.center.3=Hierheen	#
+to.center.4=----->	#
+center.1=§r	#
+center.2=Brandonderzoeks-	#
+center.3=centrum	#
+center.4=§r	#
+to.helipad.1=Heliport	#
+to.helipad.2=Hierheen	#
+to.helipad.3=<-----	#
+to.helipad.4=§r	#
+
+bot.button.skip=Quest overslaan	#
+bot.button.reset=Quest opnieuw instellen	#
+
+skip.title=§9Quest overgeslagen	#
+skip.subtitle=De hulprobot heeft de quest overgeslagen!	#
+
+complete.lesson.title=§9Reis voltooid!	#
+
+bot.name=Hulprobot	### This is the name of an NPC robot that provides the player with help in completing coding quests. "Bot" refers to the shortened form of "Robot".
+bot.1.text.1=Ik ben de Hulprobot! Als je ooit vast komt te zitten, help ik je maar al te graag! Ik kan de quest opnieuw voor je instellen of deze overslaan.	#
+bot.1.text.2=Ik kan je alleen helpen als je de quest al eens zelf hebt geprobeerd te voltooien, dus doe je best!	#
+
+bot.2.text.1=Hallo, daar ben ik weer! Kan ik je helpen? Ik kan de quest opnieuw voor je instellen of deze geheel overslaan.	#
+bot.2.text.2=Denk eraan: ik kan je alleen helpen als je de quest al eens zelf hebt geprobeerd te voltooien, dus doe je best!	#
+
+researcher.1.name=Klik op mij met de rechtermuisknop!	### NPC name, referring to their title
+researcher.1.text.1=Welkom in het onderzoekscentrum! Hier leer je hoe je AI en programmeren kunt gebruiken om branden te voorkomen.	#
+researcher.1.text.2=Je eerst taak is om code te gebruiken en daarmee deze poort te openen.	#
+researcher.1.text.3=Sluit dit chatvenster om te beginnen met programmeren.	#
+
+engineer.1.name=Ingenieur	### NPC name, referring to their title
+engineer.1.text.1=Dit is de Agent. Je kunt hem programmeren net als de poort.	#
+engineer.1.text.2=Programmeer de Agent, zodat hij 3 stappen naar voren loopt en stopt bij de markering.	#
+engineer.1.text.3=Sluit dit chatvenster om te beginnen met programmeren.	#
+
+researcher.2.name=Onderzoeker	### NPC name, referring to their title
+researcher.2.text.1=Programmeer de Agent zodat hij 4 vakjes naar voren beweegt en vervolgens de droge struik analyseert.	#
+researcher.2.text.2=§r	#
+
+technician.1.name=Technicus	### NPC name, referring to their title
+technician.1.text.1=Kijk over de rand aan je linkerkant om de Agent in het trainingslabyrint te zien. Kijk maar gerust, je valt er heus niet vanaf!	#
+technician.1.text.2=Kies hieronder een weg. Gebruik code om de Agent door het doolhof heen te loodsen, zodat hij de droge struik bereikt en deze kan analyseren.	#
+
+head.of.research.1.name=Onderzoeksleider	#
+head.of.research.1.text.1=De Agent leren brandgevaren te voorspellen is de beste manier om branden te voorkomen.	#
+head.of.research.1.text.2=Kom binnen en dan zal de AI-specialist je helpen de Agent te trainen.	#
+
+technician.2.name=AI-specialist	### NPC name, referring to their title
+technician.2.text.1=Deze computer leert de Agent iets over planten die een mogelijk brandgevaar vormen.	#
+technician.2.text.2=Bekijk de afbeeldingen op de monitor. Als een plant er geel en droog uitziet, dan is het een brandgevaar. Druk in dat geval op de knop JA. Als een plant er groen en gezond uitziet, is het GEEN brandgevaar, dus druk je op de knop NEE.	#
+technician.2.text.3=§r	#
+
+
+scientist.1.name=Wetenschapper	### NPC name, referring to their title
+scientist.1.text.1=Om branden te kunnen voorkomen, moet de Agent gevaarlijke planten uit het gebied verwijderen.	#
+scientist.1.text.2=Laten we nu eens kijken of de training heeft geholpen! Programmeer de Agent zodat hij alle planten verwijdert die een brandgevaar vormen. Sluit het chatvenster om te beginnen met programmeren.	#
+
+scientist.2.name=Analist	### NPC name, referring to their title
+scientist.2.text.1=Aan de hand van afbeeldingen kan de Agent nu vaststellen maar er mogelijk branden uitbreken.	#
+scientist.2.text.2=Programmeer de Agent zodat hij het team waarschuwt als er een mogelijk brandgevaarlijke locatie is gevonden op de computermonitor.	#
+scientist.2.text.3=Sluit dit chatvenster om te beginnen met programmeren.	#
+
+pilot.1.name=Brandweercommandant	### NPC name, referring to their title
+pilot.1.text.1=Niet te geloven hoe snel de Agent heeft geleerd branden te voorspellen!	#
+pilot.1.text.2=We moeten ons naar deze brandgevaarlijke locatie haasten!	#
+pilot.1.text.3=Laat me maar weten wanneer je klaar bent om te gaan. Brand kan op elk moment uitslaan!	#
+
+pilot.2.name=Brandweercommandant	### NPC name, referring to their title
+pilot.2.text.1=Ik heb net bericht ontvangen van het hoofdkwartier. Er komt een storm aan met grote kans op bliksem! We moeten dus gauw alle droge struiken uit dit gebied verwijderen voordat de storm er is.	#
+pilot.2.text.2=Laat de Agent die strook droge struiken weghalen om een brandgevaar te verwijderen.	#
+
+firefighter.1.name=Brandweerman 		### NPC name, referring to their title
+firefighter.1.text.1=Goed gedaan! Jij en de Agent hebben alle brandgevaren verwijderd voordat de storm er was en daarmee het dorp gered!	#
+firefighter.1.text.2=Nu je hier toch bent, kun je het gebied helpen herstellen door bloemen te planten en dieren te spawnen?	#
+
+resourcePack.education_demo_world_resources.name=M:EE-demowereldresources	#
+resourcePack.education_demo_world_resources.description=M:EE-clientresources voor de M:EE-demowereld.	#
+
+edu_demo.tip.1=Regenwouden huizen meer dan de helft van alle dierensoorten op aarde.	#
+edu_demo.tip.2=Meer dan 25% van de mensen op aarde zijn afhankelijk van bossen voor hun levensonderhoud.	#
+edu_demo.tip.3=Er zijn drie dingen nodig om een brand gaande te houden: brandstof, zuurstof en een warmtebron.	#
+edu_demo.tip.4=Bij branden, vooral in veengebieden en dichte bossen, komt een enorme hoeveelheid kooldioxide vrij.	#
+edu_demo.tip.5=Computers moeten leren om te leren, net als leerlingen!	#
+edu_demo.tip.6=Kunstmatige intelligentie wordt gebruikt om gegevens over bossen te verzamelen en analyseren, wat sneller is dan bomen met de hand tellen!	#
+
+menu.quit.edu=LES AFSLUITEN	#
+menu.quit.edu.title=Demoles afsluiten	#
+
+start_screen.start_demo=Les starten	#
+
+lesson.finished=IK BEN KLAAR	### please try to keep this as close to the colloquial form of "I am Finished" as possible. 
+
+lesson.end.dialog.title=Les voltooid!	#
+lesson.end.dialog.body.title=GEFELICITEERD	#
+lesson.end.dialog.body.wimages=Je hebt een certificaat van voltooiing ontvangen. Bekijk de foto's van deze les en sla een kopie op.	#
+lesson.end.dialog.body.checkport=Bekijk de foto's van deze les en sla een kopie op.	#
+lesson.end.dialog.body.noimages=Je hebt een certificaat van voltooiing ontvangen.	#
+lesson.end.dialog.button.morecoding=Meer programmeren	#
+lesson.end.dialog.button.getcert=Certificaat ontvangen	#
+lesson.end.dialog.button.exit=Les afsluiten	#
+lesson.end.dialog.button.export=Opslaan	#
+
+lesson.end.access.imagespreview=Lesfoto %1 van %2	#
+lesson.end.access.export=Lesfoto's exporteren	#

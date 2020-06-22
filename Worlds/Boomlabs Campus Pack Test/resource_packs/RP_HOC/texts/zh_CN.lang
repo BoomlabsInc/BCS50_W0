@@ -1,0 +1,189 @@
+﻿pack.name=编程时光	#
+pack.description=编程时光所需的资源	#
+
+item.spawn_egg.entity.pws:npc_2.name=生成非用户角色 2	#
+entity.pws:npc_2.name=非用户角色 2	#
+
+item.spawn_egg.entity.pws:npc_2_firefighter.name=生成非用户角色 2 消防员	#
+entity.pws:npc_2_firefighter.name=非用户角色 2 消防员	#
+
+objective=§l§6- 当前任务 -§r	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+try.again.title=§6再试一次§r	#
+try.again.subtitle=再尝试一次完成任务。	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+quest.end.title=§6任务完成！§r	#
+npc.skip.name=§6助手机器人§r	#
+
+no_button.title=§r	#
+no_button.subtitle=请先探索该任务。	#
+
+take.picture=拍照	#
+
+press_c=§e按 C 编写代码或触摸 Agent 图标。§r	#
+
+quest.1.end.subtitle=恭喜！您做到了！	###subtitles appear on the screen as a success message after the quest has been completed
+quest.2.end.subtitle=恭喜！您做到了！	#
+quest.3.end.subtitle=恭喜！您做到了！	#
+quest.4.end.subtitle=恭喜！您做到了！	#
+quest.5.end.subtitle=恭喜！您做到了！	#
+quest.6.end.subtitle=恭喜！您做到了！	#
+quest.7.end.subtitle=恭喜！您做到了！	#
+quest.8.0.end.subtitle=恭喜！您做到了！	#
+quest.8.end.subtitle=恭喜！您做到了！	#
+quest.9.end.subtitle=恭喜！您做到了！	#
+quest.10.end.subtitle=恭喜！您做到了！	#
+quest.11.end.subtitle=恭喜！您做到了！	#
+quest.12.end.subtitle=恭喜！您做到了！	#
+
+
+900020=§f与研究员交谈。	###This section includes the titles of quests, which will remain onscreen until the player completes the quest. 
+900030=§f与工程师交谈。	#
+900040=§f与研究员交谈。	#
+900050=§f找到塔顶的技术员并与之交谈。	#
+900060=§f顺着梯子下去，找到研究负责人。	#
+900070=§f与 AI 专家交谈。	#
+900071=§f与 AI 专家交谈。	#
+900072=§f与 AI 专家交谈。	#
+900073=§f与 AI 专家交谈。	#
+900080=§f与科学家交谈。	#
+900090=§f与分析员交谈。	#
+900100=§f找到直升机，和消防队长交谈。	#
+900110=§f与消防队长交谈。	#
+900120=§f火！小心！	#
+900130=§f与消防员交谈。	#
+
+welcome.board.title.1=火	#
+welcome.board.title.2=研究	#
+welcome.board.title.3=中心	#
+
+quest.5.easy=短路径	### button name, student selects either the short or long version of a maze path to solve
+quest.5.hard=长路径	#
+
+quest.7.yes=是	#
+quest.7.no=否	#
+quest.7.hazard=火灾危险	#
+
+quest.10.yes=出发吧！	#
+
+quest.13.done=完成了！	#
+
+ladder.up.1=§r	#
+ladder.up.2=按 "w" 以	#
+ladder.up.3=爬上梯子。	#
+ladder.up.4=§r	#
+edge.1=向上走到	#
+edge.2=窗台。	#
+edge.3=别担心。	#
+edge.4=您不会掉下去！	#
+ladder.down.1=火灾研究	#
+ladder.down.2=中心	#
+ladder.down.3=|	#
+ladder.down.4=V	#
+to.center.1=火灾研究	#
+to.center.2=中心	#
+to.center.3=这边走	#
+to.center.4=----->	#
+center.1=§r	#
+center.2=火灾研究	#
+center.3=中心	#
+center.4=§r	#
+to.helipad.1=停机坪	#
+to.helipad.2=这边走	#
+to.helipad.3=<-----	#
+to.helipad.4=§r	#
+
+bot.button.skip=跳过任务	#
+bot.button.reset=重置任务	#
+
+skip.title=§9任务已跳过	#
+skip.subtitle=机器人助手跳过了该任务！	#
+
+complete.lesson.title=§9旅程完成！	#
+
+bot.name=机器人助手	### This is the name of an NPC robot that provides the player with help in completing coding quests. "Bot" refers to the shortened form of "Robot".
+bot.1.text.1=我是您的机器人助手！如果您在旅途中遇到了困难，我很乐意帮助您！我可以帮您重置任务，也可以跳过它。	#
+bot.1.text.2=我只能在您自己尝试完成任务后才能帮助您，所以一定要先尝试着挑战一下！	#
+
+bot.2.text.1=您好，我们又见面了！有什么我可以帮助您的吗？我可以重置任务，或者完全跳过它。	#
+bot.2.text.2=记住，我只能在您自己尝试完成任务后才能帮助您，所以一定要先尝试着挑战一下！	#
+
+researcher.1.name=右键单击我！	### NPC name, referring to their title
+researcher.1.text.1=欢迎来到研究中心！在这里您将学习我们是如何使用 AI 和编程来防止火灾的。	#
+researcher.1.text.2=您的第一个任务是借助编程来打开这个门。	#
+researcher.1.text.3=退出此聊天窗口以开始编写代码。	#
+
+engineer.1.name=工程师	### NPC name, referring to their title
+engineer.1.text.1=这是 Agent。您可以对 Agent 进行编程，就像您对门做的那样。	#
+engineer.1.text.2=对 Agent 进行编程，以使其向前移动 3 步并停在标记上。	#
+engineer.1.text.3=退出此聊天窗口以开始编写代码。	#
+
+researcher.2.name=研究员	### NPC name, referring to their title
+researcher.2.text.1=给 Agent 编写代码，使它向前移动 4 个空格，然后分析前方的干燥灌木。	#
+researcher.2.text.2=§r	#
+
+technician.1.name=技术员	### NPC name, referring to their title
+technician.1.text.1=从您左边的窗台往下看，您会看到 Agent 训练迷宫。从边缘往下看……别担心，您不会掉下去的！	#
+technician.1.text.2=选择下方的一个路径按钮。借助代码使得 Agent 通过迷宫，抵达干燥灌木处并对后者进行分析。	#
+
+head.of.research.1.name=研究领导者	#
+head.of.research.1.text.1=对于我们而言，教会 Agent 预测火灾危险是最佳的防范手段。	#
+head.of.research.1.text.2=进入里面，AI 专家会帮助您训练 Agent。	#
+
+technician.2.name=AI 专家	### NPC name, referring to their title
+technician.2.text.1=这台电脑将帮助 Agent 了解有火灾危险的植物。	#
+technician.2.text.2=观看显示器上的图像。如果一棵植物看起来干枯发黄，那么它就是火灾隐患，按下“是”按钮。如果一棵植物看起来又绿又健康，就按下“否”按钮。	#
+technician.2.text.3=§r	#
+
+
+scientist.1.name=科学家	### NPC name, referring to their title
+scientist.1.text.1=为了成功防止火灾，Agent 需要清除该地区的危险植物。	#
+scientist.1.text.2=现在让我们来检验一下我们的训练成果吧！给 Agent 编写代码来使它摧毁所有具有火灾危险的植物。退出聊天窗口以开始编写代码。	#
+
+scientist.2.name=分析员	### NPC name, referring to their title
+scientist.2.text.1=通过使用图像，Agent 现在可以检测可能起火的位置了。	#
+scientist.2.text.2=给 Agent 编写代码，使它能在电脑显示器上发现潜在火灾危险位置时，向队伍发出警报。	#
+scientist.2.text.3=退出此聊天窗口以开始编写代码。	#
+
+pilot.1.name=消防队长	### NPC name, referring to their title
+pilot.1.text.1=我真不敢相信 Agent 竟然这么快就学会了预测火灾！	#
+pilot.1.text.2=我们需要尽快赶到这个有火灾危险的地点！	#
+pilot.1.text.3=您准备好出发的时候告诉我一声，火灾随时都有可能发生！	#
+
+pilot.2.name=消防队长	### NPC name, referring to their title
+pilot.2.text.1=我刚收到了一条来自命令中心的消息。一场很可能裹挟着闪电的风暴即将来临！我们需要在风暴来临之前开始清理这片地区的干燥灌木。	#
+pilot.2.text.2=让 Agent 清除那条线上的干燥灌木以消除火灾风险。	#
+
+firefighter.1.name=消防员 		### NPC name, referring to their title
+firefighter.1.text.1=干得好！您和您的 Agent 在风暴到来之前清除了火灾危险，拯救了村庄！	#
+firefighter.1.text.2=既然您已经来了，为什么不通过种植鲜花和生成动物来帮助恢复这个地区呢？	#
+
+resourcePack.education_demo_world_resources.name=M:EE 演示世界资源	#
+resourcePack.education_demo_world_resources.description=用于 M:EE 演示世界的 M:EE 客户端资源。	#
+
+edu_demo.tip.1=雨林是地球上一半以上的陆生动物的家园。	#
+edu_demo.tip.2=超过 25% 的世界人口以森林为生。	#
+edu_demo.tip.3=保持火的燃烧需要三样东西：燃料、氧气和热源。	#
+edu_demo.tip.4=火灾，尤其是在泥炭地区和茂密森林地区的火灾，会释放出大量的碳排放。	#
+edu_demo.tip.5=类似于用户，计算机只有通过被教授，才能学到东西！	#
+edu_demo.tip.6=AI 将被用于收集和分析森林数据，这比手动统计树木要快！	#
+
+menu.quit.edu=退出课程	#
+menu.quit.edu.title=退出演示课程	#
+
+start_screen.start_demo=开始课程	#
+
+lesson.finished=我完成了	### please try to keep this as close to the colloquial form of "I am Finished" as possible. 
+
+lesson.end.dialog.title=课程完成！	#
+lesson.end.dialog.body.title=恭喜	#
+lesson.end.dialog.body.wimages=您获得了结业证书。查看本课程中的照片并保存副本。	#
+lesson.end.dialog.body.checkport=查看本课程中的照片并保存副本。	#
+lesson.end.dialog.body.noimages=您获得了结业证书。	#
+lesson.end.dialog.button.morecoding=更多编程	#
+lesson.end.dialog.button.getcert=获取证书	#
+lesson.end.dialog.button.exit=退出课程	#
+lesson.end.dialog.button.export=保存	#
+
+lesson.end.access.imagespreview=课程照片 第 %1 张，共 %2 张	#
+lesson.end.access.export=导出课程照片	#

@@ -1,0 +1,189 @@
+﻿pack.name=Koodaustuntiresurssit	#
+pack.description=Koodaustuntiin tarvittavat resurssit	#
+
+item.spawn_egg.entity.pws:npc_2.name=Luo NPC 2	#
+entity.pws:npc_2.name=NPC 2	#
+
+item.spawn_egg.entity.pws:npc_2_firefighter.name=Luo NPC 2 -palomies	#
+entity.pws:npc_2_firefighter.name=NPC 2 -palomies	#
+
+objective=§l§6- Nykyinen tehtävä -§r	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+try.again.title=§6Yritä uudelleen§r	#
+try.again.subtitle=Kokeile tehtävääsi vielä kerran.	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+quest.end.title=§6Tehtävä suoritettu!§r	#
+npc.skip.name=§6Apubotti§r	#
+
+no_button.title=§r	#
+no_button.subtitle=Kokeile ensin tehtävää.	#
+
+take.picture=Ota kuva	#
+
+press_c=§ePaina "C", jos haluat koodata, tai kosketa Agentti-kuvaketta.§r	#
+
+quest.1.end.subtitle=Onnittelut! Teit sen!	###subtitles appear on the screen as a success message after the quest has been completed
+quest.2.end.subtitle=Onnittelut! Teit sen!	#
+quest.3.end.subtitle=Onnittelut! Teit sen!	#
+quest.4.end.subtitle=Onnittelut! Teit sen!	#
+quest.5.end.subtitle=Onnittelut! Teit sen!	#
+quest.6.end.subtitle=Onnittelut! Teit sen!	#
+quest.7.end.subtitle=Onnittelut! Teit sen!	#
+quest.8.0.end.subtitle=Onnittelut! Teit sen!	#
+quest.8.end.subtitle=Onnittelut! Teit sen!	#
+quest.9.end.subtitle=Onnittelut! Teit sen!	#
+quest.10.end.subtitle=Onnittelut! Teit sen!	#
+quest.11.end.subtitle=Onnittelut! Teit sen!	#
+quest.12.end.subtitle=Onnittelut! Teit sen!	#
+
+
+900020=§fPuhu tutkijan kanssa.	###This section includes the titles of quests, which will remain onscreen until the player completes the quest. 
+900030=§fPuhu insinöörin kanssa.	#
+900040=§fPuhu tutkijan kanssa.	#
+900050=§fEtsi teknikko tornin huipulta ja puhu hänen kanssaan.	#
+900060=§fKiipeä tikapuita alas ja etsi tutkimuspäällikkö.	#
+900070=§fPuhu tekoälyasiantuntijan kanssa.	#
+900071=§fPuhu tekoälyasiantuntijan kanssa.	#
+900072=§fPuhu tekoälyasiantuntijan kanssa.	#
+900073=§fPuhu tekoälyasiantuntijan kanssa.	#
+900080=§fPuhu tieteilijän kanssa.	#
+900090=§fPuhu analyytikon kanssa.	#
+900100=§fEtsi helikopteri ja puhu palopäällikön kanssa.	#
+900110=§fPuhu palopäällikön kanssa.	#
+900120=§Varo, tulipalo!	#
+900130=§fPuhu palomiehen kanssa.	#
+
+welcome.board.title.1=PALO-	#
+welcome.board.title.2=TUTKIMUS-	#
+welcome.board.title.3=KESKUS	#
+
+quest.5.easy=Lyhyt polku	### button name, student selects either the short or long version of a maze path to solve
+quest.5.hard=Pitkä polku	#
+
+quest.7.yes=Kyllä	#
+quest.7.no=Ei	#
+quest.7.hazard=Palovaara	#
+
+quest.10.yes=Nyt mennään!	#
+
+quest.13.done=Olen valmis!	#
+
+ladder.up.1=§r	#
+ladder.up.2=Paina "w"	#
+ladder.up.3=kiivetäksesi tikapuita.	#
+ladder.up.4=§r	#
+edge.1=Kävele	#
+edge.2=kielekkeelle.	#
+edge.3=Älä huoli,	#
+edge.4=et voi pudota!	#
+ladder.down.1=Palotutkimus-	#
+ladder.down.2=keskus	#
+ladder.down.3=|	#
+ladder.down.4=V	#
+to.center.1=Palotutkimus-	#
+to.center.2=keskus	#
+to.center.3=Tätä tietä	#
+to.center.4=----->	#
+center.1=§r	#
+center.2=Palotutkimus-	#
+center.3=keskus	#
+center.4=§r	#
+to.helipad.1=Helikopterialusta	#
+to.helipad.2=Tätä tietä	#
+to.helipad.3=<-----	#
+to.helipad.4=§r	#
+
+bot.button.skip=Ohita tehtävä	#
+bot.button.reset=Aloita tehtävä alusta	#
+
+skip.title=§9Tehtävä ohitettu	#
+skip.subtitle=Apubotti jätti tehtävän välistä!	#
+
+complete.lesson.title=§9Matka on päättynyt!	#
+
+bot.name=Apubotti	### This is the name of an NPC robot that provides the player with help in completing coding quests. "Bot" refers to the shortened form of "Robot".
+bot.1.text.1=Olen Apubotti! Jos jäät jumiin matkallasi, autan sinua mielelläni! Voin joko aloittaa tehtävän alusta tai ohittaa sen puolestasi.	#
+bot.1.text.2=Voin auttaa vasta, kun olet kokeillut tehtävää itse, joten muista yrittää ensin itse!	#
+
+bot.2.text.1=Hei taas! Kuinka voin auttaa? Voin joko aloittaa tehtävän alusta tai ohittaa sen kokonaan.	#
+bot.2.text.2=Muista, että voin auttaa vasta, kun olet kokeillut tehtävää itse. Yritä siis ensin itse!	#
+
+researcher.1.name=Napsauta Oikealla!	### NPC name, referring to their title
+researcher.1.text.1=Tervetuloa tutkimuskeskukseen! Täällä opit, miten käytämme tekoälyä ja koodausta tulipalojen ehkäisyyn.	#
+researcher.1.text.2=Ensimmäinen tehtäväsi on käyttää koodausta avataksesi tämän portin.	#
+researcher.1.text.3=Poistu tästä chatti-ikkunasta aloittaaksesi koodaamisen.	#
+
+engineer.1.name=Insinööri	### NPC name, referring to their title
+engineer.1.text.1=Tämä on Agent. Voit ohjelmoida Agentin samalla tavalla kuin portin.	#
+engineer.1.text.2=Koodaa Agent liikkumaan 3 askelta eteenpäin ja pysähtymään merkin kohdalla.	#
+engineer.1.text.3=Poistu tästä chatti-ikkunasta aloittaaksesi koodaamisen.	#
+
+researcher.2.name=Tutkija	### NPC name, referring to their title
+researcher.2.text.1=Koodaa Agent liikkumaan 4 ruutua eteenpäin ja analysoimaan edessään olevan kuivan aluskasvillisuuden.	#
+researcher.2.text.2=§r	#
+
+technician.1.name=Teknikko	### NPC name, referring to their title
+technician.1.text.1=Katso vasemmalla puolellasi olevan kielekkeen yli, niin näet Agentin koulutussokkelon. Vilkaise kielekkeeltä.... Älä huoli, et voi pudota!	#
+technician.1.text.2=Valitse alta polkupainike. Käytä koodia saadaksesi Agentin kulkemaan sokkelon läpi kuivaan pensaikkoon ja analysoi se.	#
+
+head.of.research.1.name=Tutkimuspäällikkö	#
+head.of.research.1.text.1=Palovaarojen ennustamisen opettaminen Agentille on paras keinomme ehkäistä tulipaloja.	#
+head.of.research.1.text.2=Tule peremmälle, niin tekoälyasiantuntija auttaa sinua Agentin kouluttamisessa.	#
+
+technician.2.name=Tekoälyasiantuntija	### NPC name, referring to their title
+technician.2.text.1=Tämä tietokone auttaa opettamaan Agentille tietoja helposti palavista kasveista.	#
+technician.2.text.2=Katso näytöllä esitettyjä kuvia. Jos kasvi näyttää keltaiselta ja kuivalta, siihen liittyy tulipalovaara, joten paina KYLLÄ-painiketta. Jos kasvi näyttää terveeltä ja vihreältä, siihen EI liity tulipalovaaraa, joten paina EI-painiketta.	#
+technician.2.text.3=§r	#
+
+
+scientist.1.name=Tieteilijä	### NPC name, referring to their title
+scientist.1.text.1=Jotta palojen ehkäiseminen onnistuu, Agentin on poistettava vaaralliset kasvit alueelta.	#
+scientist.1.text.2=On aika kokeilla oppimaamme! Koodaa Agent tuhoamaan kaikki palovaaran aiheuttavat kasvit. Poistu chatti-ikkunasta aloittaaksesi koodaamisen.	#
+
+scientist.2.name=Analyytikko	### NPC name, referring to their title
+scientist.2.text.1=Agent voi nyt kuvien avulla havaita, missä paloja todennäköisesti syttyy.	#
+scientist.2.text.2=Koodaa Agent ilmoittamaan tiimille, jos tietokoneen näytöstä löytyy palovaarallinen paikka.	#
+scientist.2.text.3=Poistu tästä chatti-ikkunasta aloittaaksesi koodaamisen.	#
+
+pilot.1.name=Palopäällikkö	### NPC name, referring to their title
+pilot.1.text.1=Agent oppi ennustamaan tulipaloja uskomattoman nopeasti!	#
+pilot.1.text.2=Meidän on kiiruhdettava tähän palovaaralliseen paikkaan!	#
+pilot.1.text.3=Ilmoita minulle, kun olet valmis, palo voi syttyä milloin tahansa!	#
+
+pilot.2.name=Palopäällikkö	### NPC name, referring to their title
+pilot.2.text.1=Sain juuri viestin komentokeskuksesta. Tulossa on myrsky, ja salamoiden todennäköisyys on suuri! Meidän on aloitettava kuivan aluskasvillisuuden raivaaminen tältä alueelta, ennen kuin se saapuu.	#
+pilot.2.text.2=Laita Agentti raivaamaan rivi kuivaa pensaikkoa tulipalovaaran poistamiseksi.	#
+
+firefighter.1.name=Palomies 		### NPC name, referring to their title
+firefighter.1.text.1=Hyvää työtä! Sinä ja Agentisi onnistuitte poistamaan palovaarat ennen myrskyn tuloa ja pelastitte kylän!	#
+firefighter.1.text.2=Kun nyt kerran olet täällä, mitä jos auttaisit meitä elävöittämään aluetta istuttamalla kukkia ja synnyttämällä tänne eläimiä?	#
+
+resourcePack.education_demo_world_resources.name=M:EE-demomaailman resurssit	#
+resourcePack.education_demo_world_resources.description=M:EE-asiakasresurssit M:EE-demomaailmaa varten.	#
+
+edu_demo.tip.1=Sademetsät kätkevät sisälleen yli puolet planeettamme maaeläinlajeista.	#
+edu_demo.tip.2=Yli 25 prosenttia maailman väestöstä saa elantonsa metsistä.	#
+edu_demo.tip.3=Tulen ylläpitämiseen tarvitaan kolmea asiaa: polttoainetta, happea ja lämmönlähde.	#
+edu_demo.tip.4=Tulipalot aiheuttavat huomattavia hiilipäästöjä erityisesti turvemailla ja tiheissä metsissä.	#
+edu_demo.tip.5=Tietokoneita on opetettava, jotta ne oppivat – vähän niin kuin oppijoitakin!	#
+edu_demo.tip.6=Tekoälyä käytetään metsää koskevien tietojen keräämiseen ja analysointiin. Se on paljon nopeampaa kuin puiden laskeminen päässä.	#
+
+menu.quit.edu=POISTU LUENNOLTA	#
+menu.quit.edu.title=Poistu esittelyluennolta	#
+
+start_screen.start_demo=Aloita luento	#
+
+lesson.finished=OLEN VALMIS	### please try to keep this as close to the colloquial form of "I am Finished" as possible. 
+
+lesson.end.dialog.title=Luento suoritettu!	#
+lesson.end.dialog.body.title=ONNEKSI OLKOON	#
+lesson.end.dialog.body.wimages=Olet ansainnut sertifikaatin suorituksestasi. Katso tämän luennon kuvat ja tallenna kopio.	#
+lesson.end.dialog.body.checkport=Katso tämän luennon kuvat ja tallenna kopio.	#
+lesson.end.dialog.body.noimages=Olet ansainnut sertifikaatin suorituksestasi.	#
+lesson.end.dialog.button.morecoding=Lisää koodausta	#
+lesson.end.dialog.button.getcert=Hanki sertifikaatti	#
+lesson.end.dialog.button.exit=Poistu luennolta	#
+lesson.end.dialog.button.export=Tallenna	#
+
+lesson.end.access.imagespreview=Luennon kuva %1/%2	#
+lesson.end.access.export=Vie luennon kuvia	#

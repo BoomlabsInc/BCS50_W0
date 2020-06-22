@@ -1,0 +1,189 @@
+﻿pack.name=Kódolás Órája nyersanyagok	#
+pack.description=A Kódolás Órájához szükséges nyersanyagok	#
+
+item.spawn_egg.entity.pws:npc_2.name=NJK 2 idézése	#
+entity.pws:npc_2.name=NJK 2	#
+
+item.spawn_egg.entity.pws:npc_2_firefighter.name=NJK 2 tűzoltó idézése	#
+entity.pws:npc_2_firefighter.name=NJK 2 tűzoltó	#
+
+objective=§l§6– Jelenlegi feladat –§r	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+try.again.title=§6Új próba§r	#
+try.again.subtitle=Próbáld meg újra a feladatot.	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+quest.end.title=§6Feladat teljesítve!§r	#
+npc.skip.name=§6Robotsegéd§r	#
+
+no_button.title=§r	#
+no_button.subtitle=Először próbálkozz a kereséssel!	#
+
+take.picture=Készíts egy képet!	#
+
+press_c=§eNyomd meg a „C”-t a kódoláshoz, vagy érintsd meg az Agent ikont.§r	#
+
+quest.1.end.subtitle=Gratulálok! Megcsináltad!	###subtitles appear on the screen as a success message after the quest has been completed
+quest.2.end.subtitle=Gratulálok! Megcsináltad!	#
+quest.3.end.subtitle=Gratulálok! Megcsináltad!	#
+quest.4.end.subtitle=Gratulálok! Megcsináltad!	#
+quest.5.end.subtitle=Gratulálok! Megcsináltad!	#
+quest.6.end.subtitle=Gratulálok! Megcsináltad!	#
+quest.7.end.subtitle=Gratulálok! Megcsináltad!	#
+quest.8.0.end.subtitle=Gratulálok! Megcsináltad!	#
+quest.8.end.subtitle=Gratulálok! Megcsináltad!	#
+quest.9.end.subtitle=Gratulálok! Megcsináltad!	#
+quest.10.end.subtitle=Gratulálok! Megcsináltad!	#
+quest.11.end.subtitle=Gratulálok! Megcsináltad!	#
+quest.12.end.subtitle=Gratulálok! Megcsináltad!	#
+
+
+900020=§fBeszélj a kutatóval.	###This section includes the titles of quests, which will remain onscreen until the player completes the quest. 
+900030=§fBeszélj a mérnökkel.	#
+900040=§fBeszélj a kutatóval.	#
+900050=§fKeresd meg és beszélj a technikussal a torony tetején.	#
+900060=§fMenj le a létrán, és keresd meg a Kutatásvezetőt!	#
+900070=§fBeszélj a mesterségesintelligencia-szakértővel!	#
+900071=§fBeszélj a mesterségesintelligencia-szakértővel!	#
+900072=§fBeszélj a mesterségesintelligencia-szakértővel!	#
+900073=§fBeszélj a mesterségesintelligencia-szakértővel!	#
+900080=§fBeszélj a kutatóval!	#
+900090=§fBeszélj az elemzővel!	#
+900100=§fKeresd meg a helikoptert, és beszélj a tűzoltóparancsnokkal!	#
+900110=§fBeszélj a tűzoltóparancsnokkal!	#
+900120=§fTűz! Vigyázz!	#
+900130=§fBeszélj a tűzoltóval!	#
+
+welcome.board.title.1=TŰZ-	#
+welcome.board.title.2=KUTATÁSI	#
+welcome.board.title.3=KÖZPONT	#
+
+quest.5.easy=Rövid útvonal	### button name, student selects either the short or long version of a maze path to solve
+quest.5.hard=Hosszú útvonal	#
+
+quest.7.yes=Igen	#
+quest.7.no=Nem	#
+quest.7.hazard=Tűzveszély	#
+
+quest.10.yes=Gyerünk!	#
+
+quest.13.done=Kész vagyok!	#
+
+ladder.up.1=§r	#
+ladder.up.2=Nyomd meg a „w” billentyűt, ha	#
+ladder.up.3=fel szeretnél mászni a létrán.	#
+ladder.up.4=§r	#
+edge.1=Sétálj el	#
+edge.2=a peremig!	#
+edge.3=Ne aggódj!	#
+edge.4=Nem fogsz leesni.	#
+ladder.down.1=Tűzkutatási	#
+ladder.down.2=Központ	#
+ladder.down.3=|	#
+ladder.down.4=V	#
+to.center.1=Tűzkutatási	#
+to.center.2=Központ	#
+to.center.3=Erre	#
+to.center.4=----->	#
+center.1=§r	#
+center.2=Tűzkutatási	#
+center.3=Központ	#
+center.4=§r	#
+to.helipad.1=Helikopter-leszálló	#
+to.helipad.2=Erre	#
+to.helipad.3=<-----	#
+to.helipad.4=§r	#
+
+bot.button.skip=Feladat átugrása	#
+bot.button.reset=Feladat visszaállítása	#
+
+skip.title=§9Feladat átugorva	#
+skip.subtitle=A segítőrobot kihagyta a keresést!	#
+
+complete.lesson.title=§9Utazás teljesítve!	#
+
+bot.name=Robotsegéd	### This is the name of an NPC robot that provides the player with help in completing coding quests. "Bot" refers to the shortened form of "Robot".
+bot.1.text.1=Én vagyok a robotsegéd! Ha bárhol elakadnál utazásod során, boldogan segítek! Visszaállíthatom neked a feladatot, vagy akár át is ugorhatod.	#
+bot.1.text.2=Csak akkor segíthetek, ha már megpróbálkoztál a feladattal, így először mindenképp fuss neki magad!	#
+
+bot.2.text.1=Üdv újra! Miben segíthetek? Visszaállíthatom neked a feladatot, vagy akár át is ugorhatod az egészet.	#
+bot.2.text.2=Ne feledd, csak akkor segíthetek, ha már megpróbálkoztál a feladattal, így először mindenképp fuss neki magad!	#
+
+researcher.1.name=Kattints ide a jobb egérgombbal!	### NPC name, referring to their title
+researcher.1.text.1=Üdv a Kutatóközpontban! Itt megtudhatod, hogy hogyan használjuk a mesterséges intelligenciát és a kódolást a tűzesetek megelőzésére.	#
+researcher.1.text.2=Az első feladatod az, hogy kódolás segítségével nyisd ki ezt a kaput.	#
+researcher.1.text.3=A kódolás elkezdéséhez lépj ki ebből a csevegőablakból!	#
+
+engineer.1.name=Mérnök	### NPC name, referring to their title
+engineer.1.text.1=Ez az Agent. Beprogramozhatod az Agentet, mint ahogyan a kapuval tetted.	#
+engineer.1.text.2=Kódold be az Agentet, hogy tegyen 3 lépést előre, és álljon meg a jelen.	#
+engineer.1.text.3=A kódolás elkezdéséhez lépj ki ebből a csevegőablakból!	#
+
+researcher.2.name=Kutató	### NPC name, referring to their title
+researcher.2.text.1=Kódold az Agentet, hogy lépjen 4 mezőt előre, majd elemezd a száraz bozótot.	#
+researcher.2.text.2=§r	#
+
+technician.1.name=Technikus	### NPC name, referring to their title
+technician.1.text.1=Nézz le a peremről a bal oldalra, és látni fogod a kiképzőlabirintust. Kukucskálj át a peremen... ne aggódj, nem fogsz leesni!	#
+technician.1.text.2=Válaszd ki alább az egyik útvonalgombot! Kódolás segítségével juttasd át az Agentet a labirintuson, hogy eljusson a száraz bozóthoz, és kielemezhesse azt!	#
+
+head.of.research.1.name=Kutatási vezető	#
+head.of.research.1.text.1=A tűzmegelőzés legjobb módja, ha megtanítjuk az Agentet a tűzesetek előrejelzésére.	#
+head.of.research.1.text.2=Lépj be, és egy mesterségesintelligencia-szakértő majd segít az Agent képzésében.	#
+
+technician.2.name=MI specialista	### NPC name, referring to their title
+technician.2.text.1=Ez a számítógép segít megtanítani az Agentnek, mely növények tűzveszélyesek.	#
+technician.2.text.2=Figyeld a monitoron látható képeket! Ha a növények sárgák és szárazak, nyomd meg az IGEN gombot. Ha a növények zöldek és egészségesek, NEM tűzveszélyesek, úgyhogy nyomd meg a NEM gombot.	#
+technician.2.text.3=§r	#
+
+
+scientist.1.name=Tudós	### NPC name, referring to their title
+scientist.1.text.1=A tüzek megakadályozásához az Agentnek el kell távolítania a veszélyes növényeket az útból.	#
+scientist.1.text.2=Tegyük próbára a tudásunkat! Programozd be úgy az Agentet, hogy pusztítsa el az összes tűzveszélyes növényt. A kódolás elkezdéséhez lépj ki a csevegőablakból.	#
+
+scientist.2.name=Elemző	### NPC name, referring to their title
+scientist.2.text.1=Képeket használva az Agent már érzékeli, hogy valószínűleg hol kezdődhet tűz.	#
+scientist.2.text.2=Kódold be az Agentet, hogy figyelmeztesse a csapatot, ha potenciális tűzveszélyes hely található a számítógép monitorán.	#
+scientist.2.text.3=A kódolás elkezdéséhez lépj ki ebből a csevegőablakból!	#
+
+pilot.1.name=Tűzoltó parancsnok	### NPC name, referring to their title
+pilot.1.text.1=Hihetetlen, hogy az Agent milyen gyorsan megtanulta előre jelezni a tűzeseteket!	#
+pilot.1.text.2=Tűzveszély esetén sietnünk kell ide!	#
+pilot.1.text.3=Szólj, ha készen állsz, tűz bármikor keletkezhet!	#
+
+pilot.2.name=Tűzoltó parancsnok	### NPC name, referring to their title
+pilot.2.text.1=Üzenetet kaptam a parancsnoki központból. Vihar közeledik, valószínű sok villámlással! El kell takarítanunk a kiszáradt bozótost, mielőtt ideér a vihar!	#
+pilot.2.text.2=Utasítsd az Agentet, hogy takarítsa el a száraz bozótost és elhárítsa a tűzveszélyt.	#
+
+firefighter.1.name=Tűzoltó 		### NPC name, referring to their title
+firefighter.1.text.1=Szép munka! Az Agent segítségével meg tudtátok szüntetni a tűzveszélyt még a vihar előtt, és megmentettétek a falut!	#
+firefighter.1.text.2=Ha már itt vagy, miért nem segítesz helyreállítani a területet virágokat ültetve és állatokat idézve?	#
+
+resourcePack.education_demo_world_resources.name=M:EE demóvilág-erőforrások	#
+resourcePack.education_demo_world_resources.description=M:EE ügyfélerőforrások az M:EE demóvilághoz.	#
+
+edu_demo.tip.1=A bolygó szárazföldi állatfajainak több mint fele az esőerdőkben honos.	#
+edu_demo.tip.2=Az emberiség több mint egynegyedének megélhetése függ az erdőktől.	#
+edu_demo.tip.3=Ahhoz, hogy a tűz ne aludjon ki, három dologra van szükség: tüzelőanyagra, oxigénre és hőforrásra.	#
+edu_demo.tip.4=A tüzek, különösen a tőzeges területeken és a sűrű erdőkben, hatalmas mennyiségű széndioxidot szabadítanak fel.	#
+edu_demo.tip.5=A számítógépeket is meg kell tanítani tanulni – akárcsak a diákokat!	#
+edu_demo.tip.6=Az erdők adatainak gyűjtését és elemzését mesterséges intelligencia végzi, ami sokkal gyorsabb, mintha kézzel kellene megszámlálni a fákat!	#
+
+menu.quit.edu=KILÉPÉS A LECKÉBŐL	#
+menu.quit.edu.title=Bemutató lecke bezárása	#
+
+start_screen.start_demo=Lecke indítása	#
+
+lesson.finished=BEFEJEZTEM	### please try to keep this as close to the colloquial form of "I am Finished" as possible. 
+
+lesson.end.dialog.title=Lecke teljesítve!	#
+lesson.end.dialog.body.title=GRATULÁLUNK	#
+lesson.end.dialog.body.wimages=Oklevelet kaptál a sikeres teljesítésről. Nézd meg a lecke során készült képeket és ments el belőlük saját példányt.	#
+lesson.end.dialog.body.checkport=Nézd meg a lecke során készült képeket és ments el belőlük saját példányt.	#
+lesson.end.dialog.body.noimages=Oklevelet kaptál a sikeres teljesítésről.	#
+lesson.end.dialog.button.morecoding=További programozási ismeretek	#
+lesson.end.dialog.button.getcert=Oklevél átvétele	#
+lesson.end.dialog.button.exit=Kilépés a leckéből	#
+lesson.end.dialog.button.export=Mentés	#
+
+lesson.end.access.imagespreview=%1/%2 lecke során készült fotó	#
+lesson.end.access.export=Lecke során készült fotók exportálása	#

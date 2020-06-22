@@ -1,0 +1,189 @@
+﻿pack.name=Hour of Code リソース	#
+pack.description=Hour of Code に必要なリソース	#
+
+item.spawn_egg.entity.pws:npc_2.name=NPC 2 を出現させる	#
+entity.pws:npc_2.name=NPC 2	#
+
+item.spawn_egg.entity.pws:npc_2_firefighter.name=NPC 2 消防士を出現させる	#
+entity.pws:npc_2_firefighter.name=NPC 2 消防士	#
+
+objective=§l§6- 現在のクエスト -§r	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+try.again.title=§6もう一度§r	#
+try.again.subtitle=クエストにもう一度挑戦しましょう。	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+quest.end.title=§6クエスト クリア!§r	#
+npc.skip.name=§6助手ロボット§r	#
+
+no_button.title=§r	#
+no_button.subtitle=まずはクエストに挑戦しましょう。	#
+
+take.picture=写真を撮る	#
+
+press_c=§e C キーを押してコーディングする。または、Agent のアイコンをタッチする。§r	#
+
+quest.1.end.subtitle=おめでとう！お見事！	###subtitles appear on the screen as a success message after the quest has been completed
+quest.2.end.subtitle=おめでとう！お見事！	#
+quest.3.end.subtitle=おめでとう！お見事！	#
+quest.4.end.subtitle=おめでとう！お見事！	#
+quest.5.end.subtitle=おめでとう！お見事！	#
+quest.6.end.subtitle=おめでとう！お見事！	#
+quest.7.end.subtitle=おめでとう！お見事！	#
+quest.8.0.end.subtitle=おめでとう！お見事！	#
+quest.8.end.subtitle=おめでとう！お見事！	#
+quest.9.end.subtitle=おめでとう！お見事！	#
+quest.10.end.subtitle=おめでとう！お見事！	#
+quest.11.end.subtitle=おめでとう！お見事！	#
+quest.12.end.subtitle=おめでとう！お見事！	#
+
+
+900020=§f研究員に話しかける。	###This section includes the titles of quests, which will remain onscreen until the player completes the quest. 
+900030=§fエンジニアに話しかける。	#
+900040=§f研究員に話しかける。	#
+900050=§f塔の上にいる技術者を探して話しかける。	#
+900060=§fはしごを下りて、研究責任者を見つける。	#
+900070=§fAI 専門家に話しかける。	#
+900071=§fAI 専門家に話しかける。	#
+900072=§fAI 専門家に話しかける。	#
+900073=§fAI 専門家に話しかける。	#
+900080=§f科学者に話しかける。	#
+900090=§fアナリストに話しかける。	#
+900100=§fヘリコプターを探して、消防署長に話しかける。	#
+900110=§f消防署長に話しかける。	#
+900120=§f火事が発生! 気を付けて!	#
+900130=§f消防士に話しかける。	#
+
+welcome.board.title.1=火事	#
+welcome.board.title.2=研究	#
+welcome.board.title.3=センター	#
+
+quest.5.easy=短い迷路	### button name, student selects either the short or long version of a maze path to solve
+quest.5.hard=長い迷路	#
+
+quest.7.yes=はい	#
+quest.7.no=いいえ	#
+quest.7.hazard=火事の危険	#
+
+quest.10.yes=行こう!	#
+
+quest.13.done=完了!	#
+
+ladder.up.1=§r	#
+ladder.up.2=W キーを押して	#
+ladder.up.3=はしごを登りましょう。	#
+ladder.up.4=§r	#
+edge.1=崖に	#
+edge.2=近付きましょう	#
+edge.3=下には落ちないので	#
+edge.4=大丈夫!	#
+ladder.down.1=火災研究	#
+ladder.down.2=センター	#
+ladder.down.3=|	#
+ladder.down.4=V	#
+to.center.1=火災研究	#
+to.center.2=センターは	#
+to.center.3=こちら	#
+to.center.4=----->	#
+center.1=§r	#
+center.2=火災研究	#
+center.3=センター	#
+center.4=§r	#
+to.helipad.1=ヘリポート	#
+to.helipad.2=こちら	#
+to.helipad.3=<-----	#
+to.helipad.4=§r	#
+
+bot.button.skip=クエストをスキップ	#
+bot.button.reset=クエストをリセット	#
+
+skip.title=§9クエストをスキップしました	#
+skip.subtitle=助手ロボットがクエストをスキップしました!	#
+
+complete.lesson.title=§9コース完了!	#
+
+bot.name=助手ロボット	### This is the name of an NPC robot that provides the player with help in completing coding quests. "Bot" refers to the shortened form of "Robot".
+bot.1.text.1=私は助手ロボット! コースの途中で分からなくなったなら、喜んでお手伝いします! お困りなら、クエストのリセットかスキップを行えます。	#
+bot.1.text.2=私がお手伝いできるのは、あなた自身がクエストに挑戦した後です。まずは自分の力でやってみましょう!	#
+
+bot.2.text.1=また会いましたね。お困りなら、クエストのリセットやスキップを行うことができます。	#
+bot.2.text.2=ただし、私がお手伝いできるのは、あなた自身がクエストに挑戦した後です。まずは自分の力でやってみましょう!	#
+
+researcher.1.name=右クリックしよう！	### NPC name, referring to their title
+researcher.1.text.1=研究センターへようこそ! ここでは AI とコーディングを使った火災予防の方法を学ぶことができます。	#
+researcher.1.text.2=最初のタスクは、コーディングを使用してこのゲートを開くことです。	#
+researcher.1.text.3=このチャット ウィンドウを閉じて、コーディングを始めましょう。	#
+
+engineer.1.name=エンジニア	### NPC name, referring to their title
+engineer.1.text.1=これが Agent です。ゲートと同じように、 Agent をプログラムさせることができます。	#
+engineer.1.text.2=Agent を 3 歩前進させ、マーカーの上で止まるようにコーディングしましょう。	#
+engineer.1.text.3=このチャット ウィンドウを閉じて、コーディングを始めましょう。	#
+
+researcher.2.name=研究員	### NPC name, referring to their title
+researcher.2.text.1=コーディングを使って Agent を４マス前進させた後、前方の乾燥した雑草を分析しましょう。	#
+researcher.2.text.2=§r	#
+
+technician.1.name=技術者	### NPC name, referring to their title
+technician.1.text.1=左側の崖を見下ろすと、Agent をトレーニングするための迷路が見えます。崖の縁から見てみましょう... 落ちる心配はないので安心してください!	#
+technician.1.text.2=下の迷路ボタンを選びましょう。Agent が迷路を抜けて、その先にある乾燥した雑草を分析できるようコーディングしましょう。	#
+
+head.of.research.1.name=研究責任者	#
+head.of.research.1.text.1=火事を防ぐには、火事の原因になりそうな物を Agent に教えるのが一番の方法です。	#
+head.of.research.1.text.2=中に入ると、AI 専門家が Agent のトレーニングを手伝ってくれます。	#
+
+technician.2.name=AI 専門家	### NPC name, referring to their title
+technician.2.text.1=このコンピューターを使えば、火災の原因となる植物について、 Agent に教えることができます。	#
+technician.2.text.2=モニターに映った画像を見てください。植物が黄色で乾燥しているように見えれば、それは火災の原因になるので、[YES] ボタンを押しましょう。植物が緑色で健康そうなら、火災の原因にはならないので、[NO] ボタンを押してください。	#
+technician.2.text.3=§r	#
+
+
+scientist.1.name=科学者	### NPC name, referring to their title
+scientist.1.text.1=火事を防ぐために、Agent はこのエリアから危険な植物を取り除く必要があります。	#
+scientist.1.text.2=ではトレーニングの成果を試してみましょう! Agent をコーデイングして、火災の原因となる植物をすべて取り除いてください。チャット ウィンドウを閉じて、コーディングを始めましょう。	#
+
+scientist.2.name=アナリスト	### NPC name, referring to their title
+scientist.2.text.1=画像を使って、 Agent は火事がどこから起こりやすいかを検知することができるようになりました。	#
+scientist.2.text.2=Agent をコーディングして、コンピューター画面上で火災の原因となり得る場所が見つかったかどうかをチームに警告しましょう。	#
+scientist.2.text.3=このチャット ウィンドウを閉じて、コーディングを始めましょう。	#
+
+pilot.1.name=消防署長	### NPC name, referring to their title
+pilot.1.text.1=Agent がこんなに早く火事の予測方法を学習するとは驚きました!	#
+pilot.1.text.2=火事の原因になりそうな場所を早く突き止めなければ！	#
+pilot.1.text.3=出発の準備ができたら教えてください。火事はいつ起きるか分かりません。	#
+
+pilot.2.name=消防署長	### NPC name, referring to their title
+pilot.2.text.1=指令センターからメッセージが届きました。高い確率で雷を伴う嵐が近付いています！嵐が来る前に、このエリアの乾燥した雑草を取り除く必要があります。	#
+pilot.2.text.2=Agent に乾燥した雑草を片付けさせて、火事のリスクをなくす。	#
+
+firefighter.1.name=消防士 		### NPC name, referring to their title
+firefighter.1.text.1=素晴らしい！あなたと Agent は嵐が来る前に火事の原因を取り除き、村を守ることができました！	#
+firefighter.1.text.2=花を植えて、さらに動物を呼び出して、この場所の復興を手伝ってみてはどうでしょう?	#
+
+resourcePack.education_demo_world_resources.name=M:EE 試用版の世界のリソース	#
+resourcePack.education_demo_world_resources.description=M:EE 試用版の世界に使用する M:EE クライアントのリソース。	#
+
+edu_demo.tip.1=熱帯雨林には、地球上の陸生動物の半数以上が生息しています。	#
+edu_demo.tip.2=世界の人口の25％以上が森林に依存して生計を立てています。	#
+edu_demo.tip.3=火を燃やし続けるには、燃料、酸素、熱源の3つが必要です	#
+edu_demo.tip.4=特に泥炭地や密林火災は、大量の炭素排出が放出されます。	#
+edu_demo.tip.5=コンピューターは学んで教わらなければなりません。まるで生徒のように！	#
+edu_demo.tip.6=AIは森林データの収集および分析に使用でき、手作業で木を数えるよりも高速です！	#
+
+menu.quit.edu=レッスンを終了	#
+menu.quit.edu.title=デモレッスンを終了	#
+
+start_screen.start_demo=レッスンを開始	#
+
+lesson.finished=終了	### please try to keep this as close to the colloquial form of "I am Finished" as possible. 
+
+lesson.end.dialog.title=レッスン完了!	#
+lesson.end.dialog.body.title=おめでとうございます	#
+lesson.end.dialog.body.wimages=修了証明書が授与されました。このレッスンの写真を確認して、コピーを保存してください。	#
+lesson.end.dialog.body.checkport=このレッスンの写真を確認して、コピーを保存してください。	#
+lesson.end.dialog.body.noimages=修了証明書が授与されました。	#
+lesson.end.dialog.button.morecoding=もっとコーディングする	#
+lesson.end.dialog.button.getcert=証明書の取得	#
+lesson.end.dialog.button.exit=レッスンを終了	#
+lesson.end.dialog.button.export=保存	#
+
+lesson.end.access.imagespreview=レッスンの写真 (%1/%2)	#
+lesson.end.access.export=レッスンの写真をエクスポート	#

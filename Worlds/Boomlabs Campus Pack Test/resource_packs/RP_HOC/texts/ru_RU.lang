@@ -1,0 +1,189 @@
+﻿pack.name=Материалы Часа Кода	#
+pack.description=Материалы, необходимые для Часа Кода	#
+
+item.spawn_egg.entity.pws:npc_2.name=Создать неигрового персонажа 2	#
+entity.pws:npc_2.name=Неигровой персонаж 2	#
+
+item.spawn_egg.entity.pws:npc_2_firefighter.name=Создать неигрового персонажа 2 — пожарного	#
+entity.pws:npc_2_firefighter.name=Неигровой персонаж 2 — пожарный	#
+
+objective=§l§6- Текущее задание -§r	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+try.again.title=§6Попробуйте еще раз§r	#
+try.again.subtitle=Попробуйте выполнить задание еще раз.	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+quest.end.title=§6Задание выполнено!§r	#
+npc.skip.name=§6Робот-помощник§r	#
+
+no_button.title=§r	#
+no_button.subtitle=Сначала пройдите задание.	#
+
+take.picture=Сделайте снимок	#
+
+press_c=§eНажмите кнопку «C» или коснитесь значка Agent, чтобы начать программировать.§r	#
+
+quest.1.end.subtitle=Поздравляем! У вас получилось!	###subtitles appear on the screen as a success message after the quest has been completed
+quest.2.end.subtitle=Поздравляем! У вас получилось!	#
+quest.3.end.subtitle=Поздравляем! У вас получилось!	#
+quest.4.end.subtitle=Поздравляем! У вас получилось!	#
+quest.5.end.subtitle=Поздравляем! У вас получилось!	#
+quest.6.end.subtitle=Поздравляем! У вас получилось!	#
+quest.7.end.subtitle=Поздравляем! У вас получилось!	#
+quest.8.0.end.subtitle=Поздравляем! У вас получилось!	#
+quest.8.end.subtitle=Поздравляем! У вас получилось!	#
+quest.9.end.subtitle=Поздравляем! У вас получилось!	#
+quest.10.end.subtitle=Поздравляем! У вас получилось!	#
+quest.11.end.subtitle=Поздравляем! У вас получилось!	#
+quest.12.end.subtitle=Поздравляем! У вас получилось!	#
+
+
+900020=§fПоговорите с исследователем.	###This section includes the titles of quests, which will remain onscreen until the player completes the quest. 
+900030=§fПоговорите с инженером.	#
+900040=§fПоговорите с исследователем.	#
+900050=§fНайдите техника на вершине башни и поговорите с ним.	#
+900060=§fСпуститесь по лестнице и найдите главу исследовательского отдела.	#
+900070=§fПоговорите со специалистом по ИИ.	#
+900071=§fПоговорите со специалистом по ИИ.	#
+900072=§fПоговорите со специалистом по ИИ.	#
+900073=§fПоговорите со специалистом по ИИ.	#
+900080=§fПоговорите с ученым.	#
+900090=§fПоговорите с аналитиком.	#
+900100=§fНайдите вертолет и поговорите с капитаном пожарной команды.	#
+900110=§fПоговорите с капитаном пожарной команды.	#
+900120=§fПожар! Будьте осторожны!	#
+900130=§fПоговорите с пожарным.	#
+
+welcome.board.title.1=ЦЕНТР	#
+welcome.board.title.2=ИССЛЕДОВАНИЙ	#
+welcome.board.title.3=ПОЖАРОВ	#
+
+quest.5.easy=Короткий путь	### button name, student selects either the short or long version of a maze path to solve
+quest.5.hard=Длинный путь	#
+
+quest.7.yes=Да	#
+quest.7.no=Нет	#
+quest.7.hazard=Пожарная опасность	#
+
+quest.10.yes=Вперед!	#
+
+quest.13.done=Готово!	#
+
+ladder.up.1=§r	#
+ladder.up.2=Нажмите W, чтобы	#
+ladder.up.3=подняться по лестнице.	#
+ladder.up.4=§r	#
+edge.1=Подойдите к	#
+edge.2=краю.	#
+edge.3=Не волнуйтесь,	#
+edge.4=вы не упадете!	#
+ladder.down.1=Центр исследований	#
+ladder.down.2=пожаров	#
+ladder.down.3=|	#
+ladder.down.4=V	#
+to.center.1=Центр исследований	#
+to.center.2=пожаров	#
+to.center.3=В той стороне	#
+to.center.4=----->	#
+center.1=§r	#
+center.2=Центр исследований	#
+center.3=пожаров	#
+center.4=§r	#
+to.helipad.1=Вертолетная площадка	#
+to.helipad.2=В той стороне	#
+to.helipad.3=<-----	#
+to.helipad.4=§r	#
+
+bot.button.skip=Пропустить задание	#
+bot.button.reset=Сбросить задание	#
+
+skip.title=§9Задание пропущено	#
+skip.subtitle=Робот-помощник пропустил задание!	#
+
+complete.lesson.title=§9Путешествие завершено!	#
+
+bot.name=Робот-помощник	### This is the name of an NPC robot that provides the player with help in completing coding quests. "Bot" refers to the shortened form of "Robot".
+bot.1.text.1=Я робот-помощник! Всегда рад помочь сбросить или вовсе пропустить задание, если вы застряли или оно вам не по душе.	#
+bot.1.text.2=Но вы все-таки попробуйте пройти задание сами, а если не получится — я вам помогу.	#
+
+bot.2.text.1=И снова здравствуйте! Чем могу помочь? Хотите сбросить задание или вовсе пропустить его?	#
+bot.2.text.2=И все-таки попробуйте пройти задание сами, а если не получится — я вам помогу.	#
+
+researcher.1.name=Щелкни меня правой кнопкой!	### NPC name, referring to their title
+researcher.1.text.1=Добро пожаловать в центр исследований! Здесь вы узнаете, как мы используем ИИ и программирование для предотвращения пожаров.	#
+researcher.1.text.2=В качестве первого задания запрограммируйте ворота, чтобы они открылись.	#
+researcher.1.text.3=Чтобы начать писать код, закройте это окно чата.	#
+
+engineer.1.name=Инженер	### NPC name, referring to their title
+engineer.1.text.1=Это Agent. Его можно программировать точно так же, как вы делали это с воротами.	#
+engineer.1.text.2=Запрограммируйте Agent, чтобы он сделал 3 шага вперед и остановился на маркере.	#
+engineer.1.text.3=Чтобы начать писать код, закройте это окно чата.	#
+
+researcher.2.name=Исследователь	### NPC name, referring to their title
+researcher.2.text.1=Запрограммируйте Agent на передвижение на 4 сегмента вперед и последующий анализ сухого кустарника перед ним.	#
+researcher.2.text.2=§r	#
+
+technician.1.name=Техник	### NPC name, referring to their title
+technician.1.text.1=Слева располагается обучающий лабиринт Agent. Подойдите к краю и осмотритесь... Не волнуйтесь, вы не упадете!	#
+technician.1.text.2=Выберите путь, нажав соответствующую кнопку. С помощью кода проведите Agent через лабиринт, а потом проанализируйте сухой куст.	#
+
+head.of.research.1.name=Глава исследовательского отдела	#
+head.of.research.1.text.1=Обучив Agent опознавать огнеопасные предметы, мы сможем предотвращать пожары.	#
+head.of.research.1.text.2=Пройдите внутрь к специалисту по ИИ, который поможет вам в обучении Agent.	#
+
+technician.2.name=Специалист по ИИ	### NPC name, referring to their title
+technician.2.text.1=Этот компьютер поможет заложить в Agent информацию о растениях, которые создают угрозу пожара.	#
+technician.2.text.2=Осмотрите изображения на мониторе. Если растение желтое или сухое, нажмите на кнопку «ДА», поскольку оно создает угрозу пожара. Если же оно зеленое и здоровое, нажмите на кнопку «НЕТ», поскольку оно не представляет угрозу.	#
+technician.2.text.3=§r	#
+
+
+scientist.1.name=Ученый	### NPC name, referring to their title
+scientist.1.text.1=Чтобы предотвратить пожары, Agent должен очистить зону от опасных растений — потенциальных источников возгорания.	#
+scientist.1.text.2=Теперь давайте проверим результаты обучения! Запрограммируйте Agent на уничтожение всех растений, создающих угрозу пожара. Закройте окно чата, чтобы начать писать код.	#
+
+scientist.2.name=Аналитик	### NPC name, referring to their title
+scientist.2.text.1=Agent теперь может использовать изображения для определения мест, где имеется опасность возгорания.	#
+scientist.2.text.2=Запрограммируйте Agent на оповещение команды в случае обнаружения на мониторе компьютера места, где имеется угроза пожара.	#
+scientist.2.text.3=Чтобы начать писать код, закройте это окно чата.	#
+
+pilot.1.name=Капитан пожарной команды	### NPC name, referring to their title
+pilot.1.text.1=Просто не верится, насколько быстро Agent научился прогнозировать пожары!	#
+pilot.1.text.2=При угрозе пожара мы должны незамедлительно выехать в это место!	#
+pilot.1.text.3=Дайте мне знать, когда вы готовы отправляться. Пожар может начаться в любой момент!	#
+
+pilot.2.name=Капитан пожарной команды	### NPC name, referring to their title
+pilot.2.text.1=Сообщение из Диспетчерского центра: приближается гроза с высокой вероятностью ударов молний! Нам нужно очистить эту зону от сухого кустарника, прежде чем до нее доберется гроза.	#
+pilot.2.text.2=Заставьте Agent избавиться от линии сухих растений, чтобы устранить угрозу пожара.	#
+
+firefighter.1.name=Пожарный 		### NPC name, referring to their title
+firefighter.1.text.1=Отличная работа! Вы и ваш Agent сумели устранить все угрозы пожара до начала грозы и спасли деревню!	#
+firefighter.1.text.2=Раз уж вы здесь, поможете восстановить эту территорию? Просто посейте цветы и добавьте животных.	#
+
+resourcePack.education_demo_world_resources.name=Ресурсы демонстрационного мира M:EE	#
+resourcePack.education_demo_world_resources.description=Ресурсы клиента M:EE для демонстрационного мира M:EE.	#
+
+edu_demo.tip.1=Тропические леса служат домом для более чем половины видов сухопутных животных нашей планеты.	#
+edu_demo.tip.2=Леса обеспечивают средства к существованию более 25% населения земного шара.	#
+edu_demo.tip.3=Для разведения огня нужно три вещи: топливо, кислород и источник тепла.	#
+edu_demo.tip.4=Пожары, особенно на торфяниках и в густых лесах, приводят к значительным выбросам углерода.	#
+edu_demo.tip.5=Компьютеры необходимо учить учиться, совсем как учащихся!	#
+edu_demo.tip.6=Искусственный интеллект собирает и анализирует данные о деревьях, что гораздо быстрее, чем считать их вручную.	#
+
+menu.quit.edu=ПОКИНУТЬ УРОК	#
+menu.quit.edu.title=Закрыть демоверсию урока	#
+
+start_screen.start_demo=Начать урок	#
+
+lesson.finished=ГОТОВО!	### please try to keep this as close to the colloquial form of "I am Finished" as possible. 
+
+lesson.end.dialog.title=Урок завершен!	#
+lesson.end.dialog.body.title=ПОЗДРАВЛЯЕМ	#
+lesson.end.dialog.body.wimages=Вы получили сертификат о прохождении урока. Найдите его в фотографиях из этого урока и сохраните копию.	#
+lesson.end.dialog.body.checkport=Найдите его в фотографиях из этого урока и сохраните копию.	#
+lesson.end.dialog.body.noimages=Вы получили сертификат о прохождении урока.	#
+lesson.end.dialog.button.morecoding=Больше программирования	#
+lesson.end.dialog.button.getcert=Получить сертификат	#
+lesson.end.dialog.button.exit=Покинуть урок	#
+lesson.end.dialog.button.export=Сохранить	#
+
+lesson.end.access.imagespreview=Фотография для урока: %1 из %2	#
+lesson.end.access.export=Экспортировать фотографии для урока	#

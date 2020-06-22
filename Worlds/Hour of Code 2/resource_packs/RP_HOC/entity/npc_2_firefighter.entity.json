@@ -1,0 +1,30 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "pws:npc_2_firefighter",
+      "materials": {
+        "default": "villager"
+      },
+      "geometry": {
+        "default": "geometry.npc_2_firefighter"
+      },
+      "textures": {
+        "npc_1": "textures/entity/npc/firefighter_1",
+        "npc_2": "textures/entity/npc/firefighter_2"
+      },
+      "animations": {
+        "general": "animation.npc_2.general",
+        "look_at_target": "animation.common.look_at_target"
+      },
+      "animation_controllers": [
+        { "general": "controller.animation.npc_2.general" }
+      ],
+      "render_controllers": [ "controller.render.npc_2_firefighter" ],
+      "spawn_egg": {
+        "texture": "spawn_egg",
+        "texture_index": 35
+      }
+    }
+  }
+}

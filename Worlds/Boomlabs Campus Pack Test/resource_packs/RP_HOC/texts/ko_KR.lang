@@ -1,0 +1,189 @@
+﻿pack.name=코딩 시간 리소스	#
+pack.description=코딩 시간에 필요한 리소스	#
+
+item.spawn_egg.entity.pws:npc_2.name=NPC 2 생성	#
+entity.pws:npc_2.name=NPC 2	#
+
+item.spawn_egg.entity.pws:npc_2_firefighter.name=NPC 2 소방수 생성	#
+entity.pws:npc_2_firefighter.name=NPC 2 소방수	#
+
+objective=§l§6- 현재 퀘스트 -§r	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+try.again.title=§6재도전§r	#
+try.again.subtitle=퀘스트에 다시 한번 도전합니다.	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+quest.end.title=§6퀘스트 완료!§r	#
+npc.skip.name=§6도움 봇§r	#
+
+no_button.title=§r	#
+no_button.subtitle=먼저 퀘스트를 시도해 보세요.	#
+
+take.picture=사진 찍기	#
+
+press_c=§e"C" 키를 눌러 코딩하거나 Agent 아이콘을 터치하세요.§r	#
+
+quest.1.end.subtitle=축하해요! 드디어 해냈군요!	###subtitles appear on the screen as a success message after the quest has been completed
+quest.2.end.subtitle=축하해요! 드디어 해냈군요!	#
+quest.3.end.subtitle=축하해요! 드디어 해냈군요!	#
+quest.4.end.subtitle=축하해요! 드디어 해냈군요!	#
+quest.5.end.subtitle=축하해요! 드디어 해냈군요!	#
+quest.6.end.subtitle=축하해요! 드디어 해냈군요!	#
+quest.7.end.subtitle=축하해요! 드디어 해냈군요!	#
+quest.8.0.end.subtitle=축하해요! 드디어 해냈군요!	#
+quest.8.end.subtitle=축하해요! 드디어 해냈군요!	#
+quest.9.end.subtitle=축하해요! 드디어 해냈군요!	#
+quest.10.end.subtitle=축하해요! 드디어 해냈군요!	#
+quest.11.end.subtitle=축하해요! 드디어 해냈군요!	#
+quest.12.end.subtitle=축하해요! 드디어 해냈군요!	#
+
+
+900020=§f연구원에게 말을 거세요.	###This section includes the titles of quests, which will remain onscreen until the player completes the quest. 
+900030=§f엔지니어에게 말을 거세요.	#
+900040=§f연구원에게 말을 거세요.	#
+900050=§f탑 꼭대기의 기술자를 찾아 말을 거세요.	#
+900060=§f사다리를 내려가 연구 책임자를 찾으세요.	#
+900070=§fAI 전문가에게 말을 거세요.	#
+900071=§fAI 전문가에게 말을 거세요.	#
+900072=§fAI 전문가에게 말을 거세요.	#
+900073=§fAI 전문가에게 말을 거세요.	#
+900080=§f과학자에게 말을 거세요.	#
+900090=§f분석가에게 말을 거세요.	#
+900100=§f헬리콥터를 찾아 소방대장에게 말을 거세요.	#
+900110=§f소방대장에게 말을 거세요.	#
+900120=§f불이야! 조심하세요!	#
+900130=§f소방관에게 말을 거세요.	#
+
+welcome.board.title.1=화재	#
+welcome.board.title.2=연구	#
+welcome.board.title.3=센터	#
+
+quest.5.easy=짧은 경로	### button name, student selects either the short or long version of a maze path to solve
+quest.5.hard=긴 경로	#
+
+quest.7.yes=예	#
+quest.7.no=아니오	#
+quest.7.hazard=화재	#
+
+quest.10.yes=시작!	#
+
+quest.13.done=완료!	#
+
+ladder.up.1=§r	#
+ladder.up.2="w"를 눌러	#
+ladder.up.3=사다리를 오르세요.	#
+ladder.up.4=§r	#
+edge.1=난간까지	#
+edge.2=걸어가세요.	#
+edge.3=걱정하지 마세요.	#
+edge.4=떨어질 일은 없어요!	#
+ladder.down.1=화재 연구	#
+ladder.down.2=센터	#
+ladder.down.3=|	#
+ladder.down.4=V	#
+to.center.1=화재 연구	#
+to.center.2=센터	#
+to.center.3=이쪽으로	#
+to.center.4=----->	#
+center.1=§r	#
+center.2=화재 연구	#
+center.3=센터	#
+center.4=§r	#
+to.helipad.1=헬리콥터	#
+to.helipad.2=이쪽으로	#
+to.helipad.3=<-----	#
+to.helipad.4=§r	#
+
+bot.button.skip=퀘스트 건너뛰기	#
+bot.button.reset=퀘스트 초기화	#
+
+skip.title=§9퀘스트 건너뜀	#
+skip.subtitle=도우미 봇이 퀘스트를 건너뛰었습니다!	#
+
+complete.lesson.title=§9여정 완료!	#
+
+bot.name=도움 봇	### This is the name of an NPC robot that provides the player with help in completing coding quests. "Bot" refers to the shortened form of "Robot".
+bot.1.text.1=저는 도움 봇이에요! 여정 도중에 진행이 막힌다면 기꺼이 도와드릴게요! 퀘스트를 초기화하거나 건너뛰어드릴 수 있어요.	#
+bot.1.text.2=먼저 퀘스트에 직접 도전해 보신 후에만 도와드릴 수 있어요. 그러니 먼저 한번 도전해 보세요!	#
+
+bot.2.text.1=다시 만나 반가워요! 어떻게 도와드릴까요? 퀘스트를 초기화하거나 아예 건너뛰어드릴 수 있어요.	#
+bot.2.text.2=기억하세요, 먼저 퀘스트에 직접 도전해 보신 후에만 도와드릴 수 있어요. 그러니 먼저 한번 도전해 보세요!	#
+
+researcher.1.name=저를 우클릭하세요!	### NPC name, referring to their title
+researcher.1.text.1=연구 센터에 오신 것을 환영합니다! 여기에서 AI와 코딩으로 화재를 예방하는 방법을 배울 수 있습니다.	#
+researcher.1.text.2=첫 번째 과제는 코딩을 사용하여 이 게이트를 여는 것입니다.	#
+researcher.1.text.3=코딩을 시작하려면 이 채팅 창을 종료하세요.	#
+
+engineer.1.name=엔지니어	### NPC name, referring to their title
+engineer.1.text.1=Agent입니다. 사용자님이 문을 사용해 한 것과 같은 일을 수행하도록 Agent를 프로그램할 수 있습니다.	#
+engineer.1.text.2=마커에서 멈추려면 Agent를 앞으로 3발짝 이동하도록 코딩하세요.	#
+engineer.1.text.3=코딩을 시작하려면 이 채팅 창을 종료하세요.	#
+
+researcher.2.name=연구원	### NPC name, referring to their title
+researcher.2.text.1=4칸 앞으로 이동한 후 마른 덤불을 분석하도록 Agent를 코딩하세요.	#
+researcher.2.text.2=§r	#
+
+technician.1.name=기술자	### NPC name, referring to their title
+technician.1.text.1=왼쪽의 바위 턱을 보면 Agent 훈련 미로가 보입니다. 가장자리 너머로 보세요... 떨어질 염려는 없으니 걱정하지 마세요!	#
+technician.1.text.2=아래에서 경로 버튼을 선택하세요. 코드를 사용하여 Agent를 미로를 통해 이동시켜 마른 덤불에 닿으면 분석하도록 하세요.	#
+
+head.of.research.1.name=연구소장	#
+head.of.research.1.text.1=화재를 예측하도록 Agent를 교육하는 것이 최선의 화재 예방법입니다.	#
+head.of.research.1.text.2=안으로 들어오세요. AI 전문가가 Agent 훈련을 도와드립니다 .	#
+
+technician.2.name=AI 전문가	### NPC name, referring to their title
+technician.2.text.1=이 컴퓨터는 Agent에게 화재 위험이 있는 식물에 대해 알려줍니다.	#
+technician.2.text.2=모니터에서 이미지를 보세요. 식물이 노랗고 건조해 보이면 화재의 위험이 있으므로 YES 버튼을 누릅니다. 식물이 녹색이고 건강해 보인다면 화재 위험이 없으므로 NO 버튼을 누릅니다.	#
+technician.2.text.3=§r	#
+
+
+scientist.1.name=과학자	### NPC name, referring to their title
+scientist.1.text.1=화재를 성공적으로 방지하려면, Agent는 구역 내에서 위험한 식물들을 제거해야 합니다.	#
+scientist.1.text.2=이제 훈련의 성과를 시험해 봅시다! Agent가 화재 발생 위험이 있는 식물을 모두 없애도록 코딩하세요. 코딩을 시작하려면 이 채팅 창을 종료하세요.	#
+
+scientist.2.name=분석가	### NPC name, referring to their title
+scientist.2.text.1=이미지를 사용해 Agent가 화재가 시작될 가능성이 높은 곳을 감지할 수 있습니다.	#
+scientist.2.text.2=Agent가 컴퓨터 모니터에서 화재 위험 위치를 발견하면 팀에 알려주도록 코딩하세요.	#
+scientist.2.text.3=코딩을 시작하려면 이 채팅 창을 종료하세요.	#
+
+pilot.1.name=소방대장	### NPC name, referring to their title
+pilot.1.text.1=Agent가 화재 예측 방법을 이렇게 빨리 배우다니 믿을 수가 없네요!	#
+pilot.1.text.2=서둘러 화재 위험이 있는 이곳으로 가야 해요!	#
+pilot.1.text.3=갈 준비가 되면 알려주세요! 지금 당장이라도 화재가 일어날 수 있어요!	#
+
+pilot.2.name=소방대장	### NPC name, referring to their title
+pilot.2.text.1=방금 지휘 센터에서 메시지를 받았어요. 번개를 동반할 가능성이 높은 폭풍이 다가오고 있대요! 폭풍이 오기 전에 이 구역에서 마른 덤불을 치워야 해요.	#
+pilot.2.text.2=Agent가 마른 덤불을 치워서 화재 발생 요소를 제거하도록 하세요.	#
+
+firefighter.1.name=소방관 		### NPC name, referring to their title
+firefighter.1.text.1=훌륭해요! 폭풍이 오기 전에 Agent와 함께 화재 유발 위험물을 치울 수 있었어요. 마을을 구한 거예요!	#
+firefighter.1.text.2=여기 있는 동안 꽃을 심고 동물들을 생성해서 구역을 복구하는 걸 도와주는 게 어때요?	#
+
+resourcePack.education_demo_world_resources.name=M:EE 데모 월드 리소스	#
+resourcePack.education_demo_world_resources.description=M:EE 데모 월드를 위한 M:EE 클라이언트 리소스입니다.	#
+
+edu_demo.tip.1=열대 우림은 지구의 육지 동물 종의 절반 이상이 살고 있습니다.	#
+edu_demo.tip.2=세계 인구의 25% 이상은 숲에 생계를 의존합니다.	#
+edu_demo.tip.3=계속해서 불을 피우려면 연교, 산소, 열원이라는 세 가지 요소가 필요합니다.	#
+edu_demo.tip.4=특히 피트 지대 및 울창한 숲에서 일어난 화재는 막대한 양의 탄소를 배출합니다.	#
+edu_demo.tip.5=컴퓨터는 학생들처럼 배우는 법을 배워야 합니다!	#
+edu_demo.tip.6=인공지능은 손으로 나무를 세는 것보다 빠르게 숲 데이터를 수집하고 분석하는데 사용됩니다!	#
+
+menu.quit.edu=수업 종료	#
+menu.quit.edu.title=데모 수업 나가기	#
+
+start_screen.start_demo=수업 시작	#
+
+lesson.finished=끝났습니다	### please try to keep this as close to the colloquial form of "I am Finished" as possible. 
+
+lesson.end.dialog.title=수업 완료!	#
+lesson.end.dialog.body.title=축하합니다	#
+lesson.end.dialog.body.wimages=수료증을 받았습니다. 이 수업의 사진을 확인하고 사본을 저장하세요.	#
+lesson.end.dialog.body.checkport=이 수업의 사진을 확인하고 사본을 저장하세요.	#
+lesson.end.dialog.body.noimages=수료증을 받았습니다.	#
+lesson.end.dialog.button.morecoding=더 많은 코딩	#
+lesson.end.dialog.button.getcert=수료증 받기	#
+lesson.end.dialog.button.exit=수업 종료	#
+lesson.end.dialog.button.export=저장	#
+
+lesson.end.access.imagespreview=수업 사진 %1/%2	#
+lesson.end.access.export=수업 사진 내보내기	#

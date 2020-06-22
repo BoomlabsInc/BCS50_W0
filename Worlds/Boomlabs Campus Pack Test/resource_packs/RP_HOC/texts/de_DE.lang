@@ -1,0 +1,189 @@
+﻿pack.name=Materialien für die Stunde des Codes	#
+pack.description=Benötigte Materialien für die Stunde des Codes	#
+
+item.spawn_egg.entity.pws:npc_2.name=NPC 2 spawnen	#
+entity.pws:npc_2.name=NPC 2	#
+
+item.spawn_egg.entity.pws:npc_2_firefighter.name=NPC 2-Feuerwehrmann spawnen	#
+entity.pws:npc_2_firefighter.name=NPC 2-Feuerwehrmann	#
+
+objective=§l§6- Aktuelle Mission -§r	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+try.again.title=§6Versuche es noch einmal §r	#
+try.again.subtitle=Probiere es doch noch einmal.	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+quest.end.title=§6Mission abgeschlossen!§r	#
+npc.skip.name=§6Helfer-Bot§r	#
+
+no_button.title=§r	#
+no_button.subtitle=Bitte versuche erst, die Mission zu vollenden.	#
+
+take.picture=Bild machen	#
+
+press_c=§eDrücke "C" zum Code schreiben oder berühre das Agenten-Symbol.§r	#
+
+quest.1.end.subtitle=Glückwunsch! Du hast es geschafft!	###subtitles appear on the screen as a success message after the quest has been completed
+quest.2.end.subtitle=Glückwunsch! Du hast es geschafft!	#
+quest.3.end.subtitle=Glückwunsch! Du hast es geschafft!	#
+quest.4.end.subtitle=Glückwunsch! Du hast es geschafft!	#
+quest.5.end.subtitle=Glückwunsch! Du hast es geschafft!	#
+quest.6.end.subtitle=Glückwunsch! Du hast es geschafft!	#
+quest.7.end.subtitle=Glückwunsch! Du hast es geschafft!	#
+quest.8.0.end.subtitle=Glückwunsch! Du hast es geschafft!	#
+quest.8.end.subtitle=Glückwunsch! Du hast es geschafft!	#
+quest.9.end.subtitle=Glückwunsch! Du hast es geschafft!	#
+quest.10.end.subtitle=Glückwunsch! Du hast es geschafft!	#
+quest.11.end.subtitle=Glückwunsch! Du hast es geschafft!	#
+quest.12.end.subtitle=Glückwunsch! Du hast es geschafft!	#
+
+
+900020=§fSprich mit dem Forscher.	###This section includes the titles of quests, which will remain onscreen until the player completes the quest. 
+900030=§fSprich mit dem Ingenieur.	#
+900040=§fSprich mit dem Forscher.	#
+900050=§fFinde den Techniker auf dem Turm und sprich mit ihm.	#
+900060=§fSteige die Leiter hinab und suche den Forschungsleiter.	#
+900070=§fSprich mit dem KI-Spezialisten.	#
+900071=§fSprich mit dem KI-Spezialisten.	#
+900072=§fSprich mit dem KI-Spezialisten.	#
+900073=§fSprich mit dem KI-Spezialisten.	#
+900080=§fSprich mit dem Wissenschaftler.	#
+900090=§fSprich mit dem Analysten.	#
+900100=§fFinde den Hubschrauber und sprich mit dem Feuerwehrhauptmann.	#
+900110=§fSprich mit dem Feuerwehrhauptmann.	#
+900120=§fAchtung, Feuer!	#
+900130=§fSprich mit dem Feuerwehrmann.	#
+
+welcome.board.title.1=BRAND-	#
+welcome.board.title.2=FORSCHUNGS-	#
+welcome.board.title.3=ZENTRUM	#
+
+quest.5.easy=Kurzer Weg	### button name, student selects either the short or long version of a maze path to solve
+quest.5.hard=Langer Weg	#
+
+quest.7.yes=Ja	#
+quest.7.no=Nein	#
+quest.7.hazard=Brandgefährlich	#
+
+quest.10.yes=Los geht's!	#
+
+quest.13.done=Ich bin fertig!	#
+
+ladder.up.1=§r	#
+ladder.up.2=Drücke "w", um	#
+ladder.up.3=eine Leiter zu erklimmen.	#
+ladder.up.4=§r	#
+edge.1=Gehe nahe	#
+edge.2=an die Kante.	#
+edge.3=Keine Angst,	#
+edge.4=du wirst nicht fallen!	#
+ladder.down.1=Brand-Forschungs-	#
+ladder.down.2=zentrum	#
+ladder.down.3=|	#
+ladder.down.4=V	#
+to.center.1=Brand-Forschungs-	#
+to.center.2=zentrum	#
+to.center.3=Hier entlang	#
+to.center.4=------>	#
+center.1=§r	#
+center.2=Brand-Forschungs-	#
+center.3=zentrum	#
+center.4=§r	#
+to.helipad.1=Helikopterlandeplatz	#
+to.helipad.2=Hier entlang	#
+to.helipad.3=<------	#
+to.helipad.4=§r	#
+
+bot.button.skip=Mission überspringen	#
+bot.button.reset=Mission zurücksetzen	#
+
+skip.title=§9Mission übersprungen	#
+skip.subtitle=Helfer-Bot hat die Mission übersprungen!	#
+
+complete.lesson.title=§9Reise abgeschlossen!	#
+
+bot.name=Helfer-Bot	### This is the name of an NPC robot that provides the player with help in completing coding quests. "Bot" refers to the shortened form of "Robot".
+bot.1.text.1=Ich bin der Helfer-Bot! Solltest du mal nicht weiterkommen auf deiner Reise, unterstütze ich dich gerne! Ich kann deine Missionen zurücksetzen oder dir beim Überspringen helfen.	#
+bot.1.text.2=Ich kann dir allerdings erst helfen, nachdem du zumindest versucht hast, die Mission selbst zu schaffen!	#
+
+bot.2.text.1=Hallo! Wie kann ich dir helfen? Ich kann die Mission entweder zurücksetzen oder ganz überspringen.	#
+bot.2.text.2=Denke daran, dass ich dir nur helfen kann, wenn du zumindest versucht hast, die Mission erstmal selbst zu schaffen!	#
+
+researcher.1.name=Rechtsklicke auf mich!	### NPC name, referring to their title
+researcher.1.text.1=Willkommen im Forschungszentrum! Hier lernst du, wie wir mithilfe von KI und Code Brände verhindern.	#
+researcher.1.text.2=Deine erste Aufgabe besteht darin, dieses Tor mithilfe von Code zu öffnen.	#
+researcher.1.text.3=Verlasse das Chatfenster, um mit dem Programmieren zu beginnen.	#
+
+engineer.1.name=Ingenieur	### NPC name, referring to their title
+engineer.1.text.1=Das ist der Agent. Du kannst den Agenten so programmieren wie das Tor.	#
+engineer.1.text.2=Programmiere den Agenten so, dass er sich 3 Schritte vorwärts bewegt und auf der Markierung anhält.	#
+engineer.1.text.3=Verlasse das Chatfenster, um mit dem Programmieren zu beginnen.	#
+
+researcher.2.name=Forscher	### NPC name, referring to their title
+researcher.2.text.1=Programmiere den Agenten, damit er sich 4 Felder vorwärtsbewegt und analysiere ab da das trockene Unterholz.	#
+researcher.2.text.2=§r	#
+
+technician.1.name=Techniker	### NPC name, referring to their title
+technician.1.text.1=Schaue über die Kante zu deiner Linken; das ist das Agenten-Trainingslabyrinth. Schau nach unten … keine Angst, du kannst nicht runterfallen!	#
+technician.1.text.2=Wähle unten einen Weg aus. Programmiere den Agenten so, dass er sich durch das Labyrinth zum trockenen Unterholz bewegt und es analysiert.	#
+
+head.of.research.1.name=Forschungsleiter	#
+head.of.research.1.text.1=Am effektivsten verhindern wir Brände, indem wir dem Agenten beibringen, Feuergefahren vorherzusehen.	#
+head.of.research.1.text.2=Komm rein! Unser KI-Spezialist wird dir helfen, den Agenten zu trainieren.	#
+
+technician.2.name=KI-Spezialist	### NPC name, referring to their title
+technician.2.text.1=Dieser Computer hilft deinem Agenten dabei, etwas über Pflanzen zu lernen, die eine Feuergefahr darstellen.	#
+technician.2.text.2=Sieh dir die Bilder auf dem Monitor an. Wenn eine Pflanze gelb und vertrocknet aussieht, dann ist sie eine Feuergefahr. Drücke dann den JA-Knopf. Sieht eine Pflanze aber grün und gesund aus, ist sie KEINE Feuergefahr. Drücke dann den NEIN-Knopf.	#
+technician.2.text.3=§r	#
+
+
+scientist.1.name=Wissenschaftler	### NPC name, referring to their title
+scientist.1.text.1=Um Feuer erfolgreich zu verhindern, muss der Agent gefährlichen Pflanzenbewuchs aus dem Gebiet entfernen.	#
+scientist.1.text.2=Dann wollen wir das Training mal in der Praxis testen! Programmiere den Agenten so, dass er alle Pflanzen entfernt, die eine Feuergefahr darstellen. Verlasse das Chatfenster, um mit dem Programmieren zu beginnen.	#
+
+scientist.2.name=Analyst	### NPC name, referring to their title
+scientist.2.text.1=Mithilfe von Bildern kann der Agent nun erkennen, wo sehr wahrscheinlich Feuer ausbrechen werden.	#
+scientist.2.text.2=Programmiere den Agenten so, dass er das Team alarmiert, wenn er eine potentielle Feuerquelle auf dem Computerbildschirm erkennt.	#
+scientist.2.text.3=Verlasse das Chatfenster, um mit dem Programmieren zu beginnen.	#
+
+pilot.1.name=Feuerwehrhauptmann	### NPC name, referring to their title
+pilot.1.text.1=Ich fasse es nicht, wie schnell der Agent gelernt hat, Feuer vorherzusagen!	#
+pilot.1.text.2=Wir müssen schnell zu diesem potenziellen Brandherd!	#
+pilot.1.text.3=Sag einfach Bescheid, wenn du bereit bist, denn Feuer können blitzschnell ausbrechen!	#
+
+pilot.2.name=Feuerwehrhauptmann	### NPC name, referring to their title
+pilot.2.text.1=Ich habe gerade eine Nachricht vom Kommandozentrum erhalten. Es zieht ein Gewittersturm mit einer hohen Blitzwahrscheinlichkeit auf! Wir müssen das trockene Unterholz aus dem Gebiet entfernen, bevor der Sturm hier ist.	#
+pilot.2.text.2=Der Agent soll diesen Streifen vom trockenen Unterholz befreien und so Feuergefahren beseitigen.	#
+
+firefighter.1.name=Feuerwehrmann 		### NPC name, referring to their title
+firefighter.1.text.1=Gut gemacht! Du und dein Agent konnten das meiste trockene Unterholz entfernen, bevor der Sturm heraufzog. Das Dorf ist gerettet!	#
+firefighter.1.text.2=Wenn du schon mal hier bist, könntest du doch beim Wiederaufbau der Landschaft helfen. Warum pflanzen wir nicht ein paar Blumen und holen einige Tiere her?	#
+
+resourcePack.education_demo_world_resources.name=M:EE Demowelt-Ressourcen	#
+resourcePack.education_demo_world_resources.description=M:EE Client-Ressourcen für die M:EE Demowelt.	#
+
+edu_demo.tip.1=Die Regenwälder sind die Heimat von mehr als der Hälfte aller Landlebewesen unseres Planeten.	#
+edu_demo.tip.2=Für mehr als ein Viertel der Weltbevölkerung ist der Wald die direkte Lebensgrundlage und sie sind auf ihn angewiesen.	#
+edu_demo.tip.3=Es braucht drei Dinge, um ein Feuer am Brennen zu halten: Brennstoff, Sauerstoff und eine Wärmequelle.	#
+edu_demo.tip.4=Feuer, vor allem in Torflandschaften und dichten Wäldern, setzen riesige Mengen Kohlenstoffdioxid frei.	#
+edu_demo.tip.5=Computern muss das Lernen auf ähnliche Weise wie Schülern beigebracht werden!	#
+edu_demo.tip.6=KI wird eingesetzt, um Daten über Wälder zu sammeln und zu analysieren. Das geht schneller, als Bäume von Hand zu zählen.	#
+
+menu.quit.edu=LEKTION VERLASSEN	#
+menu.quit.edu.title=Demo-Lektion verlassen	#
+
+start_screen.start_demo=Lektion starten	#
+
+lesson.finished=ICH BIN FERTIG	### please try to keep this as close to the colloquial form of "I am Finished" as possible. 
+
+lesson.end.dialog.title=Lektion abgeschlossen!	#
+lesson.end.dialog.body.title=GLÜCKWUNSCH	#
+lesson.end.dialog.body.wimages=Du hast ein Abschlusszertifikat erhalten. Schau dir die Fotos dieser Lektion an und speichere dir eine Kopie.	#
+lesson.end.dialog.body.checkport=Schau dir die Fotos dieser Lektion an und speichere dir eine Kopie.	#
+lesson.end.dialog.body.noimages=Du hast ein Abschlusszertifikat erhalten.	#
+lesson.end.dialog.button.morecoding=Mehr Programmieren	#
+lesson.end.dialog.button.getcert=Zertifikat holen	#
+lesson.end.dialog.button.exit=Lektion verlassen	#
+lesson.end.dialog.button.export=Speichern	#
+
+lesson.end.access.imagespreview=Lektionsfoto %1 von %2	#
+lesson.end.access.export=Lektionsfotos exportieren	#

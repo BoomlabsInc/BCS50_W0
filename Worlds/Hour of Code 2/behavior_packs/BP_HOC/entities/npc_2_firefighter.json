@@ -1,0 +1,150 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "pws:npc_2_firefighter",
+      "is_spawnable": true,
+      "is_summonable": true,
+      "is_experimental": false
+    },
+
+    "component_groups":{
+      "pws:delete": {
+        "minecraft:despawn": {}
+      },
+      "pws:showName":{
+        "minecraft:nameable": {
+          "alwaysShow": true,
+          "allowNameTagRenaming": false
+        },
+        "minecraft:environment_sensor": {
+          "on_environment": {
+            "filters": {
+              "test": "has_tag",
+              "operator": "not",
+              "value": "active"
+            },
+            "event": "pws:hideName"
+          }
+        }
+      },
+      "pws:hideName":{
+        "minecraft:nameable": {
+          "alwaysShow": false,
+          "allowNameTagRenaming": false
+        },
+        "minecraft:environment_sensor": {
+          "on_environment": {
+            "filters": {
+              "test": "has_tag",
+              "value": "active"
+            },
+            "event": "pws:showName"
+          }
+        }
+      }
+    },
+
+    "components": {
+      "minecraft:damage_sensor": [
+        {
+          "on_damage": {
+            "filters": { "test": "has_ability", "value": "worldbuilder", "subject": "other", "operator": "not" }
+          },
+          "deals_damage": false
+        },
+        {
+          "on_damage": {
+            "filters": { "test": "has_ability", "value": "worldbuilder", "subject": "other", "operator": "equals" },
+            "event": "pws:set_delete"
+          },
+          "deals_damage": false
+        }
+      ],
+      "minecraft:push_through": {
+        "value": 1
+      },
+      "minecraft:type_family": {
+        "family": [ "npc", "mob" ]
+      },
+      "minecraft:fire_immune": true,
+      "minecraft:health": {
+        "value": 20,
+        "max": 20,
+        "min":  20
+      },
+      "minecraft:movement": {
+        "value": 0.5
+      },
+      "minecraft:loot": {
+        "table": "loot_tables/empty.json"
+      },
+      "minecraft:collision_box": {
+        "width": 0.6,
+        "height": 2.1
+      },
+      "minecraft:behavior.look_at_player": {
+        "priority": 0,
+        "look_distance": 6.0,
+        "probability": 0.02
+      },
+      "minecraft:persistent": {
+      },
+      "minecraft:npc": {
+        "npc_data": {
+          "portrait_offsets": {
+            "translate": [-7, 50, 0],
+            "scale": [1.75, 1.75, 1.75]
+          },
+          "picker_offsets": {
+            "translate": [0, 20, 0],
+            "scale": [1.7, 1.7, 1.7]
+          },
+          "skin_list":[
+            {
+              "variant": 0
+            },
+            {
+              "variant": 1
+            }
+          ]
+        }
+      },
+      "minecraft:environment_sensor": {
+        "on_environment": {
+          "filters": {
+            "test": "has_tag",
+            "value": "active"
+          },
+          "event": "pws:showName"
+        }
+      },
+      "minecraft:physics": {
+      }
+    },
+
+    "events":{
+      "pws:set_delete": {
+        "add": {
+          "component_groups": [ "pws:delete" ]
+        }
+      },
+      "pws:showName": {
+        "remove": {
+          "component_groups": [ "pws:hideName" ]
+        },
+        "add": {
+          "component_groups": [ "pws:showName" ]
+        }        
+      },
+      "pws:hideName": {
+        "remove": {
+          "component_groups": [ "pws:showName" ]
+        },
+        "add": {
+          "component_groups": [ "pws:hideName" ]
+        }        
+      }
+    }
+  }
+}

@@ -1,0 +1,189 @@
+﻿pack.name=Zdroje Hodiny kódovania	#
+pack.description=Zdroje potrebné pre Hodinu kódovania	#
+
+item.spawn_egg.entity.pws:npc_2.name=Narodenie postavy NPC 2	#
+entity.pws:npc_2.name=NPC 2	#
+
+item.spawn_egg.entity.pws:npc_2_firefighter.name=Narodenie postavy NPC 2 – hasiča	#
+entity.pws:npc_2_firefighter.name=NPC 2 – hasič	#
+
+objective=§l§6- Aktuálna úloha -§r	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+try.again.title=§6Skúste to znova§r	#
+try.again.subtitle=Skúste úlohu znova.	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+quest.end.title=§6Úloha dokončená.§r	#
+npc.skip.name=§6Robot – pomocník§r	#
+
+no_button.title=§r	#
+no_button.subtitle=Najprv vyskúšajte úlohu.	#
+
+take.picture=Nasnímať	#
+
+press_c=§eStlačením klávesu C začnite programovať alebo sa dotknite ikony agenta.§r	#
+
+quest.1.end.subtitle=Blahoželáme! Dokázali ste to!	###subtitles appear on the screen as a success message after the quest has been completed
+quest.2.end.subtitle=Blahoželáme! Dokázali ste to!	#
+quest.3.end.subtitle=Blahoželáme! Dokázali ste to!	#
+quest.4.end.subtitle=Blahoželáme! Dokázali ste to!	#
+quest.5.end.subtitle=Blahoželáme! Dokázali ste to!	#
+quest.6.end.subtitle=Blahoželáme! Dokázali ste to!	#
+quest.7.end.subtitle=Blahoželáme! Dokázali ste to!	#
+quest.8.0.end.subtitle=Blahoželáme! Dokázali ste to!	#
+quest.8.end.subtitle=Blahoželáme! Dokázali ste to!	#
+quest.9.end.subtitle=Blahoželáme! Dokázali ste to!	#
+quest.10.end.subtitle=Blahoželáme! Dokázali ste to!	#
+quest.11.end.subtitle=Blahoželáme! Dokázali ste to!	#
+quest.12.end.subtitle=Blahoželáme! Dokázali ste to!	#
+
+
+900020=§fPorozprávajte sa s výskumníkom.	###This section includes the titles of quests, which will remain onscreen until the player completes the quest. 
+900030=§fPorozprávajte sa s inžinierom.	#
+900040=§fPorozprávajte sa s výskumníkom.	#
+900050=§fNájdite technika navrchu veže a porozprávajte sa s ním.	#
+900060=§fZlezte po rebríku a nájdite vedúceho výskumu.	#
+900070=§fPorozprávajte sa s odborníkom na umelú inteligenciu.	#
+900071=§fPorozprávajte sa s odborníkom na umelú inteligenciu.	#
+900072=§fPorozprávajte sa s odborníkom na umelú inteligenciu.	#
+900073=§fPorozprávajte sa s odborníkom na umelú inteligenciu.	#
+900080=§fPorozprávajte sa s vedcom.	#
+900090=§fPorozprávajte sa s analytikom.	#
+900100=§fNájdite vrtuľník a porozprávajte sa s kapitánom hasičov.	#
+900110=§fPorozprávajte sa s kapitánom hasičov.	#
+900120=§fOheň! Pozor!	#
+900130=§fPorozprávajte sa s hasičom.	#
+
+welcome.board.title.1=STREDISKO	#
+welcome.board.title.2=VÝSKUMU	#
+welcome.board.title.3=POŽIAROV	#
+
+quest.5.easy=Krátka cesta	### button name, student selects either the short or long version of a maze path to solve
+quest.5.hard=Dlhá cesta	#
+
+quest.7.yes=Áno	#
+quest.7.no=Nie	#
+quest.7.hazard=Riziko požiaru	#
+
+quest.10.yes=Poďme na to!	#
+
+quest.13.done=Hotovo!	#
+
+ladder.up.1=§r	#
+ladder.up.2=Stlačením klávesu w	#
+ladder.up.3=vylezte po rebríku.	#
+ladder.up.4=§r	#
+edge.1=Choďte až	#
+edge.2=k okraju.	#
+edge.3=Nebojte sa,	#
+edge.4=nespadnete.	#
+ladder.down.1=Stredisko výskumu	#
+ladder.down.2=požiarov	#
+ladder.down.3=|	#
+ladder.down.4=V	#
+to.center.1=Stredisko výskumu	#
+to.center.2=požiarov	#
+to.center.3=Tadiaľto	#
+to.center.4=----->	#
+center.1=§r	#
+center.2=Stredisko výskumu	#
+center.3=požiarov	#
+center.4=§r	#
+to.helipad.1=Pristávacia plocha vrtuľníka	#
+to.helipad.2=Tadiaľto	#
+to.helipad.3=<-----	#
+to.helipad.4=§r	#
+
+bot.button.skip=Preskočiť úlohu	#
+bot.button.reset=Obnoviť úlohu	#
+
+skip.title=§9Úloha preskočená	#
+skip.subtitle=Robot – pomocník preskočil úlohu.	#
+
+complete.lesson.title=§9Cesta dokončená.	#
+
+bot.name=Robot – pomocník	### This is the name of an NPC robot that provides the player with help in completing coding quests. "Bot" refers to the shortened form of "Robot".
+bot.1.text.1=Som robot – pomocník. Ak niekedy na svojej ceste uviaznete, s radosťou vám pomôžem. Môžem obnoviť úlohu alebo ju preskočiť.	#
+bot.1.text.2=Môžem vám pomôcť, až keď úlohu sami vyskúšate. Takže najprv sa o to pokúste.	#
+
+bot.2.text.1=Znova vás vítam. Ako vám môžem pomôcť? Môžem obnoviť úlohu alebo ju úplne preskočiť.	#
+bot.2.text.2=Pamätajte si, že vám môžem pomôcť, až keď úlohu sami vyskúšate. Takže najprv sa o to pokúste.	#
+
+researcher.1.name=Kliknite na mňa pravým tlačidlom!	### NPC name, referring to their title
+researcher.1.text.1=Vitajte vo výskumnom stredisku. Tu sa naučíte, ako pomocou umelej inteligencie a programovania zabraňujeme požiarom.	#
+researcher.1.text.2=Vašou prvou úlohou je otvoriť túto bránu pomocou programovania.	#
+researcher.1.text.3=Ak chcete začať programovať, zatvorte toto okno konverzácie.	#
+
+engineer.1.name=Inžinier	### NPC name, referring to their title
+engineer.1.text.1=Toto je agent. Agenta môžete naprogramovať podobne, ako ste naprogramovali bránu.	#
+engineer.1.text.2=Naprogramujte agenta, aby sa posunul o 3 kroky dopredu a zastavil sa na značke.	#
+engineer.1.text.3=Ak chcete začať programovať, zatvorte toto okno konverzácie.	#
+
+researcher.2.name=Výskumník	### NPC name, referring to their title
+researcher.2.text.1=Naprogramujte agenta, aby sa posunul o 4 políčka dopredu a zanalyzoval suché krovie pred sebou.	#
+researcher.2.text.2=§r	#
+
+technician.1.name=Technik	### NPC name, referring to their title
+technician.1.text.1=Pozrite sa z okraja na ľavej strane a uvidíte bludisko na tréning agenta. Pozrite sa cez okraj... Nebojte sa, nemôžete spadnúť.	#
+technician.1.text.2=Nižšie vyberte tlačidlo cesty. Pomocou kódu presúvajte agenta cez bludisko, aby sa dostal k suchému kroviu a analyzoval ho.	#
+
+head.of.research.1.name=Vedúci výskumu	#
+head.of.research.1.text.1=Výučba agenta, ako predpovedať riziká požiaru, je naším najlepším preventívnym nástrojom.	#
+head.of.research.1.text.2=Poďte dovnútra a odborník na umelú inteligenciu vám pomôže s tréningom agenta.	#
+
+technician.2.name=Odborník na umelú inteligenciu	### NPC name, referring to their title
+technician.2.text.1=Tento počítač pomôže agenta naučiť poznatky o rastlinách, ktoré predstavujú riziká požiaru.	#
+technician.2.text.2=Sledujte obrázky na monitore. Ak rastlina vyzerá žltá a suchá, predstavuje riziko požiaru. V takom prípade stlačte tlačidlo ÁNO. Ak rastlina vyzerá zelená a zdravá, NEPREDSTAVUJE riziko požiaru. V takom prípade stlačte tlačidlo NIE.	#
+technician.2.text.3=§r	#
+
+
+scientist.1.name=Vedec	### NPC name, referring to their title
+scientist.1.text.1=Agent bude musieť odstrániť z oblasti nebezpečné rastliny, aby úspešne zabránil požiarom.	#
+scientist.1.text.2=Poďme náš tréning otestovať. Naprogramujte agenta, aby zničil všetky rastliny, ktoré predstavujú riziko požiaru. Ak chcete začať programovať, zatvorte okno konverzácie.	#
+
+scientist.2.name=Analytik	### NPC name, referring to their title
+scientist.2.text.1=Pomocou obrázkov môže agent zistiť, kde požiare pravdepodobne vypuknú.	#
+scientist.2.text.2=Naprogramujte agenta, aby upozornil tím, ak na monitore počítača nájde miesto potenciálneho rizika požiaru.	#
+scientist.2.text.3=Ak chcete začať programovať, zatvorte toto okno konverzácie.	#
+
+pilot.1.name=Kapitán hasičov	### NPC name, referring to their title
+pilot.1.text.1=Nemôžem uveriť, ako rýchlo sa agent naučil predpovedať požiare.	#
+pilot.1.text.2=Musíme sa poponáhľať na toto miesto ohrozené požiarom.	#
+pilot.1.text.3=Dajte mi vedieť, keď budete pripravení vyraziť. Oheň môže vypuknúť kedykoľvek.	#
+
+pilot.2.name=Kapitán hasičov	### NPC name, referring to their title
+pilot.2.text.1=Práve som dostal správu z operačného strediska. Blíži sa búrka a je veľká šanca, že ju budú sprevádzať blesky. Musíme začať odstraňovať suché krovie z tejto oblasti skôr, než sem dorazí.	#
+pilot.2.text.2=Nechajte agenta odstrániť líniu suchého krovia a odstrániť tak riziko požiaru.	#
+
+firefighter.1.name=Hasič 		### NPC name, referring to their title
+firefighter.1.text.1=Skvelá práca! Pred príchodom búrky ste spoločne s agentom dokázali odstrániť riziká požiaru a zachrániť dedinu.	#
+firefighter.1.text.2=Kým ste tu, mohli by ste túto oblasť pomôcť obnoviť výsadbou kvetov a rodením zvierat.	#
+
+resourcePack.education_demo_world_resources.name=Zdroje ukážkového sveta M:EE	#
+resourcePack.education_demo_world_resources.description=Zdroje klienta M:EE pre ukážkový svet M:EE.	#
+
+edu_demo.tip.1=Dažďové pralesy sú domovom pre viac ako polovicu suchozemských živočíšnych druhov našej planéty.	#
+edu_demo.tip.2=Živobytie viac ako 25 % svetovej populácie je závislé od lesov.	#
+edu_demo.tip.3=Požiar vyžaduje tri veci: palivo, kyslík a zdroj tepla.	#
+edu_demo.tip.4=Pri požiaroch, najmä v rašeliniskách a hustých lesoch, sa uvoľňujú obrovské emisie uhlíka.	#
+edu_demo.tip.5=Počítače musíte naučiť, ako sa majú učiť. Podobne ako študentov.	#
+edu_demo.tip.6=Umelá inteligencia sa používa na zhromažďovanie a analyzovanie údajov o lesoch, čo je rýchlejšie ako ručné počítanie stromov.	#
+
+menu.quit.edu=UKONČIŤ LEKCIU	#
+menu.quit.edu.title=Ukončiť ukážkovú lekciu	#
+
+start_screen.start_demo=Spustiť lekciu	#
+
+lesson.finished=HOTOVO	### please try to keep this as close to the colloquial form of "I am Finished" as possible. 
+
+lesson.end.dialog.title=Lekcia dokončená.	#
+lesson.end.dialog.body.title=BLAHOŽELÁME	#
+lesson.end.dialog.body.wimages=Získali ste certifikát dokončenia. Pozrite si fotografie z tejto lekcie a uložte si kópiu.	#
+lesson.end.dialog.body.checkport=Pozrite si fotografie z tejto lekcie a uložte si kópiu.	#
+lesson.end.dialog.body.noimages=Získali ste certifikát dokončenia.	#
+lesson.end.dialog.button.morecoding=Viac programovania	#
+lesson.end.dialog.button.getcert=Získať certifikát	#
+lesson.end.dialog.button.exit=Ukončiť lekciu	#
+lesson.end.dialog.button.export=Uložiť	#
+
+lesson.end.access.imagespreview=Fotografia z lekcie %1 z %2	#
+lesson.end.access.export=Exportovať fotografie z lekcie	#

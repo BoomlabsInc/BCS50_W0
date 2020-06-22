@@ -1,0 +1,24 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "Translation Pack",
+    "name": "Translation",
+    "uuid": "9f99a5b6-eff9-4a29-b986-465ede1dadda",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "7d094f66-429d-4047-9469-f1e95ab4d1b7",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

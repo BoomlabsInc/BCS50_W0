@@ -1,0 +1,189 @@
+﻿pack.name=En timme med kod-resurser	#
+pack.description=Resurser som behövs för En timme med kod	#
+
+item.spawn_egg.entity.pws:npc_2.name=Spawna NPC 2	#
+entity.pws:npc_2.name=NPC 2	#
+
+item.spawn_egg.entity.pws:npc_2_firefighter.name=Spawna NPC 2, brandman	#
+entity.pws:npc_2_firefighter.name=NPC 2, brandman	#
+
+objective=§l§6- Nuvarande uppdrag -§r	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+try.again.title=§6Försök igen§r	#
+try.again.subtitle=Ge ditt uppdrag ett nytt försök.	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+quest.end.title=§6Uppdrag avklarat!§r	#
+npc.skip.name=§6Hjälproboten§r	#
+
+no_button.title=§r	#
+no_button.subtitle=Prova uppdraget först.	#
+
+take.picture=Ta en bild	#
+
+press_c=§eTryck på C eller rör vid agentikonen för att koda.§r	#
+
+quest.1.end.subtitle=Grattis! Du lyckades!	###subtitles appear on the screen as a success message after the quest has been completed
+quest.2.end.subtitle=Grattis! Du lyckades!	#
+quest.3.end.subtitle=Grattis! Du lyckades!	#
+quest.4.end.subtitle=Grattis! Du lyckades!	#
+quest.5.end.subtitle=Grattis! Du lyckades!	#
+quest.6.end.subtitle=Grattis! Du lyckades!	#
+quest.7.end.subtitle=Grattis! Du lyckades!	#
+quest.8.0.end.subtitle=Grattis! Du lyckades!	#
+quest.8.end.subtitle=Grattis! Du lyckades!	#
+quest.9.end.subtitle=Grattis! Du lyckades!	#
+quest.10.end.subtitle=Grattis! Du lyckades!	#
+quest.11.end.subtitle=Grattis! Du lyckades!	#
+quest.12.end.subtitle=Grattis! Du lyckades!	#
+
+
+900020=§fPrata med forskaren.	###This section includes the titles of quests, which will remain onscreen until the player completes the quest. 
+900030=§fPrata med ingenjören.	#
+900040=§fPrata med forskaren.	#
+900050=§fHitta och prata med teknikern på toppen av tornet.	#
+900060=§fKlättra ner för stegen och hitta forskningsledaren.	#
+900070=§fPrata med AI-specialisten.	#
+900071=§fPrata med AI-specialisten.	#
+900072=§fPrata med AI-specialisten.	#
+900073=§fPrata med AI-specialisten.	#
+900080=§fPrata med forskaren.	#
+900090=§fPrata med analytikern.	#
+900100=§fHitta helikoptern och prata med brandkaptenen.	#
+900110=§fPrata med brandkaptenen.	#
+900120=§fBrand! Se upp!	#
+900130=§fPrata med brandmannen.	#
+
+welcome.board.title.1=BRAND-	#
+welcome.board.title.2=FORSKNINGS-	#
+welcome.board.title.3=CENTER	#
+
+quest.5.easy=Kort väg	### button name, student selects either the short or long version of a maze path to solve
+quest.5.hard=Lång väg	#
+
+quest.7.yes=Ja	#
+quest.7.no=Nej	#
+quest.7.hazard=Brandfara	#
+
+quest.10.yes=Nu kör vi!	#
+
+quest.13.done=Klar!	#
+
+ladder.up.1=§r	#
+ladder.up.2=Tryck på W för att	#
+ladder.up.3=klättra upp för stegen.	#
+ladder.up.4=§r	#
+edge.1=Gå fram till	#
+edge.2=avsatsen.	#
+edge.3=Oroa dig inte,	#
+edge.4=du kan inte ramla ner!	#
+ladder.down.1=Brandforsknings-	#
+ladder.down.2=center	#
+ladder.down.3=|	#
+ladder.down.4=V	#
+to.center.1=Brandforsknings-	#
+to.center.2=center	#
+to.center.3=Hitåt	#
+to.center.4=------>	#
+center.1=§r	#
+center.2=Brandforsknings-	#
+center.3=center	#
+center.4=§r	#
+to.helipad.1=Helikopterplatta	#
+to.helipad.2=Hitåt	#
+to.helipad.3=<------	#
+to.helipad.4=§r	#
+
+bot.button.skip=Hoppa över uppdrag	#
+bot.button.reset=Återställ uppdrag	#
+
+skip.title=§9Hoppade över uppdraget	#
+skip.subtitle=Hjälproboten hoppade över uppdraget!	#
+
+complete.lesson.title=§9Resan avklarad!	#
+
+bot.name=Hjälproboten	### This is the name of an NPC robot that provides the player with help in completing coding quests. "Bot" refers to the shortened form of "Robot".
+bot.1.text.1=Jag är Hjälproboten! Om du kör fast hjälper jag gärna till! Jag kan antingen återställa uppdraget åt dig eller hoppa över det.	#
+bot.1.text.2=Jag kan bara hjälpa dig när du provat uppdraget själv, så se till att ge det ett försök på egen hand först!	#
+
+bot.2.text.1=Hej igen! Hur kan jag stå till tjänst? Jag kan återställa uppdraget eller hoppa över det helt.	#
+bot.2.text.2=Kom ihåg att jag bara kan hjälpa dig när du har provat uppdraget själv, så se till att ge det ett försök först!	#
+
+researcher.1.name=Högerklicka på mig!	### NPC name, referring to their title
+researcher.1.text.1=Välkommen till forskningscentret! Här får du lära dig hur vi använder AI och kodning för att förhindra bränder.	#
+researcher.1.text.2=Ditt första uppdrag är att öppna den här porten med kod.	#
+researcher.1.text.3=Stäng det här chattfönstret för att börja koda.	#
+
+engineer.1.name=Ingenjör	### NPC name, referring to their title
+engineer.1.text.1=Det här är agenten. Du kan programmera agenten precis som du gjorde med porten.	#
+engineer.1.text.2=Programmera agenten att röra sig 3 steg framåt och stanna på markören.	#
+engineer.1.text.3=Stäng det här chattfönstret för att börja koda.	#
+
+researcher.2.name=Forskare	### NPC name, referring to their title
+researcher.2.text.1=Koda agenten att gå 4 rutor framåt och sedan analysera den torra vegetationen framför sig.	#
+researcher.2.text.2=§r	#
+
+technician.1.name=Tekniker	### NPC name, referring to their title
+technician.1.text.1=Titta ut från avsatsen till vänster så ser du agentträningslabyrinten. Titta ut över kanten … oroa dig inte, det går inte att ramla ner!	#
+technician.1.text.2=Välj en vägknapp nedan. Använd kod för att förflytta agenten genom labyrinten så att den når den torra vegetationen och kan analysera den.	#
+
+head.of.research.1.name=Forskningsledare	#
+head.of.research.1.text.1=Att lära agenten förutsäga brandfaror är vårt bästa verktyg för att förhindra bränder.	#
+head.of.research.1.text.2=Kom in så får du hjälp med att träna agenten av AI-specialisten.	#
+
+technician.2.name=AI-specialist	### NPC name, referring to their title
+technician.2.text.1=Den här datorn lär agenten om brandfarliga växter.	#
+technician.2.text.2=Titta på bilderna skärmen. Om en växt är gulnad och ser torr ut är den en brandfara. Tryck i så fall på knappen JA. Om en växt ser grön och hälsosam ut är den INTE en brandfara, så då trycker du på knappen NEJ.	#
+technician.2.text.3=§r	#
+
+
+scientist.1.name=Forskare	### NPC name, referring to their title
+scientist.1.text.1=Agenten måste ta bort farliga växter från området för att förhindra bränder.	#
+scientist.1.text.2=Nu sätter vi träningen på prov! Koda agenten att förstöra alla brandfarliga växter. Stäng chattfönstret för att börja koda.	#
+
+scientist.2.name=Analytiker	### NPC name, referring to their title
+scientist.2.text.1=Med hjälp av bilder kan agenten nu upptäcka var det är troligt att bränder uppstår.	#
+scientist.2.text.2=Koda agenten att varna teamet om den ser platser där det kan börja brinna på datorskärmen.	#
+scientist.2.text.3=Stäng det här chattfönstret för att börja koda.	#
+
+pilot.1.name=Brandkapten	### NPC name, referring to their title
+pilot.1.text.1=Jag fattar inte att agenten lärde sig förutse bränder så fort!	#
+pilot.1.text.2=Vi måste skynda oss till den här platsen där det är brandrisk!	#
+pilot.1.text.3=Säg till när du är redo att åka. Bränder kan uppstå när som helst!	#
+
+pilot.2.name=Brandkapten	### NPC name, referring to their title
+pilot.2.text.1=Jag fick ett meddelande från kommandocentralen. En storm är på väg och det är hög risk för blixtnedslag! Vi måste rensa bort den torra vegetationen innan ovädret kommer hit.	#
+pilot.2.text.2=Få agenten att rensa bort den torra vegetationen för att ta bort en brandfara.	#
+
+firefighter.1.name=Brandman		### NPC name, referring to their title
+firefighter.1.text.1=Bra jobbat! Du och din agent lyckades rensa bort brandfarorna innan stormen kom. Byn är räddad!	#
+firefighter.1.text.2=När du ändå håller på kan du väl återställa området genom att plantera blommor och spawna in djur?	#
+
+resourcePack.education_demo_world_resources.name=Resurser för M:EE-demovärlden	#
+resourcePack.education_demo_world_resources.description=Klientresurser för M:EE-demovärlden.	#
+
+edu_demo.tip.1=Över hälften av jordens alla djur lever i planetens regnskogar.	#
+edu_demo.tip.2=Över 25 % av världens befolkning är beroende av skogar.	#
+edu_demo.tip.3=Du behöver tre saker för att hålla liv i en eld: bränsle, syre och en värmekälla.	#
+edu_demo.tip.4=Bränder i torvmark och tät skog släpper ut massiva mängder koldioxid.	#
+edu_demo.tip.5=Datorer måste lära sig att lära – precis som elever!	#
+edu_demo.tip.6=AI används för att samla in och analysera skogsdata. Det går snabbare än att räkna träden för hand!	#
+
+menu.quit.edu=AVSLUTA LEKTION	#
+menu.quit.edu.title=Avsluta demolektion	#
+
+start_screen.start_demo=Starta lektion	#
+
+lesson.finished=JAG ÄR FÄRDIG	### please try to keep this as close to the colloquial form of "I am Finished" as possible. 
+
+lesson.end.dialog.title=Lektionen avklarad!	#
+lesson.end.dialog.body.title=GRATTIS	#
+lesson.end.dialog.body.wimages=Du har fått ett diplom. Kolla in fotona från lektionen och spara en kopia.	#
+lesson.end.dialog.body.checkport=Kolla in fotona från lektionen och spara en kopia.	#
+lesson.end.dialog.body.noimages=Du har fått ett diplom.	#
+lesson.end.dialog.button.morecoding=Mer kodning	#
+lesson.end.dialog.button.getcert=Hämta diplom	#
+lesson.end.dialog.button.exit=Avsluta lektion	#
+lesson.end.dialog.button.export=Spara	#
+
+lesson.end.access.imagespreview=Lektionsfoto %1 av %2	#
+lesson.end.access.export=Exportera lektionsfoton	#

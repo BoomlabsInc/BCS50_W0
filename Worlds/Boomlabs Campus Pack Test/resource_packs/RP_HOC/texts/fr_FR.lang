@@ -1,0 +1,189 @@
+﻿pack.name=Ressources pour l'Heure de Code	#
+pack.description=Ressources nécessaires pour l'Heure de Code	#
+
+item.spawn_egg.entity.pws:npc_2.name=Œuf de PNJ 2	#
+entity.pws:npc_2.name=PNJ 2	#
+
+item.spawn_egg.entity.pws:npc_2_firefighter.name=Œuf de PNJ 2 pompier	#
+entity.pws:npc_2_firefighter.name=PNJ 2 pompier	#
+
+objective=§l§6- Quête en cours -§r	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+try.again.title=§6Réessayez§r	#
+try.again.subtitle=Retentez d'accomplir votre quête.	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+quest.end.title=§6Quête terminée !§r	#
+npc.skip.name=§6Robot assistant§r	#
+
+no_button.title=§r	#
+no_button.subtitle=Essayez d'abord la quête.	#
+
+take.picture=Prenez une photo	#
+
+press_c=§ePour coder, appuyez sur « C » ou touchez l'icône de l'Agent.§r	#
+
+quest.1.end.subtitle=Félicitations, vous avez réussi !	###subtitles appear on the screen as a success message after the quest has been completed
+quest.2.end.subtitle=Félicitations, vous avez réussi !	#
+quest.3.end.subtitle=Félicitations, vous avez réussi !	#
+quest.4.end.subtitle=Félicitations, vous avez réussi !	#
+quest.5.end.subtitle=Félicitations, vous avez réussi !	#
+quest.6.end.subtitle=Félicitations, vous avez réussi !	#
+quest.7.end.subtitle=Félicitations, vous avez réussi !	#
+quest.8.0.end.subtitle=Félicitations, vous avez réussi !	#
+quest.8.end.subtitle=Félicitations, vous avez réussi !	#
+quest.9.end.subtitle=Félicitations, vous avez réussi !	#
+quest.10.end.subtitle=Félicitations, vous avez réussi !	#
+quest.11.end.subtitle=Félicitations, vous avez réussi !	#
+quest.12.end.subtitle=Félicitations, vous avez réussi !	#
+
+
+900020=§fParlez au chercheur.	###This section includes the titles of quests, which will remain onscreen until the player completes the quest. 
+900030=§fParlez à l'ingénieur.	#
+900040=§fParlez au chercheur.	#
+900050=§fTrouvez et parlez au technicien au sommet de la tour.	#
+900060=§fDescendez l'échelle et trouvez le responsable des recherches.	#
+900070=§fParlez au spécialiste de l'IA.	#
+900071=§fParlez au spécialiste de l'IA.	#
+900072=§fParlez au spécialiste de l'IA.	#
+900073=§fParlez au spécialiste de l'IA.	#
+900080=§fParlez au scientifique.	#
+900090=§fParlez à l'analyste.	#
+900100=§fTrouvez l'hélicoptère et parlez au capitaine des pompiers.	#
+900110=§fParlez au capitaine des pompiers.	#
+900120=§fUn feu ! Faites attention !	#
+900130=§fParlez au pompier.	#
+
+welcome.board.title.1=DES INCENDIES	#
+welcome.board.title.2=DE RECHERCHE	#
+welcome.board.title.3=CENTRE	#
+
+quest.5.easy=Chemin court	### button name, student selects either the short or long version of a maze path to solve
+quest.5.hard=Chemin long	#
+
+quest.7.yes=Oui	#
+quest.7.no=Non	#
+quest.7.hazard=Risque d'incendie	#
+
+quest.10.yes=C'est parti !	#
+
+quest.13.done=J'ai fini !	#
+
+ladder.up.1=§r	#
+ladder.up.2=Appuyez sur « z » pour	#
+ladder.up.3=grimper à l'échelle.	#
+ladder.up.4=§r	#
+edge.1=Marchez jusqu'au	#
+edge.2=bord.	#
+edge.3=Ne vous inquiétez pas,	#
+edge.4=vous ne tomberez pas !	#
+ladder.down.1=de recherche des incendies	#
+ladder.down.2=Centre	#
+ladder.down.3=|	#
+ladder.down.4=V	#
+to.center.1=de recherche des incendies	#
+to.center.2=Centre	#
+to.center.3=Par ici	#
+to.center.4=----->	#
+center.1=§r	#
+center.2=de recherche des incendies	#
+center.3=Centre	#
+center.4=§r	#
+to.helipad.1=Héliport	#
+to.helipad.2=Par ici	#
+to.helipad.3=<-----	#
+to.helipad.4=§r	#
+
+bot.button.skip=Passer la quête	#
+bot.button.reset=Réinitialiser la quête	#
+
+skip.title=§9Quête passée	#
+skip.subtitle=Le robot assistant a passé la quête !	#
+
+complete.lesson.title=§9Parcours terminé !	#
+
+bot.name=Robot assistant	### This is the name of an NPC robot that provides the player with help in completing coding quests. "Bot" refers to the shortened form of "Robot".
+bot.1.text.1=Je suis le robot assistant ! Si vous êtes coincé lors de votre parcours, je vous viendrais en aide. Pour vous, je peux soit réinitialiser la quête, soit la passer.	#
+bot.1.text.2=Je peux vous aider seulement si vous avez déjà essayé la quête, alors tentez d'abord votre chance !	#
+
+bot.2.text.1=Rebonjour ! Vous avez besoin d'aide ? Je peux réinitialiser la quête ou la passer complètement.	#
+bot.2.text.2=N'oubliez pas, je peux vous aider seulement si vous avez déjà essayé la quête, alors tentez d'abord votre chance !	#
+
+researcher.1.name=Clic-droit-sur-moi !	### NPC name, referring to their title
+researcher.1.text.1=Bienvenue dans le Centre de recherche ! Ici, vous apprendrez comment nous utilisons l'IA et la programmation pour prévenir les incendies.	#
+researcher.1.text.2=Votre première tâche est d'écrire un code pour ouvrir cette porte.	#
+researcher.1.text.3=Quittez cette fenêtre de dialogue pour commencer à coder.	#
+
+engineer.1.name=Ingénieur	### NPC name, referring to their title
+engineer.1.text.1=Voici l'Agent. Vous pouvez programmer l'Agent comme vous l'avez fait pour la porte.	#
+engineer.1.text.2=Programmez l'Agent pour qu'il avance de 3 pas et s'arrête sur la marque.	#
+engineer.1.text.3=Quittez cette fenêtre de dialogue pour commencer à coder.	#
+
+researcher.2.name=Chercheur	### NPC name, referring to their title
+researcher.2.text.1=Programmez l'Agent pour qu'il se déplace de 4 cases vers l'avant, puis analyse les broussailles devant.	#
+researcher.2.text.2=§r	#
+
+technician.1.name=Technicien	### NPC name, referring to their title
+technician.1.text.1=En regardant par-dessus le rebord sur votre gauche, vous apercevrez le Labyrinthe d'entraînement de l'Agent. Jetez un coup d'œil par-dessus le rebord… ne vous inquiétez pas, vous ne tomberez pas.	#
+technician.1.text.2=Choisissez un chemin avec l'un des boutons ci-dessous. Écrivez du code pour que l'Agent se déplace dans le labyrinthe jusqu'aux broussailles pour les analyser.	#
+
+head.of.research.1.name=Responsable des recherches	#
+head.of.research.1.text.1=Entraîner l'Agent à prévenir les risques d'incendie est notre meilleur outil de prévention.	#
+head.of.research.1.text.2=Venez à l'intérieur et le spécialiste de l'IA vous aidera à entraîner l'Agent.	#
+
+technician.2.name=Spécialiste de l'IA	### NPC name, referring to their title
+technician.2.text.1=Cet ordinateur permet d'apprendre à l'Agent quelles sont les plantes qui présentent des risques d'incendie.	#
+technician.2.text.2=Observez les images sur l'écran. Si une plante a l'air jaune et sèche, elle présente un risque d'incendie, alors appuyez sur le bouton OUI. Si au contraire elle est verte et en bonne santé, ce n'est PAS un risque d'incendie, alors appuyez sur le bouton NON.	#
+technician.2.text.3=§r	#
+
+
+scientist.1.name=Scientifique	### NPC name, referring to their title
+scientist.1.text.1=Afin de réussir à prévenir les incendies, l'Agent doit retirer les plantes dangereuses de la zone.	#
+scientist.1.text.2=Vérifions si l'entraînement porte ses fruits ! Programmez l'Agent pour détruire toutes les plantes qui représentent un risque d'incendie. Quittez cette fenêtre de dialogue pour commencer à coder.	#
+
+scientist.2.name=Analyste	### NPC name, referring to their title
+scientist.2.text.1=Utilisez les images, l'Agent peut désormais détecter d'où les feux peuvent démarrer.	#
+scientist.2.text.2=Programmez l'Agent pour alerter l'équipe si un lieu de risque d'incendie est trouvé sur l'écran de l'ordinateur.	#
+scientist.2.text.3=Quittez cette fenêtre de dialogue pour commencer à coder.	#
+
+pilot.1.name=Capitaine des pompiers	### NPC name, referring to their title
+pilot.1.text.1=C'est incroyable à quelle vitesse l'Agent a appris à anticiper les incendies !	#
+pilot.1.text.2=Nous devons nous dépêcher vers ce lieu à risque !	#
+pilot.1.text.3=Prévenez-moi lorsque vous serez prêt à y aller. Le feu peut se déclarer à tout moment !	#
+
+pilot.2.name=Capitaine des pompiers	### NPC name, referring to their title
+pilot.2.text.1=Je viens de recevoir un message du Centre de commande. Il y a une tempête qui s'approche avec de fortes chances d'orage ! Nous devons commencer à dégager les broussailles de cette zone avant qu'elle n'arrive.	#
+pilot.2.text.2=Demandez à l'Agent de dégager cette ligne de broussailles pour supprimer un risque d'incendie.	#
+
+firefighter.1.name=Pompier 		### NPC name, referring to their title
+firefighter.1.text.1=Bien joué ! Vous et votre Agent avez été capables de dégager les risques d'incendie avant que la tempête n'arrive et vous avez sauvé le village !	#
+firefighter.1.text.2=Pendant que vous êtes là, vous voulez bien nous aider à restaurer la zone en plantant des fleurs et en faisant apparaître des animaux ?	#
+
+resourcePack.education_demo_world_resources.name=Ressources du monde de démo M:EE	#
+resourcePack.education_demo_world_resources.description=Ressources client M:EE Client pour le monde de démo M:EE.	#
+
+edu_demo.tip.1=Les forêts tropicales abritent plus de la moitié des espèces animales terrestres de notre planète.	#
+edu_demo.tip.2=Plus de 25 % de la population mondiale dépend des forêts pour vivre.	#
+edu_demo.tip.3=Pour entretenir un feu, vous avez besoin de trois choses : du combustible, de l'oxygène et une source de chaleur.	#
+edu_demo.tip.4=Les feux libèrent d'importantes émissions de carbone, en particulier dans les tourbières et les forêts denses.	#
+edu_demo.tip.5=Les ordinateurs doivent apprendre, un peu comme les élèves !	#
+edu_demo.tip.6=L'intelligence artificielle est utilisée pour rassembler et analyser des données sur la forêt, ce qui est plus rapide que de compter les arbres un par un !	#
+
+menu.quit.edu=QUITTER LA LEÇON	#
+menu.quit.edu.title=Quitter la leçon de démo	#
+
+start_screen.start_demo=Commencer la leçon	#
+
+lesson.finished=J'AI TERMINÉ	### please try to keep this as close to the colloquial form of "I am Finished" as possible. 
+
+lesson.end.dialog.title=Leçon terminée !	#
+lesson.end.dialog.body.title=FÉLICITATIONS	#
+lesson.end.dialog.body.wimages=Vous avez obtenu un certificat de réussite. Consultez les photos de cette leçon et sauvegardez-en une copie.	#
+lesson.end.dialog.body.checkport=Consultez les photos de cette leçon et sauvegardez-en une copie.	#
+lesson.end.dialog.body.noimages=Vous avez obtenu un certificat de réussite.	#
+lesson.end.dialog.button.morecoding=Plus de code	#
+lesson.end.dialog.button.getcert=Obtenir le certificat	#
+lesson.end.dialog.button.exit=Quitter la leçon	#
+lesson.end.dialog.button.export=Sauvegarder	#
+
+lesson.end.access.imagespreview=Photos de la leçon : %1 sur %2	#
+lesson.end.access.export=Exporter les photos de la leçon	#

@@ -1,0 +1,189 @@
+﻿pack.name=Sumber Pengekodan Sejam	#
+pack.description=Sumber yang diperlukan untuk Pengekodan Sejam	#
+
+item.spawn_egg.entity.pws:npc_2.name=Lahirkan NPC 2	#
+entity.pws:npc_2.name=NPC 2	#
+
+item.spawn_egg.entity.pws:npc_2_firefighter.name=Lahirkan NPC 2 Ahli Bomba	#
+entity.pws:npc_2_firefighter.name=NPC 2 Ahli Bomba	#
+
+objective=§l§6- Pencarian Semasa -§r	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+try.again.title=§6Cuba semula§r	#
+try.again.subtitle=Cuba semula pencarian anda.	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+quest.end.title=§6Pencarian Selesai!§r	#
+npc.skip.name=§6Bot Pembantu§r	#
+
+no_button.title=§r	#
+no_button.subtitle=Please try the quest first.	#
+
+take.picture=Take a picture	#
+
+press_c=§eTekan "C" untuk mengekod.§r	#
+
+quest.1.end.subtitle=Tahniah! Anda berjaya melakukannya!	###subtitles appear on the screen as a success message after the quest has been completed
+quest.2.end.subtitle=Tahniah! Anda berjaya melakukannya!	#
+quest.3.end.subtitle=Tahniah! Anda berjaya melakukannya!	#
+quest.4.end.subtitle=Tahniah! Anda berjaya melakukannya!	#
+quest.5.end.subtitle=Tahniah! Anda berjaya melakukannya!	#
+quest.6.end.subtitle=Tahniah! Anda berjaya melakukannya!	#
+quest.7.end.subtitle=Tahniah! Anda berjaya melakukannya!	#
+quest.8.0.end.subtitle=Tahniah! Anda berjaya melakukannya!	#
+quest.8.end.subtitle=Tahniah! Anda berjaya melakukannya!	#
+quest.9.end.subtitle=Tahniah! Anda berjaya melakukannya!	#
+quest.10.end.subtitle=Tahniah! Anda berjaya melakukannya!	#
+quest.11.end.subtitle=Tahniah! Anda berjaya melakukannya!	#
+quest.12.end.subtitle=Tahniah! Anda berjaya melakukannya!	#
+
+
+900020=§fBercakap dengan Penyelidik.	###This section includes the titles of quests, which will remain onscreen until the player completes the quest. 
+900030=§fBercakap dengan Jurutera.	#
+900040=§fBercakap dengan Penyelidik.	#
+900050=§fCari dan bercakap dengan Juruteknik di atas menara.	#
+900060=§fCari dan bercakap dengan Ketua Penyelidik.	#
+900070=§fBercakap dengan Pakar AI. §c0§f/§e4	#
+900071=§fBercakap dengan Saintis. §c1§f/§e4	#
+900072=§fBercakap dengan Juruanalisis. §c2§f/§e4	#
+900073=§fCari helikopter dan bercakap dengan Kapten Bomba. §c3§f/§e4	#
+900080=§fBercakap dengan Kapten Bomba.	#
+900090=§fRamalkan potensi bahaya kebakaran.	#
+900100=§fPergi ke helikopter.	#
+900110=§fBercakap dengan Ahli Bomba.	#
+900120=§fBersihkan belukar kering yang selebihnya.	#
+900130=§fBantu pulihkan kampung.	#
+
+welcome.board.title.1=FIRE	#
+welcome.board.title.2=RESEARCH	#
+welcome.board.title.3=CENTER	#
+
+quest.5.easy=Laluan Pendek	### button name, student selects either the short or long version of a maze path to solve
+quest.5.hard=Laluan Panjang	#
+
+quest.7.yes=Ya	#
+quest.7.no=Tidak	#
+quest.7.hazard=Bahaya Kebakaran	#
+
+quest.10.yes=Jom!	#
+
+quest.13.done=Saya sudah selesai!	#
+
+ladder.up.1=§r	#
+ladder.up.2=Press "w" to	#
+ladder.up.3=climb a ladder.	#
+ladder.up.4=§r	#
+edge.1=Walk up to	#
+edge.2=the ledge.	#
+edge.3=Don't worry,	#
+edge.4=you won't fall!	#
+ladder.down.1=Fire Research	#
+ladder.down.2=Center	#
+ladder.down.3=|	#
+ladder.down.4=V	#
+to.center.1=Fire Research	#
+to.center.2=Center	#
+to.center.3=This way	#
+to.center.4=----->	#
+center.1=§r	#
+center.2=Fire Research	#
+center.3=Center	#
+center.4=§r	#
+to.helipad.1=Helipad	#
+to.helipad.2=This way	#
+to.helipad.3=<-----	#
+to.helipad.4=§r	#
+
+bot.button.skip=Langkau Pencarian	#
+bot.button.reset=Tetapkan Semula Pencarian	#
+
+skip.title=§9Pencarian Dilangkau	#
+skip.subtitle=Anda meminta bantuan Langkau!	#
+
+complete.lesson.title=§9Perjalanan Selesai!	#
+
+bot.name=Bot Pembantu	### This is the name of an NPC robot that provides the player with help in completing coding quests. "Bot" refers to the shortened form of "Robot".
+bot.1.text.1=Saya Bot Pembantu! Sekiranya anda tersekat dalam perjalanan anda, saya gembira untuk membantu! Saya boleh menetapkan semula pencarian untuk anda atau melangkau pencarian tersebut.	#
+bot.1.text.2=Saya hanya boleh membantu selepas anda mencuba pencarian tersebut, jadi pastikan anda mencuba terlebih dahulu!	#
+
+bot.2.text.1=Helo sekali lagi! Bagaimana boleh saya membantu anda? Saya boleh menetapkan semula pencarian atau melangkau pencarian itu sepenuhnya.	#
+bot.2.text.2=Ingat, saya hanya boleh membantu selepas anda mencuba pencarian tersebut, jadi pastikan anda mencuba terlebih dahulu!	#
+
+researcher.1.name=Klik Kanan pada saya!	### NPC name, referring to their title
+researcher.1.text.1=Selamat datang ke Pusat Penyelidikan! Di sini anda akan belajar cara kami menggunakan AI dan pengekodan untuk mengelakkan kebakaran.	#
+researcher.1.text.2=Your first task is to use coding to open this gate.	#
+researcher.1.text.3=Keluar daripada tetingkap sembang ini. Tekan [C] pada papan kekunci anda atau sentuh ikon Agent di bahagian atas skrin untuk mula mengekod.	#
+
+engineer.1.name=Jurutera	### NPC name, referring to their title
+engineer.1.text.1=Inilah Agent. Anda boleh memprogram Agent seperti anda lakukan dengan pagar.	#
+engineer.1.text.2=Code the Agent to move 3 steps forward to stop on the marker.	#
+engineer.1.text.3=Tekan [C] pada papan kekunci anda untuk mula mengekod.	#
+
+researcher.2.name=Penyelidik	### NPC name, referring to their title
+researcher.2.text.1=Kodkan Agent untuk bergerak 4 ruang ke hadapan dan kemudian buat analisis berus kering ke hadapan.	#
+researcher.2.text.2=§r	#
+
+technician.1.name=Juruteknik	### NPC name, referring to their title
+technician.1.text.1=Dari atas sini, kami boleh menggunakan kod untuk menggerakkan Agent melalui pagar sesat di bawah. Jangan risau, anda tidak boleh jatuh ke dalam belebas!	#
+technician.1.text.2=Pilih laluan di bawah dan cuba untuk menavigasi Agent melalui pagar sesat tersebut, kemudian buat analisis terhadap sampel pada penghujungnya.	#
+
+head.of.research.1.name=Ketua Penyelidikan	#
+head.of.research.1.text.1=Teaching the Agent to predict fire hazards is our best tool for prevention.	#
+head.of.research.1.text.2=Masuk ke dalam dan juruteknik akan membantu anda melatih Agent.	#
+
+technician.2.name=Pakar AI	### NPC name, referring to their title
+technician.2.text.1=Komputer ini akan membantu anda mengajar Agent tentang tumbuh-tumbuhan yang mudah terbakar.	#
+technician.2.text.2=Lihat imej pada monitor.	#
+technician.2.text.3=§r	#
+
+
+scientist.1.name=Saintis	### NPC name, referring to their title
+scientist.1.text.1=Untuk berjaya mencegah kebakaran, Agent perlu membuang tumbuhan berbahaya daripada kawasan tersebut.	#
+scientist.1.text.2=Sekarang mari menguji hasil latihan kita! Kodkan Agent untuk memusnahkan semua tumbuh-tumbuhan yang berpotensi terbakar. Tekan [C] pada papan kekunci anda untuk mula mengekod.	#
+
+scientist.2.name=Juruanalisis	### NPC name, referring to their title
+scientist.2.text.1=Dengan menggunakan imej, Agent kini boleh mengesan tempat yang berkemungkinan berlakunya kebakaran.	#
+scientist.2.text.2=Kodkan Agent untuk memaklumkan pasukan jika lokasi bahaya kebakaran yang berpotensi ditemui pada monitor komputer.	#
+scientist.2.text.3=Tekan [C] pada papan kekunci anda untuk mula mengekod.	#
+
+pilot.1.name=Kapten Bomba	### NPC name, referring to their title
+pilot.1.text.1=Saya tidak sangka Agent boleh belajar meramalkan kebakaran dengan begitu cepat!	#
+pilot.1.text.2=Kami perlu bergegas ke lokasi yang mungkin berlaku kebakaran ini!	#
+pilot.1.text.3=Maklumkan saya apabila anda sedia untuk bergerak, kebakaran boleh berlaku pada bila-bila masa!	#
+
+pilot.2.name=Kapten Bomba	### NPC name, referring to their title
+pilot.2.text.1=Saya baru mendapat mesej daripada Pusat Kawalan. Terdapat ribut yang akan melanda dengan kebarangkalian kilat yang tinggi! Kita perlu mula membersihkan belukar kering daripada kawasan ini sebelum ia tiba di sini.	#
+pilot.2.text.2=Minta Agent membersihkan barisan belukar kering itu untuk membuang risiko kebakaran.	#
+
+firefighter.1.name=Ahli Bomba 		### NPC name, referring to their title
+firefighter.1.text.1=Syabas! Anda dan Agent anda dapat menghapuskan bahaya kebakaran sebelum ribut melanda dan menyelamatkan kampung!	#
+firefighter.1.text.2=Sementara anda berada di sini, apa kata anda membantu memulihkan kawasan ini dengan menanam bunga dan melahirkan haiwan?	#
+
+resourcePack.education_demo_world_resources.name=M:EE Demo World Resources	#
+resourcePack.education_demo_world_resources.description=M:EE Client resources for the M:EE demo world.	#
+
+edu_demo.tip.1=Rainforests are home to more than half our planet's terrestrial animal species.	#
+edu_demo.tip.2=More than 25% of the world's population depend on forests for their livelihoods.	#
+edu_demo.tip.3=Three things are needed to keep a fire going: fuel, oxygen, and a heat source.	#
+edu_demo.tip.4=Fires, especially in peatlands and dense forests, release massive carbon emissions.	#
+edu_demo.tip.5=Computers have to be taught to learn - sort of like students!	#
+edu_demo.tip.6=AI is used to collect and analyze forest data, which is faster than counting trees by hand!	#
+
+menu.quit.edu=EXIT LESSON	#
+menu.quit.edu.title=Exit Demo Lesson	#
+
+start_screen.start_demo=Start Lesson	#
+
+lesson.finished=I'M FINISHED	### please try to keep this as close to the colloquial form of "I am Finished" as possible. 
+
+lesson.end.dialog.title=Lesson Complete!	#
+lesson.end.dialog.body.title=CONGRATULATIONS	#
+lesson.end.dialog.body.wimages=You earned a certificate of completion. Check out the photos from this lesson and save a copy.	#
+lesson.end.dialog.body.checkport=Check out the photos from this lesson and save a copy.	#
+lesson.end.dialog.body.noimages=You earned a certificate of completion.	#
+lesson.end.dialog.button.morecoding=More Coding	#
+lesson.end.dialog.button.getcert=Get Certificate	#
+lesson.end.dialog.button.exit=Exit Lesson	#
+lesson.end.dialog.button.export=Save	#
+
+lesson.end.access.imagespreview=Lesson photo %1 of %2	#
+lesson.end.access.export=Export lesson photos	#

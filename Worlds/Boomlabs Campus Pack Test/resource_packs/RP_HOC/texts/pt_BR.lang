@@ -1,0 +1,189 @@
+﻿pack.name=Hora do Código	#
+pack.description=Recursos necessários para Hora do Código	#
+
+item.spawn_egg.entity.pws:npc_2.name=Invocar NPC 2	#
+entity.pws:npc_2.name=NPC 2	#
+
+item.spawn_egg.entity.pws:npc_2_firefighter.name=Invocar NPC 2 Bombeiro	#
+entity.pws:npc_2_firefighter.name=NPC 2 Bombeiro	#
+
+objective=§l§6- Missão Atual -§r	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+try.again.title=§6Tentar novamente§r	#
+try.again.subtitle=Tente concluir sua missão novamente.	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+quest.end.title=§6Missão Concluída!§r	#
+npc.skip.name=§6Robô Ajudante§r	#
+
+no_button.title=§r	#
+no_button.subtitle=Tente a missão primeiro.	#
+
+take.picture=Tirar uma foto	#
+
+press_c=§ePressione "C" para programar ou tocar no ícone do Agent.§r	#
+
+quest.1.end.subtitle=Parabéns! Você conseguiu!	###subtitles appear on the screen as a success message after the quest has been completed
+quest.2.end.subtitle=Parabéns! Você conseguiu!	#
+quest.3.end.subtitle=Parabéns! Você conseguiu!	#
+quest.4.end.subtitle=Parabéns! Você conseguiu!	#
+quest.5.end.subtitle=Parabéns! Você conseguiu!	#
+quest.6.end.subtitle=Parabéns! Você conseguiu!	#
+quest.7.end.subtitle=Parabéns! Você conseguiu!	#
+quest.8.0.end.subtitle=Parabéns! Você conseguiu!	#
+quest.8.end.subtitle=Parabéns! Você conseguiu!	#
+quest.9.end.subtitle=Parabéns! Você conseguiu!	#
+quest.10.end.subtitle=Parabéns! Você conseguiu!	#
+quest.11.end.subtitle=Parabéns! Você conseguiu!	#
+quest.12.end.subtitle=Parabéns! Você conseguiu!	#
+
+
+900020=§fFale com o Pesquisador.	###This section includes the titles of quests, which will remain onscreen until the player completes the quest. 
+900030=§fFale com o Engenheiro.	#
+900040=§fFale com o Pesquisador.	#
+900050=§fEncontre e fale com o Técnico no topo da torre.	#
+900060=§fDesça a escada de mão e encontre o Chefe de Pesquisa.	#
+900070=§fFale com o Especialista em IA.	#
+900071=§fFale com o Especialista em IA.	#
+900072=§fFale com o Especialista em IA.	#
+900073=§fFale com o Especialista em IA.	#
+900080=§fFale com o Cientista.	#
+900090=§fFale com o Analista.	#
+900100=§fEncontre o helicóptero e fale com o Capitão dos Bombeiros.	#
+900110=§fFale com o Capitão dos Bombeiros.	#
+900120=§Incêndio! Cuidado!	#
+900130=§fFale com o Bombeiro.	#
+
+welcome.board.title.1=INCÊNDIO	#
+welcome.board.title.2=PESQUISA	#
+welcome.board.title.3=CENTRO	#
+
+quest.5.easy=Caminho Curto	### button name, student selects either the short or long version of a maze path to solve
+quest.5.hard=Caminho Longo	#
+
+quest.7.yes=Sim	#
+quest.7.no=Não	#
+quest.7.hazard=Ameaça de Incêndio	#
+
+quest.10.yes=Vamos lá	#
+
+quest.13.done=Terminei!	#
+
+ladder.up.1=§r	#
+ladder.up.2=Pressionar "w" para	#
+ladder.up.3=subir uma escada de mão.	#
+ladder.up.4=§r	#
+edge.1=Caminhe até	#
+edge.2=a borda.	#
+edge.3=Não se preocupe,	#
+edge.4=você não vai cair!	#
+ladder.down.1=Pesquisa de Incêndios	#
+ladder.down.2=Centro	#
+ladder.down.3=|	#
+ladder.down.4=V	#
+to.center.1=Pesquisa de Incêndios	#
+to.center.2=Centro	#
+to.center.3=Siga este caminho	#
+to.center.4=----->	#
+center.1=§r	#
+center.2=Pesquisa de Incêndios	#
+center.3=Centro	#
+center.4=§r	#
+to.helipad.1=Heliporto	#
+to.helipad.2=Siga este caminho	#
+to.helipad.3=<-----	#
+to.helipad.4=§r	#
+
+bot.button.skip=Pular Missão	#
+bot.button.reset=Reiniciar Missão	#
+
+skip.title=§9Missão Pulada	#
+skip.subtitle=O Robô Ajudante pulou a missão!	#
+
+complete.lesson.title=§9Jornada Concluída!	#
+
+bot.name=Robô Ajudante	### This is the name of an NPC robot that provides the player with help in completing coding quests. "Bot" refers to the shortened form of "Robot".
+bot.1.text.1=Eu sou o Robô Ajudante! Se você travar em sua jornada, ficarei feliz em ajudar! Eu posso reiniciar a missão para você ou pulá-la.	#
+bot.1.text.2=Eu só posso ajudar depois de você ter tentado concluir a missão, então primeiro tente!	#
+
+bot.2.text.1=Olá, sou eu de novo! Como posso ajudar? Eu posso reiniciar a missão ou pulá-la completamente.	#
+bot.2.text.2=Lembre-se, eu só posso ajudar depois de você ter tentado concluir a missão, então primeiro tente!	#
+
+researcher.1.name=Clique em mim com o botão direito!	### NPC name, referring to their title
+researcher.1.text.1=Bem-vindo ao Centro de Pesquisa! Aqui você aprenderá como usamos IA e programação para evitar incêndios.	#
+researcher.1.text.2=A sua primeira tarefa é usar a programação para abrir este portão.	#
+researcher.1.text.3=Saia desta janela de chat para começar a programar.	#
+
+engineer.1.name=Engenheiro	### NPC name, referring to their title
+engineer.1.text.1=Este é o Agent. Você pode programar o Agent como você fez com o portão.	#
+engineer.1.text.2=Programe o Agent para dar 3 passos à frente e parar no marcador.	#
+engineer.1.text.3=Saia desta janela de chat para começar a programar.	#
+
+researcher.2.name=Pesquisador	### NPC name, referring to their title
+researcher.2.text.1=Programe o Agent para andar 4 espaços à frente e analisar o arbusto seco em frente.	#
+researcher.2.text.2=§r	#
+
+technician.1.name=Técnico	### NPC name, referring to their title
+technician.1.text.1=Olhe para fora da borda à sua esquerda e você verá o Labirinto de Treinamento do Agent. Olhe por cima da borda... não se preocupe, você não cairá!	#
+technician.1.text.2=Escolha um botão de caminho abaixo. Use a programação para mover o Agent ao longo do labirinto, até chegar ao arbusto seco para analisá-lo.	#
+
+head.of.research.1.name=Chefe de Pesquisa	#
+head.of.research.1.text.1=Ensinar o Agent a prever ameaças de incêndios é a nossa melhor forma de prevenir que eles ocorram.	#
+head.of.research.1.text.2=Entre, e o especialista em IA ajudará você a treinar o Agent.	#
+
+technician.2.name=Especialista em IA	### NPC name, referring to their title
+technician.2.text.1=Este computador ajudará a ensinar o Agent sobre plantas que são ameaças de incêndio.	#
+technician.2.text.2=Assista às imagens no monitor. Se uma planta estiver amarela e seca, ela é uma ameaça de incêndio, então aperte o botão SIM. Se uma planta estiver verde e saudável, ela NÃO é uma ameaça de incêndio, então aperte o botão NÃO.	#
+technician.2.text.3=§r	#
+
+
+scientist.1.name=Cientista	### NPC name, referring to their title
+scientist.1.text.1=Para evitar incêndios com sucesso, o Agent precisará remover plantas perigosas da área.	#
+scientist.1.text.2=Agora vamos testar nosso treinamento! Programe o Agent para destruir todas as plantas que são uma ameaça de incêndio. Saia da janela de chat para começar a programar.	#
+
+scientist.2.name=Analista	### NPC name, referring to their title
+scientist.2.text.1=Com o auxílio de imagens, o Agent agora consegue detectar onde prováveis incêndios podem começar.	#
+scientist.2.text.2=Programe o Agent para alertar o time se um local com uma potencial ameaça de incêndio for encontrado no monitor do computador.	#
+scientist.2.text.3=Saia desta janela de chat para começar a programar.	#
+
+pilot.1.name=Capitão dos Bombeiros	### NPC name, referring to their title
+pilot.1.text.1=Eu não consigo acreditar na rapidez com que o Agent aprendeu a prever incêndios!	#
+pilot.1.text.2=Precisamos correr para este local com ameaça de incêndio!	#
+pilot.1.text.3=Diga-me quando estiver pronto para partir, o fogo pode começar a qualquer momento!	#
+
+pilot.2.name=Capitão dos Bombeiros	### NPC name, referring to their title
+pilot.2.text.1=Acabei de receber uma mensagem do Centro de Comando. Há uma tempestade com uma alta chance de relâmpagos se aproximando! Temos que remover os arbustos secos da área antes que ela chegue.	#
+pilot.2.text.2=Faça com que o Agent limpe esta linha de arbustos secos para remover uma ameaça de incêndio.	#
+
+firefighter.1.name=Bombeiro 		### NPC name, referring to their title
+firefighter.1.text.1=Excelente trabalho! Você e seu Agent conseguiram neutralizar as ameaças de incêndio antes que a tempestade chegasse, salvando a vila!	#
+firefighter.1.text.2=Aproveitando que está aqui, por você e o Agent não ajudam a restaurar a área e limpar plantando flores e invocando animais?	#
+
+resourcePack.education_demo_world_resources.name=M:EE Recursos do Mundo Demo	#
+resourcePack.education_demo_world_resources.description=M:EE Recursos do cliente para o mundo demo M:EE.	#
+
+edu_demo.tip.1=Florestas abrigam mais da metade das espécies de animais terrestres do nosso planeta.	#
+edu_demo.tip.2=Mais de 25% da população mundial depende de florestas para sobreviver.	#
+edu_demo.tip.3=São necessárias três coisas para manter um fogo queimando: combustível, oxigênio e uma fonte de calor.	#
+edu_demo.tip.4=Incêndios, especialmente em turfas e florestas densas, geram emissões de carbono imensas.	#
+edu_demo.tip.5=Computadores precisam ser ensinados a aprender - mais ou menos igual aos alunos!	#
+edu_demo.tip.6=IA é usada para coletar e analisar dados florestais, o que é mais rápido do que contar árvores manualmente!	#
+
+menu.quit.edu=SAIR DA LIÇÃO	#
+menu.quit.edu.title=Sair da Aula de Demonstração	#
+
+start_screen.start_demo=Iniciar lição	#
+
+lesson.finished=TERMINEI	### please try to keep this as close to the colloquial form of "I am Finished" as possible. 
+
+lesson.end.dialog.title=Lição concluída!	#
+lesson.end.dialog.body.title=PARABÉNS	#
+lesson.end.dialog.body.wimages=Você recebeu um certificado de conclusão. Confira as fotos desta lição e salve uma cópia.	#
+lesson.end.dialog.body.checkport=Confira as fotos desta lição e salve uma cópia.	#
+lesson.end.dialog.body.noimages=Você recebeu um certificado de conclusão.	#
+lesson.end.dialog.button.morecoding=Mais programação	#
+lesson.end.dialog.button.getcert=Obter certificado	#
+lesson.end.dialog.button.exit=Sair da lição	#
+lesson.end.dialog.button.export=Salvar	#
+
+lesson.end.access.imagespreview=Foto da lição %1 de %2	#
+lesson.end.access.export=Exportar fotos da lição	#

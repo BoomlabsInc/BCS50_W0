@@ -1,0 +1,189 @@
+﻿pack.name=一小時程式設計資源	#
+pack.description=一小時程式設計所需的資源	#
+
+item.spawn_egg.entity.pws:npc_2.name=增生 NPC 2	#
+entity.pws:npc_2.name=NPC 2	#
+
+item.spawn_egg.entity.pws:npc_2_firefighter.name=增生 NPC 2 消防隊員	#
+entity.pws:npc_2_firefighter.name=NPC 2 消防隊員	#
+
+objective=§l§6- 目前任務 -§r	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+try.again.title=§6再試一次§r	#
+try.again.subtitle=再試一次完成任務。	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+quest.end.title=§6任務完成！§r	#
+npc.skip.name=§6協助機器人§r	#
+
+no_button.title=§r	#
+no_button.subtitle=請先嘗試進行此任務。	#
+
+take.picture=拍照	#
+
+press_c=§e按「C」進行編碼，或觸碰 Agent 圖示。§r	#
+
+quest.1.end.subtitle=恭喜！您成功了！	###subtitles appear on the screen as a success message after the quest has been completed
+quest.2.end.subtitle=恭喜！您成功了！	#
+quest.3.end.subtitle=恭喜！您成功了！	#
+quest.4.end.subtitle=恭喜！您成功了！	#
+quest.5.end.subtitle=恭喜！您成功了！	#
+quest.6.end.subtitle=恭喜！您成功了！	#
+quest.7.end.subtitle=恭喜！您成功了！	#
+quest.8.0.end.subtitle=恭喜！您成功了！	#
+quest.8.end.subtitle=恭喜！您成功了！	#
+quest.9.end.subtitle=恭喜！您成功了！	#
+quest.10.end.subtitle=恭喜！您成功了！	#
+quest.11.end.subtitle=恭喜！您成功了！	#
+quest.12.end.subtitle=恭喜！您成功了！	#
+
+
+900020=§f與研究人員交談。	###This section includes the titles of quests, which will remain onscreen until the player completes the quest. 
+900030=§f與工程師交談。	#
+900040=§f與研究人員交談。	#
+900050=§f到塔頂找尋並與技術人員交談。	#
+900060=§f爬下梯子，並找尋 [研究總部]	#
+900070=§f與 AI 專家交談。	#
+900071=§f與 AI 專家交談。	#
+900072=§f與 AI 專家交談。	#
+900073=§f與 AI 專家交談。	#
+900080=§f與科學家交談。	#
+900090=§f與分析人員交談。	#
+900100=§f找到直升機並與 [消防隊長] 交談。	#
+900110=§f與消防隊長交談。	#
+900120=§f火災！小心！	#
+900130=§f與 [消防員] 交談。	#
+
+welcome.board.title.1=火	#
+welcome.board.title.2=研究	#
+welcome.board.title.3=中心	#
+
+quest.5.easy=短路徑	### button name, student selects either the short or long version of a maze path to solve
+quest.5.hard=長路徑	#
+
+quest.7.yes=是	#
+quest.7.no=否	#
+quest.7.hazard=火災	#
+
+quest.10.yes=我們開始吧！	#
+
+quest.13.done=我完成了！	#
+
+ladder.up.1=§r	#
+ladder.up.2=按「w」前往	#
+ladder.up.3=攀爬梯子。	#
+ladder.up.4=§r	#
+edge.1=走上	#
+edge.2=突出處。	#
+edge.3=別擔心。	#
+edge.4=你不會摔下去的！	#
+ladder.down.1=火災研究	#
+ladder.down.2=中心	#
+ladder.down.3=|	#
+ladder.down.4=V	#
+to.center.1=火災研究	#
+to.center.2=中心	#
+to.center.3=這邊	#
+to.center.4=----->	#
+center.1=§r	#
+center.2=火災研究	#
+center.3=中心	#
+center.4=§r	#
+to.helipad.1=直升機停機坪	#
+to.helipad.2=這邊	#
+to.helipad.3=<-----	#
+to.helipad.4=§r	#
+
+bot.button.skip=跳過任務	#
+bot.button.reset=重設任務	#
+
+skip.title=§9已跳過任務	#
+skip.subtitle=Helper Bot 已跳過此任務！	#
+
+complete.lesson.title=§9旅程已完成！	#
+
+bot.name=小幫手機器人	### This is the name of an NPC robot that provides the player with help in completing coding quests. "Bot" refers to the shortened form of "Robot".
+bot.1.text.1=我是小幫手機器人！如果您在旅程途中卡關，我很樂意提供協助！我可以為您重設任務，或讓您跳過任務。	#
+bot.1.text.2=我只能在您自己嘗試過完成任務後協助您，因此請務必先自己試試看！	#
+
+bot.2.text.1=又見面啦！您需要什麼協助呢？我可以重設任務，或讓您跳過整個任務。	#
+bot.2.text.2=提醒您，我只能在您自己嘗試過完成任務後協助您，因此請務必先自己試試看！	#
+
+researcher.1.name=右鍵點擊我！	### NPC name, referring to their title
+researcher.1.text.1=歡迎來到研究中心！您將這裡學到如何使用 AI 與編碼預防火災。	#
+researcher.1.text.2=您的第一項任務就是利用編碼開啟這道門。	#
+researcher.1.text.3=離開聊天視窗開始編碼。	#
+
+engineer.1.name=工程師	### NPC name, referring to their title
+engineer.1.text.1=這是 Agent。您可以像對門編程一樣，替 Agent 編寫程式。	#
+engineer.1.text.2=編碼讓 Agent 往前移動 3 步，停在標記上。	#
+engineer.1.text.3=離開聊天視窗開始編碼。	#
+
+researcher.2.name=研究員	### NPC name, referring to their title
+researcher.2.text.1=編碼讓 Agent 往前方移動 4 格，並且分析前方的乾灌木叢。	#
+researcher.2.text.2=§r	#
+
+technician.1.name=技術人員	### NPC name, referring to their title
+technician.1.text.1=從左側的突起處往下看，您就會看到 [Agent 訓練迷宮]。望過突起處...別擔心，您不會摔下去的！	#
+technician.1.text.2=在下方的路徑按鈕，然後編碼移動 Agent 通過迷宮，抵達乾灌木叢並分析。	#
+
+head.of.research.1.name=研究負責人	#
+head.of.research.1.text.1=教導 Agent 如何預測火災風險，是我們防災的最佳工具。	#
+head.of.research.1.text.2=快進來，AI 專家將協助您訓練 Agent。	#
+
+technician.2.name=AI 專家	### NPC name, referring to their title
+technician.2.text.1=此電腦將協助教導 Agent 哪些植物有釀成火災的危險。	#
+technician.2.text.2=觀看螢幕上的影像。如果植物看起來又黃又乾，就有釀成火災的危險，請按下 [是] 按鈕。如果植物又綠又茂盛，便沒有釀成火災的危險，請按下 [否] 按鈕。	#
+technician.2.text.3=§r	#
+
+
+scientist.1.name=科學家	### NPC name, referring to their title
+scientist.1.text.1=為了能成功避免火災發生，Agent 必須移除區域中危險的植物。	#
+scientist.1.text.2=現在讓我測試訓練成果吧！編寫程序，讓 Agent 摧毀所有可能造成火災的植物。離開聊天視窗開始編碼。	#
+
+scientist.2.name=分析師	### NPC name, referring to their title
+scientist.2.text.1=透過影像，Agent 能夠偵測容易發生火災的地方。	#
+scientist.2.text.2=編寫程序，讓 Agent 從電腦螢幕上發現可能發生火災的地點時便警告小隊。	#
+scientist.2.text.3=離開聊天視窗開始編碼。	#
+
+pilot.1.name=消防隊長	### NPC name, referring to their title
+pilot.1.text.1=真不敢相信 Agent 學習預測火災發生的速度會如此之快！	#
+pilot.1.text.2=我們得迅速趕到有可能發生火災的地方！	#
+pilot.1.text.3=準備好出發的時候告訴我一聲，火災可能隨時都會發生！	#
+
+pilot.2.name=消防隊長	### NPC name, referring to their title
+pilot.2.text.1=我剛剛收到指揮中心的訊息。附近出現暴風雨，而且很有可能會打雷！我們必須在暴風雨抵達之前開始清理這個地區的乾灌木叢。	#
+pilot.2.text.2=讓 Agent 清除整排的乾燥灌木叢，排除火災風險。	#
+
+firefighter.1.name=消防隊		### NPC name, referring to their title
+firefighter.1.text.1=做得好！您和 Agent 在風暴來臨前排除了火災危機，並且拯救了村莊！	#
+firefighter.1.text.2=既然您在這裡，何不幫忙種植花朵、繁衍動物，恢復該區域的環境呢？	#
+
+resourcePack.education_demo_world_resources.name=M:EE 範例世界資源	#
+resourcePack.education_demo_world_resources.description=範例世界的 M:EE 用戶端資源。	#
+
+edu_demo.tip.1=雨林是我們星球上超過半數物種居住的地方。	#
+edu_demo.tip.2=全世界有超過 25% 的人口都仰賴雨林為生。	#
+edu_demo.tip.3=火焰需要三個要素：燃料、氧氣和熱源。	#
+edu_demo.tip.4=火焰，尤其是在泥炭地和茂密的森林中，會釋放出大量的碳。	#
+edu_demo.tip.5=電腦必須透過學習才能運作，與學生一樣！	#
+edu_demo.tip.6=我們會使用人工智慧來收集和分析森林資料，這比用手數樹的速度還要快！	#
+
+menu.quit.edu=結束課程	#
+menu.quit.edu.title=退出示範課程	#
+
+start_screen.start_demo=開始課程	#
+
+lesson.finished=我已經完成了	### please try to keep this as close to the colloquial form of "I am Finished" as possible. 
+
+lesson.end.dialog.title=課程完成！	#
+lesson.end.dialog.body.title=恭喜	#
+lesson.end.dialog.body.wimages=您已獲得完成證書。請查看此課程的照片並儲存副本。	#
+lesson.end.dialog.body.checkport=請查看此課程的照片並儲存副本。	#
+lesson.end.dialog.body.noimages=您已獲得完成證書。	#
+lesson.end.dialog.button.morecoding=更多編碼	#
+lesson.end.dialog.button.getcert=獲得證書	#
+lesson.end.dialog.button.exit=結束課程	#
+lesson.end.dialog.button.export=儲存	#
+
+lesson.end.access.imagespreview=課程照片 %1 (共 %2 張)	#
+lesson.end.access.export=匯出課程照片	#

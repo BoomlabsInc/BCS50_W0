@@ -1,0 +1,189 @@
+﻿pack.name=Sumber Daya Jam Kode	#
+pack.description=Memerlukan sumber daya untuk Jam Kode	#
+
+item.spawn_egg.entity.pws:npc_2.name=Munculkan NPC 2	#
+entity.pws:npc_2.name=NPC 2	#
+
+item.spawn_egg.entity.pws:npc_2_firefighter.name=Munculkan Pemadam Kebakaran NPC 2	#
+entity.pws:npc_2_firefighter.name=Pemadam Kebakaran NPC 2	#
+
+objective=§l§6- Misi Saat Ini -§r	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+try.again.title=§6Coba lagi§r	#
+try.again.subtitle=Coba jalankan misi kamu sekali lagi.	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+quest.end.title=§6Misi Selesai!§r	#
+npc.skip.name=§6Bot Pembantu§r	#
+
+no_button.title=§r	#
+no_button.subtitle=Cobalah misinya terlebih dahulu.	#
+
+take.picture=Ambil gambar	#
+
+press_c=§eTekan "C" untuk menulis kode atau sentuh ikon Agent.§r	#
+
+quest.1.end.subtitle=Selamat! Kamu berhasil!	###subtitles appear on the screen as a success message after the quest has been completed
+quest.2.end.subtitle=Selamat! Kamu berhasil!	#
+quest.3.end.subtitle=Selamat! Kamu berhasil!	#
+quest.4.end.subtitle=Selamat! Kamu berhasil!	#
+quest.5.end.subtitle=Selamat! Kamu berhasil!	#
+quest.6.end.subtitle=Selamat! Kamu berhasil!	#
+quest.7.end.subtitle=Selamat! Kamu berhasil!	#
+quest.8.0.end.subtitle=Selamat! Kamu berhasil!	#
+quest.8.end.subtitle=Selamat! Kamu berhasil!	#
+quest.9.end.subtitle=Selamat! Kamu berhasil!	#
+quest.10.end.subtitle=Selamat! Kamu berhasil!	#
+quest.11.end.subtitle=Selamat! Kamu berhasil!	#
+quest.12.end.subtitle=Selamat! Kamu berhasil!	#
+
+
+900020=§fBicara dengan Peneliti.	###This section includes the titles of quests, which will remain onscreen until the player completes the quest. 
+900030=§fBicara dengan Insinyur.	#
+900040=§fBicara dengan Peneliti.	#
+900050=§fTemukan dan bicara dengan Teknisi di puncak menara.	#
+900060=§fTuruni tangga dan temukan Kepala Peneliti.	#
+900070=§fBicara dengan Spesialis AI.	#
+900071=§fBicara dengan Spesialis AI.	#
+900072=§fBicara dengan Spesialis AI.	#
+900073=§fBicara dengan Spesialis AI.	#
+900080=§fBicara dengan Ilmuwan.	#
+900090=§fBicara dengan Analis.	#
+900100=§fTemukan helikopter dan bicara dengan Kapten Pemadam Kebakaran.	#
+900110=§fBicara dengan Kapten Pemadam Kebakaran.	#
+900120=§fKebakaran! Awas!	#
+900130=§fBicara dengan Pemadam Kebakaran.	#
+
+welcome.board.title.1=PUSAT	#
+welcome.board.title.2=PENELITIAN	#
+welcome.board.title.3=KEBAKARAN	#
+
+quest.5.easy=Jalur Pendek	### button name, student selects either the short or long version of a maze path to solve
+quest.5.hard=Jalur Panjang	#
+
+quest.7.yes=Ya	#
+quest.7.no=Tidak	#
+quest.7.hazard=Bahaya Kebakaran	#
+
+quest.10.yes=Ayo!	#
+
+quest.13.done=Saya selesai!	#
+
+ladder.up.1=§r	#
+ladder.up.2=Tekan "w" untuk	#
+ladder.up.3=naik tangga.	#
+ladder.up.4=§r	#
+edge.1=Berjalanlah ke	#
+edge.2=tepian.	#
+edge.3=Jangan khawatir,	#
+edge.4=kamu tidak akan jatuh!	#
+ladder.down.1=Pusat Penelitian	#
+ladder.down.2=Kebakaran	#
+ladder.down.3=|	#
+ladder.down.4=V	#
+to.center.1=Pusat Penelitian	#
+to.center.2=Kebakaran	#
+to.center.3=Lewat sini	#
+to.center.4=----->	#
+center.1=§r	#
+center.2=Pusat Penelitian	#
+center.3=Kebakaran	#
+center.4=§r	#
+to.helipad.1=Landasan Helikopter	#
+to.helipad.2=Lewat sini	#
+to.helipad.3=<-----	#
+to.helipad.4=§r	#
+
+bot.button.skip=Lewati Misi	#
+bot.button.reset=Atur Ulang Misi	#
+
+skip.title=§9Misi Dilewati	#
+skip.subtitle=Bot Pembantu melewati misi!	#
+
+complete.lesson.title=§9Perjalanan Selesai!	#
+
+bot.name=Bot Pembantu	### This is the name of an NPC robot that provides the player with help in completing coding quests. "Bot" refers to the shortened form of "Robot".
+bot.1.text.1=Saya Bot Pembantu! Jika kamu tidak bisa melanjutkan perjalanan, saya siap membantu! Saya bisa mengatur ulang misi atau melewatinya.	#
+bot.1.text.2=Saya hanya bisa membantu jika kamu sudah mencoba misi, jadi pastikan kamu mencobanya terlebih dahulu!	#
+
+bot.2.text.1=Halo, ini saya lagi! Ada yang bisa saya bantu? Saya bisa mengatur ulang misi atau melewati seutuhnya.	#
+bot.2.text.2=Ingat, saya hanya bisa membantu jika kamu sudah mencoba misi, jadi pastikan kamu mencobanya terlebih dahulu!	#
+
+researcher.1.name=Klik-Kanan aku!	### NPC name, referring to their title
+researcher.1.text.1=Selamat datang di Pusat Penelitian! Di sini, kamu akan mempelajari cara kami menggunakan AI dan penulisan kode untuk mencegah kebakaran.	#
+researcher.1.text.2=Tugasmu yang pertama adalah menulis kode untuk membuka gerbang ini.	#
+researcher.1.text.3=Tutup jendela obrolan ini untuk mulai menulis kode.	#
+
+engineer.1.name=Insinyur	### NPC name, referring to their title
+engineer.1.text.1=Ini adalah Agent. Kamu bisa memprogram Agent seperti halnya gerbang.	#
+engineer.1.text.2=Tulis kode agar Agent maju 3 langkah untuk berhenti di penanda.	#
+engineer.1.text.3=Tutup jendela obrolan ini untuk mulai menulis kode.	#
+
+researcher.2.name=Peneliti	### NPC name, referring to their title
+researcher.2.text.1=Tulis kode untuk membuat Agent maju 4 ruang, kemudian analisis semak kering di depan.	#
+researcher.2.text.2=§r	#
+
+technician.1.name=Teknisi	### NPC name, referring to their title
+technician.1.text.1=Lihatlah dari tepian di sebelah kiri dan kamu akan melihat Labirin Pelatihan Agent. Intiplah dari pinggir... jangan khawatir, kamu tidak akan jatuh!	#
+technician.1.text.2=Pilih tombol jalur di bawah. Gunakan kode untuk menggerakkan Agent di dalam labirin untuk menuju semak kering dan menganalisisnya.	#
+
+head.of.research.1.name=Kepala Penelitian	#
+head.of.research.1.text.1=Mengajari Agent untuk memprediksi bahaya kebakaran adalah alat pencegahan terbaik.	#
+head.of.research.1.text.2=Masuklah dan spesialis AI akan membantumu melatih Agent.	#
+
+technician.2.name=Spesialis AI	### NPC name, referring to their title
+technician.2.text.1=Komputer ini akan membantu mengajari Agent tentang tanaman yang menimbulkan bahaya kebakaran.	#
+technician.2.text.2=Lihat gambar di monitor. Jika tanaman terlihat kuning dan kering, itu adalah bahaya kebakaran, jadi tekan tombol YA. Jika tanaman terlihat hijau dan sehat, itu BUKAN bahaya kebakaran, jadi tekan tombol TIDAK.	#
+technician.2.text.3=§r	#
+
+
+scientist.1.name=Ilmuwan	### NPC name, referring to their title
+scientist.1.text.1=Agar berhasil mencegah kebakaran, Agent harus menyingkirkan tanaman berbahaya dari area.	#
+scientist.1.text.2=Sekarang, mari kita uji hasil pelatihan kita! Tulis kode untuk membuat Agent menghancurkan semua tanaman yang berisiko menyebabkan bahaya kebakaran. Tutup jendela obrolan untuk mulai menulis kode.	#
+
+scientist.2.name=Analis	### NPC name, referring to their title
+scientist.2.text.1=Dengan menggunakan gambar, kini Agent bisa mendeteksi lokasi yang berpotensi menjadi awal terjadinya kebakaran.	#
+scientist.2.text.2=Tulis kode untuk membuat Agent memberi tahu tim ketika lokasi potensi bahaya kebakaran ditemukan di monitor komputer.	#
+scientist.2.text.3=Tutup jendela obrolan ini untuk mulai menulis kode.	#
+
+pilot.1.name=Kapten Pemadam Kebakaran	### NPC name, referring to their title
+pilot.1.text.1=Saya tidak percaya betapa cepatnya Agent mempelajari cara memprediksi kebakaran!	#
+pilot.1.text.2=Kita harus segera pergi ke lokasi yang berisiko terbakar ini!	#
+pilot.1.text.3=Beri tahu saya kalau kamu sudah siap berangkat, kebakaran bisa terjadi sewaktu-waktu!	#
+
+pilot.2.name=Kapten Pemadam Kebakaran	### NPC name, referring to their title
+pilot.2.text.1=Saya baru dapat pesan dari Pusat Perintah. Ada badai yang akan datang dengan kemungkinan tinggi disertai petir! Kita harus mulai menyingkirkan semak kering dari area ini sebelum badai datang.	#
+pilot.2.text.2=Suruh Agent menyingkirkan deretan semak kering itu untuk menghilangkan bahaya kebakaran.	#
+
+firefighter.1.name=Pemadam Kebakaran 		### NPC name, referring to their title
+firefighter.1.text.1=Bagus! Kamu dan Agent-mu berhasil mengamankan bahaya kebakaran sebelum badai datang dan menyelamatkan desa!	#
+firefighter.1.text.2=Mumpung kamu di sini, bagaimana kalau kamu membantu memulihkan area dengan menanam bunga dan memunculkan hewan?	#
+
+resourcePack.education_demo_world_resources.name=Sumber Daya Dunia Demo M:EE	#
+resourcePack.education_demo_world_resources.description=Sumber daya Klien M:EE untuk dunia demo M:EE.	#
+
+edu_demo.tip.1=Hutan hujan menaungi lebih dari setengah spesies hewan darat di planet kita.	#
+edu_demo.tip.2=Lebih dari 25% populasi dunia bergantung pada hutan untuk kelangsungan hidupnya.	#
+edu_demo.tip.3=Ada tiga hal yang diperlukan agar api tetap menyala: bahan bakar, oksigen, dan sumber panas.	#
+edu_demo.tip.4=Api, terutama di lahan gambut dan hutan yang lebat, menghasilkan emisi karbon yang sangat tinggi.	#
+edu_demo.tip.5=Komputer harus diajari agar bisa belajar, mirip dengan siswa!	#
+edu_demo.tip.6=AI digunakan untuk mengumpulkan dan menganalisis data hutan, yang lebih cepat daripada menghitung pohon dengan jari!	#
+
+menu.quit.edu=TUTUP PELAJARAN	#
+menu.quit.edu.title=Keluar dari Pelajaran Demo	#
+
+start_screen.start_demo=Mulai Pelajaran	#
+
+lesson.finished=SAYA SUDAH SELESAI	### please try to keep this as close to the colloquial form of "I am Finished" as possible. 
+
+lesson.end.dialog.title=Pelajaran Selesai!	#
+lesson.end.dialog.body.title=SELAMAT	#
+lesson.end.dialog.body.wimages=Kamu mendapatkan sertifikat penyelesaian. Lihat foto-foto dari pelajaran ini dan simpanlah salinannya.	#
+lesson.end.dialog.body.checkport=Lihat foto-foto dari pelajaran ini dan simpanlah salinannya.	#
+lesson.end.dialog.body.noimages=Kamu mendapatkan sertifikat penyelesaian.	#
+lesson.end.dialog.button.morecoding=Koding Lebih Lanjut	#
+lesson.end.dialog.button.getcert=Dapatkan Sertifikat	#
+lesson.end.dialog.button.exit=Tutup Pelajaran	#
+lesson.end.dialog.button.export=Simpan	#
+
+lesson.end.access.imagespreview=Foto pelajaran %1 dari %2	#
+lesson.end.access.export=Ekspor foto pelajaran	#

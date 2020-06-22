@@ -1,0 +1,189 @@
+﻿pack.name=Ресурси за „Час на кодирането“	#
+pack.description=Ресурси, нужни за „Час на кодирането“	#
+
+item.spawn_egg.entity.pws:npc_2.name=Извикване на NPC 2	#
+entity.pws:npc_2.name=NPC 2	#
+
+item.spawn_egg.entity.pws:npc_2_firefighter.name=Извикване на NPC 2 – пожарникар	#
+entity.pws:npc_2_firefighter.name=NPC 2 – пожарникар	#
+
+objective=§l§6- Текущо предизвикателство -§r	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+try.again.title=§6Опитайте отново§r	#
+try.again.subtitle=Опитайте предизвикателството отново.	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+quest.end.title=§6Предизвикателството е завършено!§r	#
+npc.skip.name=§6Робот помощник§r	#
+
+no_button.title=§r	#
+no_button.subtitle=Първо опитайте предизвикателството.	#
+
+take.picture=Направете снимка	#
+
+press_c=§eНатиснете C за писане на код или докоснете иконата на Agent.§r	#
+
+quest.1.end.subtitle=Поздравления! Браво!	###subtitles appear on the screen as a success message after the quest has been completed
+quest.2.end.subtitle=Поздравления! Браво!	#
+quest.3.end.subtitle=Поздравления! Браво!	#
+quest.4.end.subtitle=Поздравления! Браво!	#
+quest.5.end.subtitle=Поздравления! Браво!	#
+quest.6.end.subtitle=Поздравления! Браво!	#
+quest.7.end.subtitle=Поздравления! Браво!	#
+quest.8.0.end.subtitle=Поздравления! Браво!	#
+quest.8.end.subtitle=Поздравления! Браво!	#
+quest.9.end.subtitle=Поздравления! Браво!	#
+quest.10.end.subtitle=Поздравления! Браво!	#
+quest.11.end.subtitle=Поздравления! Браво!	#
+quest.12.end.subtitle=Поздравления! Браво!	#
+
+
+900020=§fГоворете с изследователя.	###This section includes the titles of quests, which will remain onscreen until the player completes the quest. 
+900030=§fГоворете с инженера.	#
+900040=§fГоворете с изследователя.	#
+900050=§fНамерете техника на върха на кулата и говорете с него.	#
+900060=§fСлезте по стълбата и намерете ръководителя на изследването.	#
+900070=§fГоворете със специалиста по изкуствен интелект.	#
+900071=§fГоворете със специалиста по изкуствен интелект.	#
+900072=§fГоворете със специалиста по изкуствен интелект.	#
+900073=§fГоворете със специалиста по изкуствен интелект.	#
+900080=§fГоворете с учения.	#
+900090=§fГоворете с анализатора.	#
+900100=§fНамерете хеликоптера и говорете с капитана на пожарникарите.	#
+900110=§fГоворете с капитана на пожарникарите.	#
+900120=§fПожар! Внимавайте!	#
+900130=§fГоворете с пожарникаря.	#
+
+welcome.board.title.1=ЦЕНТЪР ЗА	#
+welcome.board.title.2=ИЗСЛЕДВАНЕ НА	#
+welcome.board.title.3=ПОЖАРИ	#
+
+quest.5.easy=Кратък път	### button name, student selects either the short or long version of a maze path to solve
+quest.5.hard=Дълъг път	#
+
+quest.7.yes=Да	#
+quest.7.no=Не	#
+quest.7.hazard=Опасност от пожар	#
+
+quest.10.yes=Да започваме!	#
+
+quest.13.done=Готово!	#
+
+ladder.up.1=§r	#
+ladder.up.2=Натиснете w, за да	#
+ladder.up.3=се изкачите по стълба.	#
+ladder.up.4=§r	#
+edge.1=Отидете до	#
+edge.2=ръба.	#
+edge.3=Не се притеснявайте,	#
+edge.4=няма да паднете!	#
+ladder.down.1=Център за изследване на	#
+ladder.down.2=пожари	#
+ladder.down.3=|	#
+ladder.down.4=V	#
+to.center.1=Център за изследване на	#
+to.center.2=пожари	#
+to.center.3=Натам	#
+to.center.4=----->	#
+center.1=§r	#
+center.2=Център за изследване на	#
+center.3=пожари	#
+center.4=§r	#
+to.helipad.1=Площадка за хеликоптери	#
+to.helipad.2=Натам	#
+to.helipad.3=<-----	#
+to.helipad.4=§r	#
+
+bot.button.skip=Пропускане на предизвикателство	#
+bot.button.reset=Рестартиране на предизвикателство	#
+
+skip.title=§9Предизвикателството е пропуснато	#
+skip.subtitle=Роботът помощник пропусна предизвикателството!	#
+
+complete.lesson.title=§9Пътешествието е завършено!	#
+
+bot.name=Робот помощник	### This is the name of an NPC robot that provides the player with help in completing coding quests. "Bot" refers to the shortened form of "Robot".
+bot.1.text.1=Аз съм роботът помощник! Ако не знаете какво да направите в даден момент на пътешествието си, аз ще се радвам да ви помогна! Мога да рестартирам или пропусна вашето предизвикателство.	#
+bot.1.text.2=Мога да помогна само след като сте опитали предизвикателството сами, така че не забравяйте първо да го опитате!	#
+
+bot.2.text.1=Здравейте отново! Как мога да ви бъда полезен? Мога или да рестартирам предизвикателството, или да го пропусна изцяло.	#
+bot.2.text.2=Запомнете – мога да помогна само след като сте опитали предизвикателството сами, така че не забравяйте първо да го опитате!	#
+
+researcher.1.name=Щракнете върху мен с десния бутон!	### NPC name, referring to their title
+researcher.1.text.1=Добре дошли в изследователския център! Тук ще научите как използваме изкуствен интелект и кодиране за предотвратяване на пожари.	#
+researcher.1.text.2=Първата ви задача е да използвате кодиране, за да отворите тази порта.	#
+researcher.1.text.3=Излезте от този прозорец за чат, за да започнете да кодирате.	#
+
+engineer.1.name=Инженер	### NPC name, referring to their title
+engineer.1.text.1=Това е Agent. Можете да програмирате Agent, както направихте с портата.	#
+engineer.1.text.2=Кодирайте Agent да се придвижи с 3 стъпки напред, за да спре върху маркера.	#
+engineer.1.text.3=Излезте от този прозорец за чат, за да започнете да кодирате.	#
+
+researcher.2.name=Изследовател	### NPC name, referring to their title
+researcher.2.text.1=Напишете код, чрез който Agent да се придвижи 4 разстояния напред и след това да анализира сухите шубраци напред.	#
+researcher.2.text.2=§r	#
+
+technician.1.name=Техник	### NPC name, referring to their title
+technician.1.text.1=Погледнете отвъд ръба вляво и ще видите лабиринта за обучение на Agent. Погледнете през ръба... не се притеснявайте, няма да паднете!	#
+technician.1.text.2=Изберете бутон за път по-долу. Използвайте код, за да придвижите Agent през лабиринта, да достигнете сухите шубраци и да ги анализирате.	#
+
+head.of.research.1.name=Ръководител на изследването	#
+head.of.research.1.text.1=Ученето на Agent да предвижда опасности от пожари е нашият най-добър инструмент за тяхното предотвратяване.	#
+head.of.research.1.text.2=Заповядайте и специалистът по изкуствен интелект ще ви помогне с тренировката на Agent.	#
+
+technician.2.name=Специалист по изкуствен интелект	### NPC name, referring to their title
+technician.2.text.1=Този компютър ще помогне да научите Agent кои са растенията, които представляват опасност от пожар.	#
+technician.2.text.2=Наблюдавайте изображенията на монитора. Ако растението изглежда жълто и сухо, то представлява опасност от пожар, така че натиснете бутона „ДА“. Ако растението изглежда зелено и здраво, то НЕ представлява опасност от пожар, така че натиснете бутона „НЕ“.	#
+technician.2.text.3=§r	#
+
+
+scientist.1.name=Учен	### NPC name, referring to their title
+scientist.1.text.1=За да предотврати пожари успешно, Agent ще трябва да премахне опасни растения от района.	#
+scientist.1.text.2=Нека изпитаме резултатите от тренировката! Напишете код, чрез който Agent да унищожи всички растения, които представляват опасност от пожар. Излезте от прозореца за чат, за да започнете да кодирате.	#
+
+scientist.2.name=Анализатор	### NPC name, referring to their title
+scientist.2.text.1=Чрез изображения сега Agent може да открие къде има вероятност да избухне пожар.	#
+scientist.2.text.2=Напишете код, чрез който Agent да уведоми екипа, ако на компютърния монитор е открито място с потенциална опасност от пожар.	#
+scientist.2.text.3=Излезте от този прозорец за чат, за да започнете да кодирате.	#
+
+pilot.1.name=Капитан на пожарникарите	### NPC name, referring to their title
+pilot.1.text.1=Не мога да повярвам колко бързо Agent се научи да предвижда пожари!	#
+pilot.1.text.2=Трябва да побързаме към това място с опасност от пожар!	#
+pilot.1.text.3=Кажете ми, когато сте готови, пожарът може да започне всеки момент!	#
+
+pilot.2.name=Капитан на пожарникарите	### NPC name, referring to their title
+pilot.2.text.1=Току-що получих съобщение от командния център. Наближава буря с голям риск от гръмотевици! Ще трябва да изчистим този район от сухи шубраци, преди да е стигнала дотук.	#
+pilot.2.text.2=Накарайте Agent да изчисти тази линия от сухи шубраци и да премахне опасност от пожар.	#
+
+firefighter.1.name=Пожарникар 		### NPC name, referring to their title
+firefighter.1.text.1=Браво! Вие и вашият Agent успяхте да елиминирате опасността от пожар, преди да пристигне бурята, и спасихте селото!	#
+firefighter.1.text.2=Докато сте тук, защо не помогнете с възстановяването на района, като засадите цветя и извикате животни?	#
+
+resourcePack.education_demo_world_resources.name=Ресурси за демонстрационен свят на M:EE	#
+resourcePack.education_demo_world_resources.description=Ресурси за клиент на M:EE за демонстрационния свят на M:EE.	#
+
+edu_demo.tip.1=Тропическите гори са дом на повече от половината сухоземни животински видове на нашата планета.	#
+edu_demo.tip.2=Повече от 25% от световната популация зависи от горите и тяхното оцеляване.	#
+edu_demo.tip.3=Три неща са необходими за поддържането на горящ огън: гориво, кислород и източник на топлина.	#
+edu_demo.tip.4=Огънят, особено в торфища и гъсти гори, изпуска огромни въглеродни емисии.	#
+edu_demo.tip.5=Компютрите трябва да бъдат научени да се учат - сякаш са ученици!	#
+edu_demo.tip.6=Използван е изкуствен интелект за анализа на горските данни, което е по-бързо от броенето на дървета на ръка!	#
+
+menu.quit.edu=ИЗХОД ОТ УРОК	#
+menu.quit.edu.title=Излизане от пробен урок	#
+
+start_screen.start_demo=Започване на урок	#
+
+lesson.finished=ГОТОВО	### please try to keep this as close to the colloquial form of "I am Finished" as possible. 
+
+lesson.end.dialog.title=Урокът е завършен!	#
+lesson.end.dialog.body.title=ПОЗДРАВЛЕНИЯ	#
+lesson.end.dialog.body.wimages=Спечелихте сертификат за завършване. Вижте снимките от този урок и запишете копие.	#
+lesson.end.dialog.body.checkport=Вижте снимките от този урок и запишете копие.	#
+lesson.end.dialog.body.noimages=Спечелихте сертификат за завършване.	#
+lesson.end.dialog.button.morecoding=Още писане на код	#
+lesson.end.dialog.button.getcert=Получаване на сертификат	#
+lesson.end.dialog.button.exit=Изход от урока	#
+lesson.end.dialog.button.export=Записване	#
+
+lesson.end.access.imagespreview=Снимка на урока %1 от %2	#
+lesson.end.access.export=Експортиране на снимки на урок	#

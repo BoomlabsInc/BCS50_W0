@@ -1,0 +1,114 @@
+{
+	"resource_pack_name": "vanilla",
+	"texture_name": "atlas.terrain",
+	"padding": 8,
+	"num_mip_levels": 4,
+	"texture_data": {
+
+		"grass_side": {
+			"textures": [
+				{
+					"path": "textures/blocks/grass_side"
+				},
+				{
+					"path": "textures/blocks/grass_side"
+				},
+				{
+					"path": "textures/blocks/grass_side"
+				},
+				{
+					"path": "textures/blocks/grass_side"
+				},
+				{
+					"path": "textures/blocks/grass_side"
+				},
+				{
+					"path": "textures/blocks/grass_side"
+				},
+				{
+					"path": "textures/blocks/grass_side"
+				},
+				{
+					"path": "textures/blocks/grass_side"
+				},
+				{
+					"path": "textures/blocks/grass_side"
+				},
+				{
+					"path": "textures/blocks/grass_side"
+				},
+				{
+					"path": "textures/blocks/grass_side"
+				},
+				{
+					"path": "textures/blocks/grass_side"
+				},
+				{
+					"path": "textures/blocks/grass_side"
+				},
+				{
+					"path": "textures/blocks/grass_side"
+				},
+				{
+					"path": "textures/blocks/grass_side"
+				},
+				{
+					"path": "textures/blocks/grass_side"
+				},
+				"textures/blocks/grass_side_snowed"
+			]
+		},
+
+		"computer_top": {
+			"textures": "textures/blocks/computer_top"
+		},
+		"computer_front": {
+			"textures": "textures/blocks/computer_front"
+		},
+		"computer_front_fire": {
+			"textures": "textures/blocks/computer_front_fire"
+		},
+		"computer_front_letters": {
+			"textures": "textures/blocks/computer_front_letters"
+		},
+		"computer_left": {
+			"textures": "textures/blocks/computer_left"
+		},
+		"computer_right": {
+			"textures": "textures/blocks/computer_right"
+		},
+		"computer_learn_check": {
+			"textures": "textures/blocks/computer_learn_check"
+		},
+		"computer_learn_fern_tall": {
+			"textures": "textures/blocks/computer_learn_fern_tall"
+		},
+		"computer_learn_grass": {
+			"textures": "textures/blocks/computer_learn_grass"
+		},
+		"computer_learn_grass_tall": {
+			"textures": "textures/blocks/computer_learn_grass_tall"
+		},
+		"computer_learn_sapling_birch": {
+			"textures": "textures/blocks/computer_learn_sapling_birch"
+		},
+		"computer_learn_sapling_jungle": {
+			"textures": "textures/blocks/computer_learn_sapling_jungle"
+		},
+		"computer_learn_x": {
+			"textures": "textures/blocks/computer_learn_x"
+		},
+		"computer_terrain_ocean_3": {
+			"textures": "textures/blocks/computer_terrain_ocean_3"
+		},
+		"computer_terrain_river_1": {
+			"textures": "textures/blocks/computer_terrain_river_1"
+		},
+		"computer_terrain_river_4": {
+			"textures": "textures/blocks/computer_terrain_river_4"
+		},
+		"computer_terrain_savanna_2": {
+			"textures": "textures/blocks/computer_terrain_savanna_2"
+		}
+	}
+}

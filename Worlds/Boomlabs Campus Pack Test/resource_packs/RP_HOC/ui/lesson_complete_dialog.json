@@ -1,0 +1,450 @@
+/********************************************************
+*  (c) Mojang.    All rights reserved.                  *
+*  (c) Microsoft. All rights reserved.                  *
+*********************************************************/
+{
+  "namespace": "lesson_complete",
+
+  //---------------------------------------------------------------------------
+  // Padding panels
+  //---------------------------------------------------------------------------
+
+  "padding_vertical": {
+    "type": "panel",
+    "size": [ "100%sm", 2 ]
+  },
+
+  "spacer": {
+    "type": "image",
+    "texture": "textures/ui/whiteline",
+    "color": [ 0.7, 0.7, 0.7 ],
+    "tiled": true
+  },
+
+  //---------------------------------------------------------------------------
+  // Button panels content
+  //---------------------------------------------------------------------------
+
+  "hyperlink_button@common_buttons.hyperlink_button": {
+    "$pressed_button_name": "button.hyperlink_button",
+    "$button_text": "$button_label",
+    "property_bag": {
+      "#hyperlink": "$button_url"
+    }
+  },
+
+  //---------------------------------------------------------------------------
+  // Text Panels
+  //---------------------------------------------------------------------------
+
+  "body_text_panel": {
+    "type": "stack_panel",
+    "orientation": "vertical",
+    "offset": [ 2, 1 ],
+    "size": [ "100%", "100%" ],
+    "controls": [
+      {
+        "body_title": {
+          "type": "label",
+          "size": [ "100%", 13 ],
+          "text": "lesson.end.dialog.body.title",
+          "color": "$main_header_text_color",
+          "font_scale_factor": 1.3
+        }
+      },
+      {
+        "padding_01@lesson_complete.padding_vertical": {}
+      },
+      {
+        "body_copy": {
+          "type": "label",
+          "size": [ "100%", "fill" ],
+          "text": "#lesson_complete_description",
+          "color": "$body_text_color",
+          "font_type": "smooth",
+          "bindings": [
+            {
+              "binding_name": "#lesson_complete_description"
+            }
+          ]
+        }
+      }
+    ]
+  },
+
+  "body_text_tts_panel@common.tts_label_focus_wrapper": {
+    "size": [ "55%", "100%sm" ],
+    "$tts_label_panel": "lesson_complete.body_text_panel"
+  },
+
+  //---------------------------------------------------------------------------
+  // Image Panels
+  //---------------------------------------------------------------------------
+
+  "screenshot": {
+    "type": "image",
+    "force_texture_reload": true,
+    "layer": 1,
+
+    "bindings": [
+      {
+        "binding_name": "#screenshot_path",
+        "binding_name_override": "#texture"
+      },
+      {
+        "binding_name": "#template_texture_source",
+        "binding_name_override": "#texture_file_system"
+      }
+    ]
+  },
+
+  "screenshot_frame": {
+    "type": "image",
+    "texture": "textures/ui/screenshot_frame",
+    "layer": 1,
+    "anchor_from": "center",
+    "anchor_to": "center",
+    "controls": [
+      { "photo_corner_bl@lesson_complete.photo_corner_bl": { "layer": 4 } },
+      { "photo_corner_br@lesson_complete.photo_corner_br": { "layer": 4 } },
+      { "photo_corner_tl@lesson_complete.photo_corner_tl": { "layer": 4 } },
+      { "photo_corner_tr@lesson_complete.photo_corner_tr": { "layer": 4 } }
+    ],
+    "bindings": [
+      {
+        "binding_name": "#image_frame_visible",
+        "binding_name_override": "#visible"
+      }
+    ]
+  },
+
+  "photo_corner": {
+    "type": "image",
+    "size": [ 19, 19 ],
+    "layer": 1,
+    "anchor_from": "$photo_anchor",
+    "anchor_to": "$photo_anchor"
+  },
+
+  "photo_corner_bl@lesson_complete.photo_corner": {
+    "texture": "textures/ui/photo_corner_bl",
+    "offset": [ -1, 0.5 ],
+    "$photo_anchor": "bottom_left"
+  },
+
+  "photo_corner_br@lesson_complete.photo_corner": {
+    "texture": "textures/ui/photo_corner_br",
+    "offset": [ 1, 0.5 ],
+    "$photo_anchor": "bottom_right"
+  },
+
+  "photo_corner_tr@lesson_complete.photo_corner": {
+    "texture": "textures/ui/photo_corner_tr",
+    "offset": [ 1, -0.5 ],
+    "$photo_anchor": "top_right"
+  },
+
+  "photo_corner_tl@lesson_complete.photo_corner": {
+    "texture": "textures/ui/photo_corner_tl",
+    "offset": [ -1, -0.5 ],
+    "$photo_anchor": "top_left"
+  },
+
+  "nav_image@common.chevron_image": {
+    "texture": "$nav_texture",
+    "offset": [ 0, -1 ],
+    "color": "$text_color"
+  },
+
+  "left_nav_image@lesson_complete.nav_image": {
+    "$nav_texture": "textures/ui/chevron_left",
+    "offset": [ -0.5, -0.5 ]
+  },
+
+  "right_nav_image@lesson_complete.nav_image": {
+    "$nav_texture": "textures/ui/chevron_right",
+    "offset": [ 0.5, -0.5 ]
+  },
+
+  "nav_button@common_buttons.light_content_button": {
+    "size": [ 23, 21 ],
+    "focus_change_up": "button.menu_exit",
+    "bindings": [
+      {
+        "binding_name": "$nav_enabled_binding_name",
+        "binding_name_override": "#enabled"
+      }
+    ]
+  },
+
+  "export_image_panel": {
+    "type": "panel",
+    "controls": [
+      { "export_image@lesson_complete.export_image": {} }
+    ]
+  },
+
+  "export_image": {
+    "type": "image",
+    "size": [ "100%y", "75%" ],
+    "texture": "textures/ui/download_backup"
+  },
+
+  "image_button_panel": {
+    "type": "stack_panel",
+    "size": [ "100%sm", 21 ],
+    "orientation": "horizontal",
+    "controls": [
+      {
+        "left_nav_button@lesson_complete.nav_button": {
+          "$button_content": "lesson_complete.left_nav_image",
+          "$pressed_button_name": "button.image_prev",
+          "$button_tts_header": "accessibility.tts.tabNavLeft",
+          "$nav_enabled_binding_name": "#image_prev_enabled"
+        }
+      },
+      {
+        "export_button@common_buttons.light_content_button": {
+          "size": [ "fill", 21 ],
+          "$button_content": "lesson_complete.export_image",
+          "$pressed_button_name": "button.portfolio_export",
+          "$button_tts_header": "book.export",
+          "bindings": [
+            {
+              "binding_name": "#image_export_enabled",
+              "binding_name_override": "#enabled"
+            }
+          ]
+        }
+      },
+      {
+        "right_nav_button@lesson_complete.nav_button": {
+          "$button_content": "lesson_complete.right_nav_image",
+          "$pressed_button_name": "button.image_next",
+          "$button_tts_header": "accessibility.tts.tabNavRight",
+          "$nav_enabled_binding_name": "#image_next_enabled"
+        }
+      }
+    ]
+  },
+
+  "image_display_panel": {
+    "type": "stack_panel",
+    "size": [ "100%cm", "100%c" ],
+    "controls": [
+      {
+        "image_display": {
+          "type": "panel",
+          "offset": [ 0, 2],
+          "size": [ "100%cm + 2px", "100%cm + 0.5px" ],
+          "controls": [
+            {
+              "photo_item": {
+                "type": "panel",
+                "anchor_from": "top_left",
+                "anchor_to": "top_left",
+                "offset": [ 1, 0 ],
+                "layer": 1,
+                "size": [ 108, 108 ],
+                "controls": [
+                  {
+                    "screenshot@lesson_complete.screenshot": {}
+                  },
+                  {
+                    "screenshot_frame@lesson_complete.screenshot_frame": {
+                      "layer": 2
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "image_button_panel@lesson_complete.image_button_panel": {}
+      }
+    ]
+  },
+
+  //---------------------------------------------------------------------------
+  // Footer panel
+  //---------------------------------------------------------------------------
+
+  "footer_panel": {
+    "type": "stack_panel",
+    "size": [ "100%", "100%c" ],
+    "orientation": "vertical",
+    "controls": [
+      {
+        "top_row": {
+          "type": "stack_panel",
+          "size": [ "100%", "100%cm" ],
+          "orientation": "horizontal",
+          "controls": [
+            {
+              "more_coding_button@common_buttons.light_text_button": {
+                "size": [ "fill", 16 ],
+                "$pressed_button_name": "button.more_coding",
+                "$button_text": "lesson.end.dialog.button.morecoding"
+              }
+            },
+            {
+              "padding_horz": {
+                "type": "panel",
+                "size": [ 2, "100%sm" ]
+              }
+            },
+            {
+              "get_certificate_button@common_buttons.light_text_button": {
+                "size": [ "fill", 16 ],
+                "$pressed_button_name": "button.get_certificate",
+                "$button_text": "lesson.end.dialog.button.getcert"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "footer_padding@lesson_complete.padding_vertical": {}
+      },
+      {
+        "finished_button@common_buttons.light_text_button": {
+          "size": [ "100%", 16 ],
+          "$pressed_button_name": "button.menu_quit",
+          "$button_text": "lesson.end.dialog.button.exit"
+        }
+      }
+    ]
+  },
+
+  //---------------------------------------------------------------------------
+  // Content layout panels
+  //---------------------------------------------------------------------------
+
+  "internal_content_panel": {
+    "type": "stack_panel",
+    "size": [ "100% - 8px", "100% - 8px" ],
+    "orientation": "vertical",
+    "controls": [
+      {
+        "image_and_text_panel": {
+          "type": "stack_panel",
+          "size": [ "100%", "fill" ],
+          "orientation": "horizontal",
+          "controls": [
+            { "image_display_panel@lesson_complete.image_display_panel": {} },
+            {
+              "padding_vert": {
+                "type": "panel",
+                "size": [ 10, "100%sm" ]
+              }
+            },
+            { "body_text_panel@lesson_complete.body_text_tts_panel": {} }
+          ]
+        }
+      },
+      { "spacer@edu_common.horizontal_divider": {} },
+      { "footer_panel@lesson_complete.footer_panel": {} }
+    ]
+  },
+
+  //---------------------------------------------------------------------------
+  // Dialog layout panels
+  //---------------------------------------------------------------------------
+
+  "dialog_background@common.dialog_background_hollow_3": {
+    "size": [ "100%", "100%" ],
+    "layer": -2,
+    "$fill_alpha": 0.8
+  },
+
+  "lesson_completed_dialog_content": {
+    "type": "panel",
+    "layer": 6,
+    "controls": [
+      {
+        "background@lesson_complete.dialog_background": {}
+      },
+      {
+        "title": {
+          "type": "label",
+          "text": "lesson.end.dialog.title",
+          "anchor_from": "top_middle",
+          "anchor_to": "top_middle",
+          "offset": [ 0, 7 ],
+          "color": "$light_button_default_text_color"
+        }
+      },
+      {
+        "close@common.close_button": {
+          "$close_button_offset": [ -1, 1 ]
+        }
+      },
+      {
+        "hollow_content_panel": {
+          "type": "panel",
+          "size": [ "100% - 16px", "100% - 30px" ],
+          "offset": [ 0, 24 ],
+          "anchor_to": "top_middle",
+          "anchor_from": "top_middle",
+          "controls": [
+            { "hollow_content@lesson_complete.internal_content_panel": {} }
+          ]
+        }
+      }
+    ]
+  },
+
+  //---------------------------------------------------------------------------
+  // Screen
+  //---------------------------------------------------------------------------
+
+  "lesson_complete_screen@common.base_screen": {
+    "button_mappings": [
+      {
+        "from_button_id": "button.menu_cancel",
+        "to_button_id": "button.menu_exit",
+        "mapping_type": "global"
+      },
+      {
+        "from_button_id": "button.menu_tab_left",
+        "to_button_id": "button.menu_tab_left",
+        "mapping_type": "global",
+        "scope": "view"
+      },
+      {
+        "from_button_id": "button.menu_tab_right",
+        "to_button_id": "button.menu_tab_right",
+        "mapping_type": "global",
+        "scope": "view"
+      }
+    ],
+    "force_render_below": false,
+    "$screen_content": "lesson_complete.lesson_complete_screen_layout"
+  },
+
+  "lesson_complete_screen_layout": {
+    "type": "panel",
+    "controls": [
+      {
+        "lesson_complete_screen_content_panel": {
+          "type": "panel",
+          "size": [ 323, 214 ],
+          "layer": 2,
+          "controls": [
+            {
+              "lesson_complete_content@lesson_complete.lesson_completed_dialog_content": {}
+            }
+          ]
+        }
+      },
+      {
+        "background@common.screen_background": {
+          "alpha": 0.5,
+          "layer": 1
+        }
+      }
+    ]
+  }
+}

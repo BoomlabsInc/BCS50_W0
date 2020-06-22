@@ -1,0 +1,189 @@
+﻿pack.name=Матеріали для Години Коду	#
+pack.description=Матеріли, необхідні для Години Коду	#
+
+item.spawn_egg.entity.pws:npc_2.name=Призвати NPC	#
+entity.pws:npc_2.name=NPC 2	#
+
+item.spawn_egg.entity.pws:npc_2_firefighter.name=Призвати NPC 2 – пожежника	#
+entity.pws:npc_2_firefighter.name=NPC 2 – пожежник	#
+
+objective=§l§6- Поточне завдання -§r	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+try.again.title=§6Повторіть спробу§r	#
+try.again.subtitle=Спробуйте виконати завдання ще раз.	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+quest.end.title=§6Завдання виконано!§r	#
+npc.skip.name=§6Робот-помічник§r	#
+
+no_button.title=§r	#
+no_button.subtitle=Спочатку спробуйте пройти квест.	#
+
+take.picture=Сфотографувати	#
+
+press_c=§eДля програмування натисніть "C" або торкніться піктограми Agent.§r	#
+
+quest.1.end.subtitle=Вітаємо! Вийшло!	###subtitles appear on the screen as a success message after the quest has been completed
+quest.2.end.subtitle=Вітаємо! Вийшло!	#
+quest.3.end.subtitle=Вітаємо! Вийшло!	#
+quest.4.end.subtitle=Вітаємо! Вийшло!	#
+quest.5.end.subtitle=Вітаємо! Вийшло!	#
+quest.6.end.subtitle=Вітаємо! Вийшло!	#
+quest.7.end.subtitle=Вітаємо! Вийшло!	#
+quest.8.0.end.subtitle=Вітаємо! Вийшло!	#
+quest.8.end.subtitle=Вітаємо! Вийшло!	#
+quest.9.end.subtitle=Вітаємо! Вийшло!	#
+quest.10.end.subtitle=Вітаємо! Вийшло!	#
+quest.11.end.subtitle=Вітаємо! Вийшло!	#
+quest.12.end.subtitle=Вітаємо! Вийшло!	#
+
+
+900020=§fПоговоріть із дослідником.	###This section includes the titles of quests, which will remain onscreen until the player completes the quest. 
+900030=§fПоговоріть з інженером.	#
+900040=§fПоговоріть із дослідником.	#
+900050=§fЗнайдіть техніка на вежі та поговоріть із ним.	#
+900060=§fСпустіться драбиною та знайдіть керівника дослідження.	#
+900070=§fПоговоріть зі спеціалістом зі штучного інтелекту.	#
+900071=§fПоговоріть зі спеціалістом зі штучного інтелекту.	#
+900072=§fПоговоріть зі спеціалістом зі штучного інтелекту.	#
+900073=§fПоговоріть зі спеціалістом зі штучного інтелекту.	#
+900080=§fПоговоріть із вченим.	#
+900090=§fПоговоріть з аналітиком.	#
+900100=§fЗнайдіть гелікоптер і поговоріть із начальником пожежної служби.	#
+900110=§fПоговоріть із начальником пожежної служби.	#
+900120=§fВогонь! Стережіться!	#
+900130=§fПоговоріть із пожежником.	#
+
+welcome.board.title.1=ЦЕНТР	#
+welcome.board.title.2=ДОСЛІДЖЕННЯ	#
+welcome.board.title.3=ПОЖЕЖ	#
+
+quest.5.easy=Короткий шлях	### button name, student selects either the short or long version of a maze path to solve
+quest.5.hard=Довгий шлях	#
+
+quest.7.yes=Так	#
+quest.7.no=Ні	#
+quest.7.hazard=Джерело займання	#
+
+quest.10.yes=Поїхали!	#
+
+quest.13.done=Готово!	#
+
+ladder.up.1=§r	#
+ladder.up.2=Натисніть "w", щоб	#
+ladder.up.3=піднятися драбиною.	#
+ladder.up.4=§r	#
+edge.1=Підійдіть до	#
+edge.2=краю.	#
+edge.3=Не хвилюйтеся,	#
+edge.4=ви не впадете!	#
+ladder.down.1=Центр	#
+ladder.down.2=дослідження пожеж	#
+ladder.down.3=|	#
+ladder.down.4=V	#
+to.center.1=Центр	#
+to.center.2=дослідження пожеж	#
+to.center.3=Сюди	#
+to.center.4=----->	#
+center.1=§r	#
+center.2=Центр	#
+center.3=дослідження пожеж	#
+center.4=§r	#
+to.helipad.1=Вертолітний майданчик	#
+to.helipad.2=Сюди	#
+to.helipad.3=<-----	#
+to.helipad.4=§r	#
+
+bot.button.skip=Пропустити завдання	#
+bot.button.reset=Скинути завдання	#
+
+skip.title=§9Завдання пропущено	#
+skip.subtitle=Робот-помічник пропустив квест!	#
+
+complete.lesson.title=§9Подорож пройдено!	#
+
+bot.name=Робот-помічник	### This is the name of an NPC robot that provides the player with help in completing coding quests. "Bot" refers to the shortened form of "Robot".
+bot.1.text.1=Я робот-помічник! Якщо ви коли-небудь застрягнете в дорозі, я буду радий допомогти! Я можу або скинути квест на початок або пропустити його.	#
+bot.1.text.2=Утім, спочатку спробуйте пройти завдання самостійно, а якщо не вийде – я вам допоможу.	#
+
+bot.2.text.1=І знову привіт! Чим я можу допомогти? Я можу або скинути квест на початок або повністю його пропустити.	#
+bot.2.text.2=І все ж спробуйте пройти завдання самостійно, а якщо не вийде – я вам допоможу.	#
+
+researcher.1.name=Клацніть мене правою кнопкою!	### NPC name, referring to their title
+researcher.1.text.1=Ласкаво просимо до Дослідного центру! Тут ви навчитеся запобігати пожежам, використовуючи штучний інтелект і програмуючи.	#
+researcher.1.text.2=Ваше перше завдання: за допомогою програми відкрити ці ворота.	#
+researcher.1.text.3=Вийдіть із цього вікна чату, щоб почати програмувати.	#
+
+engineer.1.name=Інженер	### NPC name, referring to their title
+engineer.1.text.1=Це Agent. Ви можете програмувати Agent так само, як робили це з воротами.	#
+engineer.1.text.2=Запрограмуйте Agent перейти на 3 кроки вперед, щоб зупинитися на позначці.	#
+engineer.1.text.3=Вийдіть із цього вікна чату, щоб почати програмувати.	#
+
+researcher.2.name=Дослідник	### NPC name, referring to their title
+researcher.2.text.1=Дайте Agent команду переміститися на 4 кроки вперед, а потім проаналізувати сухий чагарник попереду.	#
+researcher.2.text.2=§r	#
+
+technician.1.name=Технік	### NPC name, referring to their title
+technician.1.text.1=Подивіться вниз за лівий край і ви побачите навчальний лабіринт Agent. Подивіться вниз за край… не хвилюйтеся, ви не можете впасти!	#
+technician.1.text.2=Виберіть шлях, натиснувши одну із кнопок нижче. За допомогою програми переміщайте Agent лабіринтом, щоб він дійшов до сухого чагарнику та проаналізував його.	#
+
+head.of.research.1.name=Голова дослідницького відділу	#
+head.of.research.1.text.1=Наш найкращий спосіб запобігання пожежам – навчання Agent прогнозувати загрози виникнення пожежі.	#
+head.of.research.1.text.2=Зайдіть усередину, і спеціаліст зі штучного інтелекту допоможе вам із навчанням Agent.	#
+
+technician.2.name=Спеціаліст зі штучного інтелекту	### NPC name, referring to their title
+technician.2.text.1=Цей комп’ютер допоможе навчити Agent, які рослини становлять загрозу виникнення пожежі.	#
+technician.2.text.2=Переглядайте зображення на моніторі. Якщо рослина на вигляд жовта й суха, то вона становить загрозу виникнення пожежі, тож натисніть кнопку "ТАК". Якщо рослина на вигляд зелена та здорова, то вона НЕ становить загрози виникнення пожежі, тож натисніть кнопку "НІ".	#
+technician.2.text.3=§r	#
+
+
+scientist.1.name=Учений	### NPC name, referring to their title
+scientist.1.text.1=Щоб запобігти пожежам, Agent має очистити територію від небезпечних рослин — потенційних джерел займання.	#
+scientist.1.text.2=А тепер перевіримо, чого ми навчилися! Запрограмуйте Agent на знищення всіх рослин, що становлять загрозу виникнення пожежі. Вийдіть із вікна чату, щоб почати програмувати.	#
+
+scientist.2.name=Аналітик	### NPC name, referring to their title
+scientist.2.text.1=Тепер Agent на основі зображень може виявляти ймовірні осередки виникнення пожежі.	#
+scientist.2.text.2=Запрограмуйте Agent на оповіщення команди в разі виявлення місця потенційної загрози виникнення пожежі на моніторі комп’ютера.	#
+scientist.2.text.3=Вийдіть із цього вікна чату, щоб почати програмувати.	#
+
+pilot.1.name=Начальник пожежної служби	### NPC name, referring to their title
+pilot.1.text.1=Не можу повірити, що Agent так швидко навчився передбачати пожежі!	#
+pilot.1.text.2=Маємо поквапитися до цього місця, у якому є ризик виникнення пожежі!	#
+pilot.1.text.3=Повідомте мені, коли будете готові вирушати, пожежа може розгорітися будь-якої миті!	#
+
+pilot.2.name=Начальник пожежної служби	### NPC name, referring to their title
+pilot.2.text.1=Мені щойно надійшло повідомлення від Командного центру. Насувається гроза з великою ймовірністю блискавки! Нам потрібно почати очищати цю територію від сухого чагарнику, перш ніж сюди дійде гроза.	#
+pilot.2.text.2=Нехай Agent прибере той рядок сухого чагарнику, щоб усунути ризик пожежі.	#
+
+firefighter.1.name=Пожежник 		### NPC name, referring to their title
+firefighter.1.text.1=Чудова робота! Ви і ваш Agent змогли усунути всі загрози виникнення пожежі, перш ніж розпочалася гроза, і врятували село!	#
+firefighter.1.text.2=Поки ви тут, чому б вам не допомогти відновити місцевість, посадивши квіти та розвівши тварин?	#
+
+resourcePack.education_demo_world_resources.name=Ресурси демо-світу M:EE	#
+resourcePack.education_demo_world_resources.description=Ресурси клієнта M:EE для демо-світу M:EE.	#
+
+edu_demo.tip.1=У дощових лісах живе більше половини наземних видів тварин планети.	#
+edu_demo.tip.2=Життя понад 25% популяцій у світі залежить від лісів.	#
+edu_demo.tip.3=Для розповсюдження вогню потрібно три речі: пальне, кисень і джерело тепла.	#
+edu_demo.tip.4=Під час пожеж, особливо в торфовищах і густих лісах, вивільняється величезна кількість вуглецю.	#
+edu_demo.tip.5=Комп’ютери теж потрібно навчити вчитися, як і учнів!	#
+edu_demo.tip.6=Збирати дані про ліси й аналізувати їх за допомогою штучного інтелекту виходить швидше, ніж рахувати дерева вручну.	#
+
+menu.quit.edu=ВИЙТИ З УРОКУ	#
+menu.quit.edu.title=Вийти з відкритого уроку	#
+
+start_screen.start_demo=Почати урок	#
+
+lesson.finished=ГОТОВО	### please try to keep this as close to the colloquial form of "I am Finished" as possible. 
+
+lesson.end.dialog.title=Урок завершено!	#
+lesson.end.dialog.body.title=ВІТАЄМО!	#
+lesson.end.dialog.body.wimages=Ви отримали сертифікат про проходження. Перегляньте фотографії з цього уроку та збережіть копію.	#
+lesson.end.dialog.body.checkport=Перегляньте фотографії з цього уроку та збережіть копію.	#
+lesson.end.dialog.body.noimages=Ви отримали сертифікат про проходження.	#
+lesson.end.dialog.button.morecoding=Більше програмування	#
+lesson.end.dialog.button.getcert=Отримати сертифікат	#
+lesson.end.dialog.button.exit=Вийти з уроку	#
+lesson.end.dialog.button.export=Зберегти	#
+
+lesson.end.access.imagespreview=Фотографія з уроку %1 із %2	#
+lesson.end.access.export=Експортувати фотографії з уроку	#

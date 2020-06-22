@@ -1,0 +1,189 @@
+﻿pack.name=Kodetimen-ressurser	#
+pack.description=Ressurser som trengs til Kodetimen	#
+
+item.spawn_egg.entity.pws:npc_2.name=Generer datastyrt figur 2	#
+entity.pws:npc_2.name=Datastyrt figur 2	#
+
+item.spawn_egg.entity.pws:npc_2_firefighter.name=Generer datastyrt figur 2: brannkonstabel	#
+entity.pws:npc_2_firefighter.name=Datastyrt figur 2: brannkonstabel	#
+
+objective=§l§6- Nåværende oppdrag -§r	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+try.again.title=§6Prøv på nytt§r	#
+try.again.subtitle=Gjør et nytt forsøk på oppdraget ditt.	### The term "Quest" is used throughout the lesson to describe the goal-driven activity, usually a coding activity, the user is trying to complete. 
+
+quest.end.title=§6Oppdraget er utført!§r	#
+npc.skip.name=§6Hjelperobot§r	#
+
+no_button.title=§r	#
+no_button.subtitle=Prøv deg på oppdraget først.	#
+
+take.picture=Ta et bilde	#
+
+press_c=§eTrykk på C for å kode, eller trykk på agentikonet.§r	#
+
+quest.1.end.subtitle=Gratulerer, du klarte det!	###subtitles appear on the screen as a success message after the quest has been completed
+quest.2.end.subtitle=Gratulerer, du klarte det!	#
+quest.3.end.subtitle=Gratulerer, du klarte det!	#
+quest.4.end.subtitle=Gratulerer, du klarte det!	#
+quest.5.end.subtitle=Gratulerer, du klarte det!	#
+quest.6.end.subtitle=Gratulerer, du klarte det!	#
+quest.7.end.subtitle=Gratulerer, du klarte det!	#
+quest.8.0.end.subtitle=Gratulerer, du klarte det!	#
+quest.8.end.subtitle=Gratulerer, du klarte det!	#
+quest.9.end.subtitle=Gratulerer, du klarte det!	#
+quest.10.end.subtitle=Gratulerer, du klarte det!	#
+quest.11.end.subtitle=Gratulerer, du klarte det!	#
+quest.12.end.subtitle=Gratulerer, du klarte det!	#
+
+
+900020=§fSnakk med forskeren.	###This section includes the titles of quests, which will remain onscreen until the player completes the quest. 
+900030=§fSnakk med ingeniøren.	#
+900040=§fSnakk med forskeren.	#
+900050=§fFinn og snakk med teknikeren på toppen av tårnet.	#
+900060=§fKlatre ned stigen, og finn forskningssjefen.	#
+900070=§fSnakk med AI-spesialisten.	#
+900071=§fSnakk med AI-spesialisten.	#
+900072=§fSnakk med AI-spesialisten.	#
+900073=§fSnakk med AI-spesialisten.	#
+900080=§fSnakk med forskeren.	#
+900090=§fSnakk med analytikeren.	#
+900100=§fFinn helikopteret, og snakk med brannsjefen.	#
+900110=§fSnakk med brannsjefen.	#
+900120=§fDet brenner! Pass deg!	#
+900130=§fSnakk med brannkonstabelen.	#
+
+welcome.board.title.1=BRANN-	#
+welcome.board.title.2=FORSKNINGS-	#
+welcome.board.title.3=SENTER	#
+
+quest.5.easy=Kort vei	### button name, student selects either the short or long version of a maze path to solve
+quest.5.hard=Lang vei	#
+
+quest.7.yes=Ja	#
+quest.7.no=Nei	#
+quest.7.hazard=Brannfare	#
+
+quest.10.yes=La oss starte!	#
+
+quest.13.done=Jeg er ferdig!	#
+
+ladder.up.1=§r	#
+ladder.up.2=Trykk på W for å	#
+ladder.up.3=klatre i stiger.	#
+ladder.up.4=§r	#
+edge.1=Gå bort til	#
+edge.2=fremspringet.	#
+edge.3=Slapp av,	#
+edge.4=du kan ikke falle utfor!	#
+ladder.down.1=Brannforsknings-	#
+ladder.down.2=senter	#
+ladder.down.3=|	#
+ladder.down.4=V	#
+to.center.1=Brannforsknings-	#
+to.center.2=senter	#
+to.center.3=Denne veien	#
+to.center.4=----->	#
+center.1=§r	#
+center.2=Brannforsknings-	#
+center.3=senter	#
+center.4=§r	#
+to.helipad.1=Helikopterplattform	#
+to.helipad.2=Denne veien	#
+to.helipad.3=<-----	#
+to.helipad.4=§r	#
+
+bot.button.skip=Skipp oppdrag	#
+bot.button.reset=Tilbakestill oppdrag	#
+
+skip.title=§9Oppdrag skippet	#
+skip.subtitle=Hjelperoboten skippet oppdraget!	#
+
+complete.lesson.title=§9Leksjonen er ferdig!	#
+
+bot.name=Hjelperobot	### This is the name of an NPC robot that provides the player with help in completing coding quests. "Bot" refers to the shortened form of "Robot".
+bot.1.text.1=Jeg er hjelperoboten! Hvis du får problemer underveis, er jeg klar til å hjelpe! Jeg kan enten tilbakestille oppdraget eller skippe det for deg.	#
+bot.1.text.2=Jeg kan bare hjelpe deg etter at du har prøvd deg på oppdraget, så husk å prøve selv først!	#
+
+bot.2.text.1=Hei igjen! Hva kan jeg stå til tjeneste med? Jeg kan enten tilbakestille oppdraget eller skippe det helt.	#
+bot.2.text.2=Husk at jeg bare kan hjelpe deg etter at du har prøvd deg på oppdraget, så husk å prøve selv først!	#
+
+researcher.1.name=Høyreklikk på meg!	### NPC name, referring to their title
+researcher.1.text.1=Velkommen til forskningssenteret! Her vil du lære hvordan vi bruker kunstig intelligens og koding til å forebygge branner.	#
+researcher.1.text.2=Den første oppgaven din er å bruke kode til å åpne denne porten.	#
+researcher.1.text.3=Lukk dette chattevinduet for å begynne å kode.	#
+
+engineer.1.name=Ingeniør	### NPC name, referring to their title
+engineer.1.text.1=Dette er agenten. Agenten kan programmeres på samme måte som du gjorde med porten.	#
+engineer.1.text.2=Skriv kode som får agenten til å gå tre skritt fremover og stoppe på markøren.	#
+engineer.1.text.3=Lukk dette chattevinduet for å begynne å kode.	#
+
+researcher.2.name=Forsker	### NPC name, referring to their title
+researcher.2.text.1=Skriv kode som får agenten til å gå fire plasser fremover og deretter analysere det tørre krattet foran seg.	#
+researcher.2.text.2=§r	#
+
+technician.1.name=Tekniker	### NPC name, referring to their title
+technician.1.text.1=Hvis du ser ned fra fremspringet til venstre, vil du se opplæringslabyrinten for agenter. Så ta en titt over kanten. Slapp av, du kan ikke falle utfor!	#
+technician.1.text.2=Velg en vei med knappene under. Skriv kode som leder agenten gjennom labyrinten, frem til det tørre krattet og deretter analyserer det.	#
+
+head.of.research.1.name=Forskningssjef	#
+head.of.research.1.text.1=Den beste måten å forebygge branner på er å lære agenten å identifisere brannfarer.	#
+head.of.research.1.text.2=Bare stig på, så vil AI-spesialisten hjelpe deg å lære opp agenten.	#
+
+technician.2.name=AI-spesialist	### NPC name, referring to their title
+technician.2.text.1=Denne datamaskinen vil hjelpe deg å lære agenten om planter som utgjør en brannfare.	#
+technician.2.text.2=Se på bildene på skjermen. Hvis en plante er gul og tørr, er den en brannfare, så trykk på JA-knappen. Hvis en plante er grønn og frisk, er den IKKE en brannfare, og da trykker du på NEI-knappen.	#
+technician.2.text.3=§r	#
+
+
+scientist.1.name=Forsker	### NPC name, referring to their title
+scientist.1.text.1=For å forebygge branner må agenten fjerne brannfarlige planter fra området.	#
+scientist.1.text.2=La oss nå sette opplæringen vår på prøve! Skriv kode som får agenten til å ødelegge alle plantene som utgjør en brannfare. Lukk chattevinduet for å begynne å kode.	#
+
+scientist.2.name=Analytiker	### NPC name, referring to their title
+scientist.2.text.1=Agenten kan nå bruke bilder til å finne ut hvor det er stor sjanse for at branner kan oppstå.	#
+scientist.2.text.2=Skriv kode som får agenten til å varsle teamet hvis det blir funnet en potensiell brannfare på skjermen.	#
+scientist.2.text.3=Lukk dette chattevinduet for å begynne å kode.	#
+
+pilot.1.name=Brannsjef	### NPC name, referring to their title
+pilot.1.text.1=Det er helt utrolig hvor fort agenten lærte å forutsi branner!	#
+pilot.1.text.2=Vi må skynde oss til dette stedet, for brannfaren er stor der!	#
+pilot.1.text.3=Si fra når du er klar til å dra. Det kan begynne å brenne hvert øyeblikk!	#
+
+pilot.2.name=Brannsjef	### NPC name, referring to their title
+pilot.2.text.1=Jeg fikk nettopp en melding fra kommandosenteret. Det er en storm på vei, og det er stor fare for lyn! Vi må begynne å rydde dette området for tørt kratt før den kommer hit.	#
+pilot.2.text.2=Få agenten til å fjerne linjen med tørt kratt for å eliminere en brannfare.	#
+
+firefighter.1.name=Brannkonstabel 		### NPC name, referring to their title
+firefighter.1.text.1=Godt jobbet! Du og agenten klarte å fjerne brannfarene før stormen brøt løs. Landsbyen er reddet!	#
+firefighter.1.text.2=Når du allerede er her, kan ikke du hjelpe til å skape nytt liv i området ved å plante blomster og generere dyr?	#
+
+resourcePack.education_demo_world_resources.name=Ressurser for M:EE-demoverden	#
+resourcePack.education_demo_world_resources.description=M:EE-klientressurser for M:EE-demoverdenen.	#
+
+edu_demo.tip.1=Regnskogene er hjem for over halvparten av landjordens dyrearter.	#
+edu_demo.tip.2=Mer enn 25 % av jordens befolkning avhenger av skogene for sitt daglige brød.	#
+edu_demo.tip.3=Flammer trenger tre ting for å brenne: brensel, oksygen og en varmekilde.	#
+edu_demo.tip.4=Branner, spesielt på torvmyr og i tett skog, fører til utslipp av enorme mengder karbondioksid.	#
+edu_demo.tip.5=Datamaskiner må læres opp til å lære – nesten som elever!	#
+edu_demo.tip.6=Kunstig intelligens brukes til å samle inn og analysere data om skoger, noe som går mye raskere enn å telle trær manuelt!	#
+
+menu.quit.edu=AVSLUTT LEKSJON	#
+menu.quit.edu.title=Avslutt demoleksjon	#
+
+start_screen.start_demo=Start leksjon	#
+
+lesson.finished=JEG ER FERDIG	### please try to keep this as close to the colloquial form of "I am Finished" as possible. 
+
+lesson.end.dialog.title=Leksjon fullført!	#
+lesson.end.dialog.body.title=GRATULERER	#
+lesson.end.dialog.body.wimages=Du har fått en attest for å ha fullført. Sjekk ut bildene fra denne leksjonen og lagre en kopi.	#
+lesson.end.dialog.body.checkport=Sjekk ut bildene fra denne leksjonen og lagre en kopi.	#
+lesson.end.dialog.body.noimages=Du har fått en attest for å ha fullført.	#
+lesson.end.dialog.button.morecoding=Mer koding	#
+lesson.end.dialog.button.getcert=Få attest	#
+lesson.end.dialog.button.exit=Avslutt leksjon	#
+lesson.end.dialog.button.export=Lagre	#
+
+lesson.end.access.imagespreview=Leksjonsbilde %1 av %2	#
+lesson.end.access.export=Eksporter leksjonsbilder	#
