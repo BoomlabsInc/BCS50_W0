@@ -1,0 +1,1 @@
+setblock 6 3 0 air 0

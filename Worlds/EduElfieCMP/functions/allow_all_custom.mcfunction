@@ -1,0 +1,16 @@
+function allow_custom1
+function allow_custom2
+function allow_custom3
+function allow_custom4
+function allow_custom5
+function allow_custom6
+function allow_custom7
+function allow_custom8
+function allow_custom9
+function allow_custom10
+function allow_custom11
+function allow_custom12
+function allow_custom13
+function allow_custom14
+function allow_custom15
+function allow_custom16

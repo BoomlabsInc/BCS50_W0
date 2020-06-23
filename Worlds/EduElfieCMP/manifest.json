@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "EduElfie Classroom Management Pack",
+        "name": "EduElfie Classroom Management",
+		"uuid": "db35b0ea-5d96-4a23-8248-dbf4ac46fc5f",
+        "version": [1, 8, 2],
+	"min_engine_version": [1, 8, 0]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "data",
+			"uuid": "eb936a99-6a79-4634-95ce-af4d1356896e",
+            "version": [1, 8, 2]
+        }
+    ]
+}

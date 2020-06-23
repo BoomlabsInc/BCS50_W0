@@ -1,0 +1,1 @@
+fill 0 3 1 0 3 6 redstone_block 0 replace

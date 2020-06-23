@@ -1,0 +1,1 @@
+setblock 9 3 5 redstone_block 0
